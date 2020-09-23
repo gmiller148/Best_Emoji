@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#outer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #BADA55;
+}
+#outer #container {
+  background-color: #f3f3f3;
+  color: #663399;
+  padding: 15px 25px;
+  width: 100%;
+  max-width: 300px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+
+
+span.emoji {
+  font-size: 3em;
+  vertical-align: middle;
+}
+
+.details {
+  font-size: 0.75em;
+  color: #c3c3c3;
+}
+
+.github-link {
+  color: #c3c3c3;
+  -o-transition:color .5s ease-out;
+  -ms-transition:color .5s ease-out;
+  -moz-transition:color .5s ease-out;
+  -webkit-transition:color .5s ease-out;
+  /* ...and now for the proper property */
+  transition:color .5s ease-out;
+  text-decoration: underline;
+}
+.github-link:hover{
+  color:  #5dc0ee;
+}
