@@ -1,16 +1,26 @@
 const express = require("express");
 const router = express.Router();
 const _ = require("lodash");
-const nodeEmoji = require("node-emoji");
+const { titleCase } = require('title-case');
 
 const Emoji = require('./schemas/emoji');
 
+const emojiByName = require('./emoji.json');
+const EMOJIS_PER_TABLE = 20;
+
+
+function randomEmoji() {
+  const emojiKeys = Object.keys(emojiByName);
+  const randomIndex = Math.floor(Math.random()*emojiKeys.length);
+  const key = emojiKeys[randomIndex];
+  return { key: key, emoji: emojiByName[key] };
+}
 
 router.get('/emoji', (req,res)=> {
-  emoji1 = nodeEmoji.random();
-  emoji2 = nodeEmoji.random();
+  emoji1 = randomEmoji();
+  emoji2 = randomEmoji();
   while(emoji1.key === emoji2.key) {
-    emoji2 = nodeEmoji.random();
+    emoji2 = randomEmoji();
   }
   
   res.send({
@@ -28,7 +38,7 @@ router.get('/emoji', (req,res)=> {
 router.post('/vote', (req,res) => {
   const {winner, loser} = req.body;
 
-  Emoji.findOne({key: winner}).then(emoji => {
+  Emoji.findOne({name: winner}).then(emoji => {
     if(emoji) {
       emoji.wins += 1;
       emoji.ratio = emoji.wins/(emoji.wins+emoji.losses)
@@ -44,7 +54,7 @@ router.post('/vote', (req,res) => {
     }
   });
 
-  Emoji.findOne({key: loser}).then(emoji => {
+  Emoji.findOne({name: loser}).then(emoji => {
     if(emoji) {
       emoji.losses += 1;
       emoji.ratio = emoji.wins/(emoji.wins+emoji.losses)
@@ -66,16 +76,37 @@ router.post('/vote', (req,res) => {
 
 router.get('/rankings', (req,res) => {
   Emoji.find({}).sort({'ratio': 'descending'}).then(result => {
-    const ret = []
-    for (entry of result) {
-      ret.push({
-        'emoji': nodeEmoji.get(entry.name),
-        'ratio': entry.ratio,
-        'name': entry.name
-      })
+    const top = [];
+    const bottom = [];
+    const numEmojis = Math.min(EMOJIS_PER_TABLE, result.length);
+
+    for(var i = 0; i < numEmojis; i++) {
+      let entry = result[i];
+      top.push({
+        'rank': i+1,
+        'emoji': emojiByName[entry.name],
+        'ratio': Math.round(entry.ratio*100),
+        'name': titleCase(entry.name.toString().replace(/_/g, ' '))
+      });
     }
-    res.send(ret);
+
+    for(var i = result.length - numEmojis; i < result.length; i++) {
+      let entry = result[i];
+      bottom.push({
+        'rank': i+1,
+        'emoji': emojiByName[entry.name],
+        'ratio': Math.round(entry.ratio*100),
+        'name': titleCase(entry.name.toString().replace(/_/g, ' '))
+      });
+    }
+
+    res.send({top:top, bottom:bottom});
   });
+});
+
+router.get('/delete', (req,res) => {
+  Emoji.deleteMany({}, () => {});
+  res.send({});
 });
 
 module.exports = router;

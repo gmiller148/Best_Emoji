@@ -31,20 +31,32 @@
       </ul>
     </div>
   </nav>
-  <table class="table table-hover" id="emoji-table">
+  <table class="table table-hover" >
     <thead>
-      <tr class="tableheaders">
+      <tr class="tableheaders table-success">
         <th scope="col" id="no-0">Rank</th>
         <th scope="col" id="no-1">Emoji</th>
         <th scope="col" id="no-2">Name</th>
         <th scope="col" id="no-3">Win %</th>
       </tr>
     </thead>
-    <tbody id='table-body'>
+    <tbody id='top-table'>
     </tbody>
   </table>
+  <table class="table table-hover" id="emoji-table">
+      <thead>
+        <tr class="tableheaders table-danger">
+          <th scope="col" id="no-0">Rank</th>
+          <th scope="col" id="no-1">Emoji</th>
+          <th scope="col" id="no-2">Name</th>
+          <th scope="col" id="no-3">Win %</th>
+        </tr>
+      </thead>
+      <tbody id='bottom-table'>
+      </tbody>
+    </table>
 
-  <footer class='footer fixed-bottom'>
+  <footer class='footer fixed-bottom bg-light'>
     <div class="details col text-center">
       Made by <a class="github-link" href="https://github.com/gmiller148">Grant Miller</a>
     </div>

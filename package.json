@@ -21,7 +21,8 @@
     "mongodb": "^3.6.2",
     "mongoose": "^5.10.6",
     "node-emoji": "^1.10.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "title-case": "^3.0.2"
   },
   "devDependencies": {
     "eslint": "^7.9.0"
