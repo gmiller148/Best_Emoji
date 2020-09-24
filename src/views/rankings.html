@@ -15,7 +15,7 @@
 
 <body>
   <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand text-primary" href="#">EmojiMap</a>
+    <a class="navbar-brand text-primary" href="/">EmojiMap</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -31,30 +31,30 @@
       </ul>
     </div>
   </nav>
-  <table class="table table-hover" >
+  <table class="table table-hover">
     <thead>
       <tr class="tableheaders table-success">
         <th scope="col" id="no-0">Rank</th>
         <th scope="col" id="no-1">Emoji</th>
-        <th scope="col" id="no-2">Name</th>
-        <th scope="col" id="no-3">Win %</th>
+        <th scope="col" id="no-2" style="width:100%">Name</th>
+        <th scope="col" id="no-3">Elo</th>
       </tr>
     </thead>
     <tbody id='top-table'>
     </tbody>
   </table>
   <table class="table table-hover" id="emoji-table">
-      <thead>
-        <tr class="tableheaders table-danger">
-          <th scope="col" id="no-0">Rank</th>
-          <th scope="col" id="no-1">Emoji</th>
-          <th scope="col" id="no-2">Name</th>
-          <th scope="col" id="no-3">Win %</th>
-        </tr>
-      </thead>
-      <tbody id='bottom-table'>
-      </tbody>
-    </table>
+    <thead>
+      <tr class="tableheaders table-danger">
+        <th scope="col" id="no-0">Rank</th>
+        <th scope="col" id="no-1">Emoji</th>
+        <th scope="col" id="no-2" style="width:100%">Name</th>
+        <th scope="col" id="no-3">Elo</th>
+      </tr>
+    </thead>
+    <tbody id='bottom-table'>
+    </tbody>
+  </table>
 
   <footer class='footer fixed-bottom bg-light'>
     <div class="details col text-center">

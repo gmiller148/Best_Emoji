@@ -12,7 +12,7 @@ async function populateTable() {
       let emojiTr = document.createElement('tr');
 
       let rankTd = document.createElement('td');
-      rankTd.innerText = top[i].rank;
+      rankTd.innerHTML = '<b>' + top[i].rank + '</b>';
       emojiTr.appendChild(rankTd);
 
       let emojiTd = document.createElement('td');
@@ -24,7 +24,7 @@ async function populateTable() {
       emojiTr.appendChild(nameTd);
 
       let winTd = document.createElement('td');
-      winTd.innerText = top[i].ratio;
+      winTd.innerText = top[i].elo;
       emojiTr.appendChild(winTd);
 
       tableBody.appendChild(emojiTr);
@@ -36,7 +36,7 @@ async function populateTable() {
       let emojiTr = document.createElement('tr');
 
       let rankTd = document.createElement('td');
-      rankTd.innerText = bottom[i].rank;
+      rankTd.innerHTML = '<b>' + bottom[i].rank +'</b>';
       emojiTr.appendChild(rankTd);
 
       let emojiTd = document.createElement('td');
@@ -48,7 +48,7 @@ async function populateTable() {
       emojiTr.appendChild(nameTd);
 
       let winTd = document.createElement('td');
-      winTd.innerText = bottom[i].ratio;
+      winTd.innerText = bottom[i].elo;
       emojiTr.appendChild(winTd);
 
       bottomBody.appendChild(emojiTr);

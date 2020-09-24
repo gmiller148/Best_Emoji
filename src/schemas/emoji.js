@@ -6,7 +6,7 @@ const Emoji = new mongoose.Schema({
   name: String,
   wins: Number,
   losses: Number,
-  ratio: Number
+  elo: Number
 });
 
 // compile model from schema
