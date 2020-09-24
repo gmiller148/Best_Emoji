@@ -114,7 +114,7 @@ router.get('/rankings', (req,res) => {
 
     res.send({top:top, bottom:bottom});
   });
-});
+}); 
 
 // router.get('/delete', (req,res) => {
 //   Emoji.deleteMany({}, () => {});
