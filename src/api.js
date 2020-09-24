@@ -6,7 +6,7 @@ const { titleCase } = require('title-case');
 const Emoji = require('./schemas/emoji');
 
 const emojiByName = require('./emoji.json');
-const EMOJIS_PER_TABLE = 20;
+const EMOJIS_PER_TABLE = 10;
 const ELO_SCALE = 32;
 
 
