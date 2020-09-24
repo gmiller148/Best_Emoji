@@ -28,39 +28,54 @@ router.get('/emoji', (req,res)=> {
 router.post('/vote', (req,res) => {
   const {winner, loser} = req.body;
 
-  // Emoji.findOne({key: winner}).then(emoji => {
-  //   if(emoji) {
-  //     emoji.wins += 1;
-  //     emoji.ratio = emoji.wins/(emoji.wins+emoji.losses)
-  //     emoji.save();
-  //   } else {
-  //     let newEmoji = new Emoji({
-  //       name: winner,
-  //       wins: 1,
-  //       losses: 0,
-  //       ratio: 1
-  //     });
-  //     newEmoji.save();
-  //   }
-  // });
+  Emoji.findOne({key: winner}).then(emoji => {
+    if(emoji) {
+      emoji.wins += 1;
+      emoji.ratio = emoji.wins/(emoji.wins+emoji.losses)
+      emoji.save();
+    } else {
+      let newEmoji = new Emoji({
+        name: winner,
+        wins: 1,
+        losses: 0,
+        ratio: 1
+      });
+      newEmoji.save();
+    }
+  });
 
-  // Emoji.findOne({key: loser}).then(emoji => {
-  //   if(emoji) {
-  //     emoji.losses += 1;
-  //     emoji.ratio = emoji.wins/(emoji.wins+emoji.losses)
-  //     emoji.save();
-  //   } else {
-  //     let newEmoji = new Emoji({
-  //       name: loser,
-  //       wins: 0,
-  //       losses: 1,
-  //       ratio: 0
-  //     });
-  //     newEmoji.save();
-  //   }
-  // });
+  Emoji.findOne({key: loser}).then(emoji => {
+    if(emoji) {
+      emoji.losses += 1;
+      emoji.ratio = emoji.wins/(emoji.wins+emoji.losses)
+      emoji.save();
+    } else {
+      let newEmoji = new Emoji({
+        name: loser,
+        wins: 0,
+        losses: 1,
+        ratio: 0
+      });
+      newEmoji.save();
+    }
+  });
 
   res.send({});
+});
+
+
+router.get('/rankings', (req,res) => {
+  Emoji.find({}).sort({'ratio': 'descending'}).then(result => {
+    const ret = []
+    for (entry of result) {
+      ret.push({
+        'emoji': nodeEmoji.get(entry.name),
+        'ratio': entry.ratio,
+        'name': entry.name
+      })
+    }
+    res.send(ret);
+  });
 });
 
 module.exports = router;

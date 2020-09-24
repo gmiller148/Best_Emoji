@@ -1,4 +1,8 @@
 
+function main() {
+  populateEmojiButtons();
+}
+
 async function getEmojis() {
   const emojis = await get('/api/emoji', {});
   console.log(emojis);
@@ -33,4 +37,5 @@ async function vote1() {
   });
   populateEmojiButtons();
 }
-populateEmojiButtons();
+
+main();
