@@ -4,7 +4,7 @@ function main() {
 
 async function populateTable() {
 
-  await get('/api/rankings', {}).then(rankings => {
+  get('/api/rankings', {}).then(rankings => {
     const { top, bottom } = rankings;
     let tableBody = document.getElementById("top-table");
     tableBody.innerHTML = "";
