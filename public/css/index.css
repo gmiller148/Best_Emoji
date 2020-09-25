@@ -50,3 +50,7 @@ span.emoji {
 .github-link:hover{
   color:  #5dc0ee;
 }
+
+button.btn:hover {
+  background-color: inherit;
+}

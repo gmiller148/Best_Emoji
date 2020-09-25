@@ -1,0 +1,8096 @@
+{
+  _id: 5f6d314137a60f0004c5edd9,
+  name: 'musical_note',
+  wins: 6,
+  losses: 1,
+  elo: 1082.0999908503438,
+  __v: 0
+}, 
+{
+  _id: 5f6d314137a60f0004c5edda,
+  name: 'rice_ball',
+  wins: 1,
+  losses: 2,
+  elo: 983.4043149490969,
+  __v: 0
+}, 
+{
+  _id: 5f6d314437a60f0004c5eddb,
+  name: 'pensive_face',
+  wins: 7,
+  losses: 3,
+  elo: 1066.0853976991204,
+  __v: 0
+}, 
+{
+  _id: 5f6d314437a60f0004c5eddc,
+  name: 'flower_playing_cards',
+  wins: 4,
+  losses: 7,
+  elo: 954.0652630823909,
+  __v: 0
+}, 
+{
+  _id: 5f6d314637a60f0004c5eddd,
+  name: 'lollipop',
+  wins: 4,
+  losses: 3,
+  elo: 1014.4309624925008,
+  __v: 0
+}, 
+{
+  _id: 5f6d314637a60f0004c5edde,
+  name: 'test_tube',
+  wins: 3,
+  losses: 3,
+  elo: 995.8438200219589,
+  __v: 0
+}, 
+{
+  _id: 5f6d314837a60f0004c5eddf,
+  name: 'barber_pole',
+  wins: 2,
+  losses: 3,
+  elo: 984.8822751121207,
+  __v: 0
+}, 
+{
+  _id: 5f6d314837a60f0004c5ede0,
+  name: 'scroll',
+  wins: 1,
+  losses: 8,
+  elo: 898.1277347056033,
+  __v: 0
+}, 
+{
+  _id: 5f6d314b37a60f0004c5ede1,
+  name: 'first_quarter_moon_face',
+  wins: 3,
+  losses: 0,
+  elo: 1051.7706449624443,
+  __v: 0
+}, 
+{
+  _id: 5f6d314b37a60f0004c5ede2,
+  name: 'man_teacher',
+  wins: 2,
+  losses: 8,
+  elo: 917.1574162727192,
+  __v: 0
+}, 
+{
+  _id: 5f6d314c37a60f0004c5ede3,
+  name: 'auto_rickshaw',
+  wins: 3,
+  losses: 6,
+  elo: 948.7557084406805,
+  __v: 0
+}, 
+{
+  _id: 5f6d314c37a60f0004c5ede4,
+  name: 'face_with_thermometer',
+  wins: 3,
+  losses: 3,
+  elo: 1002.013893805489,
+  __v: 0
+}, 
+{
+  _id: 5f6d316537a60f0004c5ede5,
+  name: 'movie_camera',
+  wins: 1,
+  losses: 3,
+  elo: 972.3954810302473,
+  __v: 0
+}, 
+{
+  _id: 5f6d316537a60f0004c5ede6,
+  name: 'pig_face',
+  wins: 1,
+  losses: 3,
+  elo: 965.9625144319152,
+  __v: 0
+}, 
+{
+  _id: 5f6d316737a60f0004c5ede7,
+  name: 'tiger_face',
+  wins: 2,
+  losses: 4,
+  elo: 967.2896864371038,
+  __v: 0
+}, 
+{
+  _id: 5f6d316737a60f0004c5ede8,
+  name: 'men_holding_hands',
+  wins: 1,
+  losses: 4,
+  elo: 948.5960563590568,
+  __v: 0
+}, 
+{
+  _id: 5f6d316e37a60f0004c5ede9,
+  name: 'Farmer',
+  wins: 9,
+  losses: 1,
+  elo: 1152.243886470781,
+  __v: 0
+}, 
+{
+  _id: 5f6d316e37a60f0004c5edea,
+  name: 'poultry_leg',
+  wins: 4,
+  losses: 2,
+  elo: 1029.5310437217474,
+  __v: 0
+}, 
+{
+  _id: 5f6d317937a60f0004c5edeb,
+  name: 'love_hotel',
+  wins: 10,
+  losses: 5,
+  elo: 1083.430174741913,
+  __v: 0
+}, 
+{
+  _id: 5f6d317937a60f0004c5edec,
+  name: 'memo',
+  wins: 1,
+  losses: 6,
+  elo: 928.2235101539903,
+  __v: 0
+}, 
+{
+  _id: 5f6d318637a60f0004c5eded,
+  name: 'oncoming_fist',
+  wins: 2,
+  losses: 5,
+  elo: 957.6620687727528,
+  __v: 0
+}, 
+{
+  _id: 5f6d318637a60f0004c5edee,
+  name: 'wheel_of_dharma',
+  wins: 0,
+  losses: 5,
+  elo: 926.9329774343311,
+  __v: 0
+}, 
+{
+  _id: 5f6d325f37a60f0004c5edef,
+  name: 'person_in_bed',
+  wins: 2,
+  losses: 2,
+  elo: 999.1116831398581,
+  __v: 0
+}, 
+{
+  _id: 5f6d325f37a60f0004c5edf0,
+  name: 'tractor',
+  wins: 1,
+  losses: 2,
+  elo: 986.5932500017187,
+  __v: 0
+}, 
+{
+  _id: 5f6d326237a60f0004c5edf1,
+  name: 'grinning_face_with_big_eyes',
+  wins: 1,
+  losses: 0,
+  elo: 1016,
+  __v: 0
+}, 
+{
+  _id: 5f6d326237a60f0004c5edf2,
+  name: 'boy',
+  wins: 1,
+  losses: 3,
+  elo: 970.1538445578369,
+  __v: 0
+}, 
+{
+  _id: 5f6d326837a60f0004c5edf3,
+  name: 'thermometer',
+  wins: 4,
+  losses: 3,
+  elo: 1012.8449540016338,
+  __v: 0
+}, 
+{
+  _id: 5f6d326837a60f0004c5edf4,
+  name: 'probing_cane',
+  wins: 2,
+  losses: 1,
+  elo: 1014.3030182373986,
+  __v: 0
+}, 
+{
+  _id: 5f6d326a37a60f0004c5edf5,
+  name: 'snow-capped_mountain',
+  wins: 4,
+  losses: 2,
+  elo: 1024.562820460732,
+  __v: 0
+}, 
+{
+  _id: 5f6d326a37a60f0004c5edf6,
+  name: 'red_apple',
+  wins: 3,
+  losses: 2,
+  elo: 1021.0437750444283,
+  __v: 0
+}, 
+{
+  _id: 5f6d326d37a60f0004c5edf7,
+  name: 'kitchen_knife',
+  wins: 6,
+  losses: 3,
+  elo: 1048.8845272875183,
+  __v: 0
+}, 
+{
+  _id: 5f6d326d37a60f0004c5edf8,
+  name: 'full_moon',
+  wins: 4,
+  losses: 2,
+  elo: 1033.890606176787,
+  __v: 0
+}, 
+{
+  _id: 5f6d326e37a60f0004c5edf9,
+  name: 'bear',
+  wins: 3,
+  losses: 2,
+  elo: 1014.5436265723912,
+  __v: 0
+}, 
+{
+  _id: 5f6d326e37a60f0004c5edfa,
+  name: 'tulip',
+  wins: 3,
+  losses: 5,
+  elo: 962.7481664833309,
+  __v: 0
+}, 
+{
+  _id: 5f6d327a37a60f0004c5edfb,
+  name: 'OK_hand',
+  wins: 1,
+  losses: 1,
+  elo: 999.263693206478,
+  __v: 0
+}, 
+{
+  _id: 5f6d327a37a60f0004c5edfc,
+  name: 'disappointed_face',
+  wins: 6,
+  losses: 5,
+  elo: 1021.1927167213771,
+  __v: 0
+}, 
+{
+  _id: 5f6d327d37a60f0004c5edfd,
+  name: 'mage',
+  wins: 2,
+  losses: 4,
+  elo: 965.1332324367919,
+  __v: 0
+}, 
+{
+  _id: 5f6d327d37a60f0004c5edfe,
+  name: 'grinning_squinting_face',
+  wins: 1,
+  losses: 2,
+  elo: 983.2605079674106,
+  __v: 0
+}, 
+{
+  _id: 5f6d327f37a60f0004c5edff,
+  name: 'chair',
+  wins: 3,
+  losses: 4,
+  elo: 981.3683734027442,
+  __v: 0
+}, 
+{
+  _id: 5f6d327f37a60f0004c5ee00,
+  name: 'recycling_symbol',
+  wins: 3,
+  losses: 8,
+  elo: 924.0237334539952,
+  __v: 0
+}, 
+{
+  _id: 5f6d328337a60f0004c5ee01,
+  name: 'woman_with_headscarf',
+  wins: 2,
+  losses: 2,
+  elo: 999.5345441295045,
+  __v: 0
+}, 
+{
+  _id: 5f6d328337a60f0004c5ee02,
+  name: 'doughnut',
+  wins: 2,
+  losses: 1,
+  elo: 1013.8650119202822,
+  __v: 0
+}, 
+{
+  _id: 5f6d328437a60f0004c5ee03,
+  name: 'fortune_cookie',
+  wins: 1,
+  losses: 4,
+  elo: 952.2303228152675,
+  __v: 0
+}, 
+{
+  _id: 5f6d328437a60f0004c5ee04,
+  name: 'man_health_worker',
+  wins: 2,
+  losses: 6,
+  elo: 951.935749629207,
+  __v: 0
+}, 
+{
+  _id: 5f6d328637a60f0004c5ee05,
+  name: 'spider',
+  wins: 4,
+  losses: 3,
+  elo: 1010.6345941941079,
+  __v: 0
+}, 
+{
+  _id: 5f6d328637a60f0004c5ee06,
+  name: 'sneezing_face',
+  wins: 1,
+  losses: 2,
+  elo: 983.9646839351453,
+  __v: 0
+}, 
+{
+  _id: 5f6d3290761afc0004f98b66,
+  name: 'television',
+  wins: 9,
+  losses: 1,
+  elo: 1155.8626330484983,
+  __v: 0
+}, 
+{
+  _id: 5f6d3290761afc0004f98b67,
+  name: 'fire_extinguisher',
+  wins: 7,
+  losses: 9,
+  elo: 974.1689081940141,
+  __v: 0
+}, 
+{
+  _id: 5f6d3293761afc0004f98b68,
+  name: 'taco',
+  wins: 2,
+  losses: 1,
+  elo: 1016.7346771255715,
+  __v: 0
+}, 
+{
+  _id: 5f6d3293761afc0004f98b69,
+  name: 'horse_face',
+  wins: 5,
+  losses: 5,
+  elo: 987.1323293753823,
+  __v: 0
+}, 
+{
+  _id: 5f6d3296761afc0004f98b6a,
+  name: 'socks',
+  wins: 4,
+  losses: 1,
+  elo: 1051.7702390538418,
+  __v: 0
+}, 
+{
+  _id: 5f6d3296761afc0004f98b6b,
+  name: 'carrot',
+  wins: 1,
+  losses: 7,
+  elo: 917.6021880064059,
+  __v: 0
+}, 
+{
+  _id: 5f6d3299761afc0004f98b6c,
+  name: 'bookmark_tabs',
+  wins: 3,
+  losses: 1,
+  elo: 1032.0342799346836,
+  __v: 0
+}, 
+{
+  _id: 5f6d3299761afc0004f98b6d,
+  name: 'railway_track',
+  wins: 1,
+  losses: 7,
+  elo: 913.1010944194976,
+  __v: 0
+}, 
+{
+  _id: 5f6d329b761afc0004f98b6e,
+  name: 'backpack',
+  wins: 4,
+  losses: 3,
+  elo: 1012.9168692198991,
+  __v: 0
+}, 
+{
+  _id: 5f6d329b761afc0004f98b6f,
+  name: 'boxing_glove',
+  wins: 3,
+  losses: 2,
+  elo: 1018.3074168803312,
+  __v: 0
+}, 
+{
+  _id: 5f6d329c761afc0004f98b70,
+  name: 'guide_dog',
+  wins: 3,
+  losses: 0,
+  elo: 1049.5875248996115,
+  __v: 0
+}, 
+{
+  _id: 5f6d329c761afc0004f98b71,
+  name: 'weary_face',
+  wins: 4,
+  losses: 5,
+  elo: 982.9804741470512,
+  __v: 0
+}, 
+{
+  _id: 5f6d329f761afc0004f98b72,
+  name: 'white_hair',
+  wins: 1,
+  losses: 2,
+  elo: 981.2661927029001,
+  __v: 0
+}, 
+{
+  _id: 5f6d329f761afc0004f98b73,
+  name: 'oden',
+  wins: 1,
+  losses: 3,
+  elo: 973.366487331572,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a1761afc0004f98b74,
+  name: 'carp_streamer',
+  wins: 5,
+  losses: 6,
+  elo: 980.4055194139199,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a1761afc0004f98b75,
+  name: 'women_holding_hands',
+  wins: 4,
+  losses: 1,
+  elo: 1050.7030533983195,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a3761afc0004f98b76,
+  name: 'fuel_pump',
+  wins: 3,
+  losses: 3,
+  elo: 999.4967625611068,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a3761afc0004f98b77,
+  name: 'printer',
+  wins: 2,
+  losses: 4,
+  elo: 963.6860114144511,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a7761afc0004f98b78,
+  name: 'Judge',
+  wins: 7,
+  losses: 2,
+  elo: 1083.687526252489,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a7761afc0004f98b79,
+  name: 'hibiscus',
+  wins: 2,
+  losses: 4,
+  elo: 963.3957667846638,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a9761afc0004f98b7a,
+  name: 'burrito',
+  wins: 5,
+  losses: 3,
+  elo: 1023.5669031858923,
+  __v: 0
+}, 
+{
+  _id: 5f6d32a9761afc0004f98b7b,
+  name: 'necktie',
+  wins: 2,
+  losses: 3,
+  elo: 984.3004227186553,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ab761afc0004f98b7c,
+  name: 'peanuts',
+  wins: 3,
+  losses: 2,
+  elo: 1015.2360806297771,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ab761afc0004f98b7d,
+  name: 'diya_lamp',
+  wins: 0,
+  losses: 4,
+  elo: 937.5898635079623,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ac761afc0004f98b7e,
+  name: 'FREE_button',
+  wins: 4,
+  losses: 3,
+  elo: 1015.3695066046133,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ac761afc0004f98b7f,
+  name: 'potable_water',
+  wins: 4,
+  losses: 2,
+  elo: 1026.5287582431936,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ac761afc0004f98b80,
+  name: 'lobster',
+  wins: 6,
+  losses: 2,
+  elo: 1069.3573965053463,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ac761afc0004f98b81,
+  name: 'anxious_face_with_sweat',
+  wins: 3,
+  losses: 3,
+  elo: 998.5008470175845,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ae761afc0004f98b82,
+  name: 'honey_pot',
+  wins: 6,
+  losses: 4,
+  elo: 1034.668298102009,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ae761afc0004f98b83,
+  name: 'woman_office_worker',
+  wins: 1,
+  losses: 3,
+  elo: 964.2714467924462,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b1761afc0004f98b84,
+  name: 'graduation_cap',
+  wins: 2,
+  losses: 3,
+  elo: 988.7625125913426,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b3761afc0004f98b85,
+  name: 'waning_gibbous_moon',
+  wins: 7,
+  losses: 4,
+  elo: 1044.1424249606832,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b3761afc0004f98b86,
+  name: 'taxi',
+  wins: 1,
+  losses: 2,
+  elo: 983.263693206478,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b5761afc0004f98b87,
+  name: 'flexed_biceps',
+  wins: 5,
+  losses: 1,
+  elo: 1065.2810313125228,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b5761afc0004f98b88,
+  name: 'hugging_face',
+  wins: 7,
+  losses: 2,
+  elo: 1093.404685607038,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b5761afc0004f98b89,
+  name: 'luggage',
+  wins: 1,
+  losses: 3,
+  elo: 969.6025767649356,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b5761afc0004f98b8a,
+  name: 'fork_and_knife',
+  wins: 2,
+  losses: 3,
+  elo: 982.525275432374,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b7761afc0004f98b8b,
+  name: 'bug',
+  wins: 3,
+  losses: 2,
+  elo: 1018.7574295696828,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b7761afc0004f98b8c,
+  name: 'diamond_suit',
+  wins: 0,
+  losses: 6,
+  elo: 917.2842197219454,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b7761afc0004f98b8d,
+  name: 'turtle',
+  wins: 4,
+  losses: 0,
+  elo: 1070.7800600033315,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b7761afc0004f98b8e,
+  name: 'desktop_computer',
+  wins: 2,
+  losses: 5,
+  elo: 958.2979585967436,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b9761afc0004f98b8f,
+  name: 'palms_up_together',
+  wins: 7,
+  losses: 1,
+  elo: 1103.509613763247,
+  __v: 0
+}, 
+{
+  _id: 5f6d32b9761afc0004f98b90,
+  name: 'lady_beetle',
+  wins: 2,
+  losses: 3,
+  elo: 980.3274313921415,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ba761afc0004f98b91,
+  name: 'seedling',
+  wins: 5,
+  losses: 1,
+  elo: 1070.267562149813,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ba761afc0004f98b92,
+  name: 'candy',
+  wins: 4,
+  losses: 5,
+  elo: 986.6871185039761,
+  __v: 0
+}, 
+{
+  _id: 5f6d32bc761afc0004f98b93,
+  name: 'relieved_face',
+  wins: 2,
+  losses: 1,
+  elo: 1014.5304984710245,
+  __v: 0
+}, 
+{
+  _id: 5f6d32bc761afc0004f98b94,
+  name: 'shorts',
+  wins: 5,
+  losses: 1,
+  elo: 1064.966144994983,
+  __v: 0
+}, 
+{
+  _id: 5f6d32bf761afc0004f98b95,
+  name: 'telescope',
+  wins: 3,
+  losses: 1,
+  elo: 1031.3345247613736,
+  __v: 0
+}, 
+{
+  _id: 5f6d32bf761afc0004f98b96,
+  name: 'dolphin',
+  wins: 4,
+  losses: 2,
+  elo: 1031.2275484604882,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c2761afc0004f98b97,
+  name: 'pouting_face',
+  wins: 3,
+  losses: 1,
+  elo: 1034.061313084621,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c2761afc0004f98b98,
+  name: 'snowman_without_snow',
+  wins: 4,
+  losses: 3,
+  elo: 1015.1198720479083,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c4761afc0004f98b99,
+  name: 'trident_emblem',
+  wins: 4,
+  losses: 0,
+  elo: 1067.0139946936918,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c4761afc0004f98b9a,
+  name: 'syringe',
+  wins: 2,
+  losses: 4,
+  elo: 969.7184868926211,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c6761afc0004f98b9b,
+  name: 'pistol',
+  wins: 3,
+  losses: 2,
+  elo: 1016.7908934981616,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c6761afc0004f98b9c,
+  name: 'man_artist',
+  wins: 3,
+  losses: 3,
+  elo: 993.936280940116,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c8761afc0004f98b9d,
+  name: 'globe_showing_Americas',
+  wins: 2,
+  losses: 1,
+  elo: 1017.5465276559408,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c8761afc0004f98b9e,
+  name: 'Scientist',
+  wins: 0,
+  losses: 3,
+  elo: 955.3265187642436,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c9761afc0004f98b9f,
+  name: 'ice_cube',
+  wins: 5,
+  losses: 2,
+  elo: 1047.1924931599133,
+  __v: 0
+}, 
+{
+  _id: 5f6d32c9761afc0004f98ba0,
+  name: 'tram',
+  wins: 2,
+  losses: 3,
+  elo: 980.1359739908507,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ca761afc0004f98ba1,
+  name: 'bottle_with_popping_cork',
+  wins: 2,
+  losses: 6,
+  elo: 938.7116400650907,
+  __v: 0
+}, 
+{
+  _id: 5f6d32cc761afc0004f98ba2,
+  name: 'american_football',
+  wins: 1,
+  losses: 1,
+  elo: 999.2297956446604,
+  __v: 0
+}, 
+{
+  _id: 5f6d32cc761afc0004f98ba3,
+  name: 'cup_with_straw',
+  wins: 2,
+  losses: 3,
+  elo: 982.9729778298154,
+  __v: 0
+}, 
+{
+  _id: 5f6d32cc761afc0004f98ba4,
+  name: 'salt',
+  wins: 5,
+  losses: 3,
+  elo: 1036.4949551819252,
+  __v: 0
+}, 
+{
+  _id: 5f6d32cc761afc0004f98ba5,
+  name: 'face_with_medical_mask',
+  wins: 3,
+  losses: 1,
+  elo: 1033.3370506281183,
+  __v: 0
+}, 
+{
+  _id: 5f6d32cd761afc0004f98ba6,
+  name: 'clown_face',
+  wins: 3,
+  losses: 5,
+  elo: 968.8087546324892,
+  __v: 0
+}, 
+{
+  _id: 5f6d32cd761afc0004f98ba7,
+  name: 'neutral_face',
+  wins: 3,
+  losses: 3,
+  elo: 999.220123912367,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ce761afc0004f98ba8,
+  name: 'sloth',
+  wins: 4,
+  losses: 3,
+  elo: 1018.7185539915752,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ce761afc0004f98ba9,
+  name: 'person_shrugging',
+  wins: 0,
+  losses: 2,
+  elo: 970.090445720217,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d0761afc0004f98baa,
+  name: 'factory',
+  wins: 2,
+  losses: 3,
+  elo: 982.6140896852706,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d0761afc0004f98bab,
+  name: 'file_folder',
+  wins: 3,
+  losses: 3,
+  elo: 1000.417340335977,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d1761afc0004f98bac,
+  name: 'wastebasket',
+  wins: 4,
+  losses: 2,
+  elo: 1031.1655158118456,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d1761afc0004f98bad,
+  name: 'coconut',
+  wins: 2,
+  losses: 5,
+  elo: 954.875803933106,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d2761afc0004f98bae,
+  name: 'man_in_suit_levitating',
+  wins: 4,
+  losses: 1,
+  elo: 1052.6531270352289,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d4761afc0004f98baf,
+  name: 'grinning_face_with_sweat',
+  wins: 4,
+  losses: 1,
+  elo: 1045.868752026762,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d4761afc0004f98bb0,
+  name: 'high-heeled_shoe',
+  wins: 0,
+  losses: 1,
+  elo: 984,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d4761afc0004f98bb1,
+  name: 'stuffed_flatbread',
+  wins: 3,
+  losses: 0,
+  elo: 1047.8574935026886,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d4761afc0004f98bb2,
+  name: 'girl',
+  wins: 1,
+  losses: 4,
+  elo: 958.9079556630434,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d6761afc0004f98bb3,
+  name: 'woman_scientist',
+  wins: 4,
+  losses: 5,
+  elo: 982.9475389806532,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d6761afc0004f98bb4,
+  name: 'headphone',
+  wins: 3,
+  losses: 3,
+  elo: 997.0607766956335,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d6761afc0004f98bb5,
+  name: 'middle_finger',
+  wins: 3,
+  losses: 1,
+  elo: 1034.861857082057,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d6761afc0004f98bb6,
+  name: 'mouse',
+  wins: 3,
+  losses: 3,
+  elo: 994.8756679751395,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d7761afc0004f98bb7,
+  name: 'glass_of_milk',
+  wins: 6,
+  losses: 3,
+  elo: 1046.2590475097222,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d7761afc0004f98bb8,
+  name: 'ox',
+  wins: 3,
+  losses: 5,
+  elo: 963.8424714462727,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d9761afc0004f98bb9,
+  name: 'speedboat',
+  wins: 4,
+  losses: 4,
+  elo: 999.2689911416747,
+  __v: 0
+}, 
+{
+  _id: 5f6d32d9761afc0004f98bba,
+  name: 'love_letter',
+  wins: 3,
+  losses: 1,
+  elo: 1030.4965073502729,
+  __v: 0
+}, 
+{
+  _id: 5f6d32da761afc0004f98bbb,
+  name: 'jack-o-lantern',
+  wins: 1,
+  losses: 0,
+  elo: 1016,
+  __v: 0
+}, 
+{
+  _id: 5f6d32da761afc0004f98bbc,
+  name: 'ear_of_corn',
+  wins: 3,
+  losses: 6,
+  elo: 950.7057778137013,
+  __v: 0
+}, 
+{
+  _id: 5f6d32db761afc0004f98bbd,
+  name: 'person_climbing',
+  wins: 5,
+  losses: 4,
+  elo: 1012.1311694542196,
+  __v: 0
+}, 
+{
+  _id: 5f6d32db761afc0004f98bbe,
+  name: 'bed',
+  wins: 2,
+  losses: 4,
+  elo: 966.6865378063058,
+  __v: 0
+}, 
+{
+  _id: 5f6d32db761afc0004f98bbf,
+  name: 'sake',
+  wins: 2,
+  losses: 3,
+  elo: 981.1361286141664,
+  __v: 0
+}, 
+{
+  _id: 5f6d32de761afc0004f98bc0,
+  name: 'peach',
+  wins: 4,
+  losses: 0,
+  elo: 1062.9930504408267,
+  __v: 0
+}, 
+{
+  _id: 5f6d32de761afc0004f98bc1,
+  name: 'yarn',
+  wins: 6,
+  losses: 2,
+  elo: 1068.6195506230188,
+  __v: 0
+}, 
+{
+  _id: 5f6d32de761afc0004f98bc2,
+  name: 'bowling',
+  wins: 6,
+  losses: 2,
+  elo: 1065.4152075402567,
+  __v: 0
+}, 
+{
+  _id: 5f6d32de761afc0004f98bc3,
+  name: 'person_rowing_boat',
+  wins: 1,
+  losses: 3,
+  elo: 963.7113537186217,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e0761afc0004f98bc4,
+  name: 'bagel',
+  wins: 3,
+  losses: 2,
+  elo: 1010.5274275120887,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e0761afc0004f98bc5,
+  name: 'cloud_with_rain',
+  wins: 5,
+  losses: 1,
+  elo: 1069.6192643384984,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e3761afc0004f98bc6,
+  name: 'card_index',
+  wins: 3,
+  losses: 5,
+  elo: 973.2162062636658,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e4761afc0004f98bc7,
+  name: 'heavy_dollar_sign',
+  wins: 3,
+  losses: 1,
+  elo: 1032.5472326222414,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e4761afc0004f98bc8,
+  name: 'sandwich',
+  wins: 2,
+  losses: 3,
+  elo: 981.0802056472307,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e5761afc0004f98bc9,
+  name: 'service_dog',
+  wins: 3,
+  losses: 1,
+  elo: 1030.3584835571623,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e5761afc0004f98bca,
+  name: 'receipt',
+  wins: 2,
+  losses: 3,
+  elo: 979.571293005466,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e5761afc0004f98bcb,
+  name: 'water_buffalo',
+  wins: 6,
+  losses: 3,
+  elo: 1045.213116900184,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e5761afc0004f98bcc,
+  name: 'face_with_open_mouth',
+  wins: 2,
+  losses: 1,
+  elo: 1017.5072670635622,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e7761afc0004f98bcd,
+  name: 'snail',
+  wins: 5,
+  losses: 3,
+  elo: 1032.7771559942569,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e7761afc0004f98bce,
+  name: 'notebook',
+  wins: 2,
+  losses: 7,
+  elo: 926.5534226257569,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e7761afc0004f98bcf,
+  name: 'duck',
+  wins: 6,
+  losses: 1,
+  elo: 1089.819069291141,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e7761afc0004f98bd0,
+  name: 'person_fencing',
+  wins: 2,
+  losses: 2,
+  elo: 1003.2090832551962,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e7761afc0004f98bd1,
+  name: 'selfie',
+  wins: 3,
+  losses: 6,
+  elo: 951.5984294763527,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e9761afc0004f98bd2,
+  name: 'watermelon',
+  wins: 3,
+  losses: 1,
+  elo: 1031.274712482025,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e9761afc0004f98bd3,
+  name: 'smiling_face_with_halo',
+  wins: 5,
+  losses: 3,
+  elo: 1031.9932027127522,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e9761afc0004f98bd4,
+  name: 'medical_symbol',
+  wins: 2,
+  losses: 1,
+  elo: 1016.67114451779,
+  __v: 0
+}, 
+{
+  _id: 5f6d32e9761afc0004f98bd5,
+  name: 'star',
+  wins: 2,
+  losses: 4,
+  elo: 969.5637656220522,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ea761afc0004f98bd6,
+  name: 'bomb',
+  wins: 3,
+  losses: 2,
+  elo: 1011.5953754692847,
+  __v: 0
+}, 
+{
+  _id: 5f6d32eb761afc0004f98bd7,
+  name: 'baguette_bread',
+  wins: 4,
+  losses: 1,
+  elo: 1045.0631553757771,
+  __v: 0
+}, 
+{
+  _id: 5f6d32eb761afc0004f98bd8,
+  name: 'pear',
+  wins: 0,
+  losses: 3,
+  elo: 953.3361704760188,
+  __v: 0
+}, 
+{
+  _id: 5f6d32eb761afc0004f98bd9,
+  name: 'hospital',
+  wins: 1,
+  losses: 3,
+  elo: 966.0327460812692,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ed761afc0004f98bda,
+  name: 'broom',
+  wins: 1,
+  losses: 2,
+  elo: 984,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ed761afc0004f98bdb,
+  name: 'crayon',
+  wins: 5,
+  losses: 3,
+  elo: 1026.4910250781093,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ef761afc0004f98bdc,
+  name: 'Student',
+  wins: 1,
+  losses: 2,
+  elo: 980.5199671236211,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ef761afc0004f98bdd,
+  name: 'heart_with_arrow',
+  wins: 2,
+  losses: 5,
+  elo: 952.8976124704403,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f0761afc0004f98bde,
+  name: 'ping_pong',
+  wins: 6,
+  losses: 2,
+  elo: 1069.3827199329598,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f0761afc0004f98bdf,
+  name: 'backhand_index_pointing_left',
+  wins: 3,
+  losses: 6,
+  elo: 956.8265987866972,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f1761afc0004f98be0,
+  name: 'old_man',
+  wins: 4,
+  losses: 4,
+  elo: 997.5029493603747,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f1761afc0004f98be1,
+  name: 'raised_fist',
+  wins: 1,
+  losses: 4,
+  elo: 956.4167645909845,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f2761afc0004f98be2,
+  name: 'key',
+  wins: 6,
+  losses: 2,
+  elo: 1066.5908995174868,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f2761afc0004f98be3,
+  name: 'martial_arts_uniform',
+  wins: 1,
+  losses: 8,
+  elo: 902.3831478125193,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f3761afc0004f98be4,
+  name: 'old_woman',
+  wins: 3,
+  losses: 6,
+  elo: 954.9802978180459,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f3761afc0004f98be5,
+  name: 'open_mailbox_with_raised_flag',
+  wins: 1,
+  losses: 3,
+  elo: 966.9082568987697,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f3761afc0004f98be6,
+  name: 'sleeping_face',
+  wins: 4,
+  losses: 1,
+  elo: 1052.0792148858388,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f5761afc0004f98be7,
+  name: 'thinking_face',
+  wins: 2,
+  losses: 0,
+  elo: 1031.1626401468043,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f6761afc0004f98be8,
+  name: 'trophy',
+  wins: 2,
+  losses: 2,
+  elo: 999.3049075563893,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f6761afc0004f98be9,
+  name: 'grinning_face_with_smiling_eyes',
+  wins: 7,
+  losses: 3,
+  elo: 1066.2122599098211,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f6761afc0004f98bea,
+  name: 'exclamation_mark',
+  wins: 4,
+  losses: 1,
+  elo: 1049.6439238358666,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f6761afc0004f98beb,
+  name: 'mosque',
+  wins: 2,
+  losses: 1,
+  elo: 1018.6021407221538,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f8761afc0004f98bec,
+  name: 'spaghetti',
+  wins: 3,
+  losses: 5,
+  elo: 964.7306517719447,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f8761afc0004f98bed,
+  name: 'shopping_cart',
+  wins: 3,
+  losses: 3,
+  elo: 999.5285817066705,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f8761afc0004f98bee,
+  name: 'four_leaf_clover',
+  wins: 5,
+  losses: 2,
+  elo: 1050.8197722363316,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f8761afc0004f98bef,
+  name: 'meat_on_bone',
+  wins: 0,
+  losses: 2,
+  elo: 969.3599502210219,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f9761afc0004f98bf0,
+  name: 'chess_pawn',
+  wins: 5,
+  losses: 1,
+  elo: 1067.9219165506347,
+  __v: 0
+}, 
+{
+  _id: 5f6d32f9761afc0004f98bf1,
+  name: 'umbrella_on_ground',
+  wins: 3,
+  losses: 3,
+  elo: 997.0910765688553,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fa761afc0004f98bf2,
+  name: 'ring',
+  wins: 6,
+  losses: 2,
+  elo: 1069.3262296904466,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fc761afc0004f98bf3,
+  name: 'panda',
+  wins: 3,
+  losses: 0,
+  elo: 1049.4695015289756,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fc761afc0004f98bf4,
+  name: 'vampire',
+  wins: 1,
+  losses: 4,
+  elo: 948.2423329805279,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fe761afc0004f98bf5,
+  name: 'woman_astronaut',
+  wins: 4,
+  losses: 1,
+  elo: 1049.352051907842,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fe761afc0004f98bf6,
+  name: 'nose',
+  wins: 4,
+  losses: 5,
+  elo: 975.0878360171857,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fe761afc0004f98bf7,
+  name: 'raccoon',
+  wins: 3,
+  losses: 3,
+  elo: 994.5734837992418,
+  __v: 0
+}, 
+{
+  _id: 5f6d32fe761afc0004f98bf8,
+  name: 'cookie',
+  wins: 6,
+  losses: 3,
+  elo: 1041.717108633573,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ff761afc0004f98bf9,
+  name: 'pig',
+  wins: 2,
+  losses: 1,
+  elo: 1017.7626246546026,
+  __v: 0
+}, 
+{
+  _id: 5f6d32ff761afc0004f98bfa,
+  name: 'convenience_store',
+  wins: 2,
+  losses: 6,
+  elo: 943.0726578360657,
+  __v: 0
+}, 
+{
+  _id: 5f6d3300761afc0004f98bfb,
+  name: 'grinning_cat_with_smiling_eyes',
+  wins: 6,
+  losses: 2,
+  elo: 1067.5025252664227,
+  __v: 0
+}, 
+{
+  _id: 5f6d3301761afc0004f98bfc,
+  name: 'vertical_traffic_light',
+  wins: 0,
+  losses: 5,
+  elo: 925.50052822825,
+  __v: 0
+}, 
+{
+  _id: 5f6d3302761afc0004f98bfd,
+  name: 'rescue_workers_helmet',
+  wins: 2,
+  losses: 1,
+  elo: 1017.4293930854163,
+  __v: 0
+}, 
+{
+  _id: 5f6d3303761afc0004f98bfe,
+  name: 'moon_cake',
+  wins: 5,
+  losses: 2,
+  elo: 1049.7168070083778,
+  __v: 0
+}, 
+{
+  _id: 5f6d3304761afc0004f98bff,
+  name: 'two-hump_camel',
+  wins: 6,
+  losses: 3,
+  elo: 1050.509980837149,
+  __v: 0
+}, 
+{
+  _id: 5f6d3304761afc0004f98c00,
+  name: 'smiling_face_with_hearts',
+  wins: 4,
+  losses: 3,
+  elo: 1018.8184301886948,
+  __v: 0
+}, 
+{
+  _id: 5f6d3304761afc0004f98c01,
+  name: 'revolving_hearts',
+  wins: 4,
+  losses: 2,
+  elo: 1038.867247737955,
+  __v: 0
+}, 
+{
+  _id: 5f6d3304761afc0004f98c02,
+  name: 'woman_mechanic',
+  wins: 4,
+  losses: 2,
+  elo: 1027.9290397159375,
+  __v: 0
+}, 
+{
+  _id: 5f6d3305761afc0004f98c03,
+  name: 'tongue',
+  wins: 2,
+  losses: 2,
+  elo: 999.3185797250736,
+  __v: 0
+}, 
+{
+  _id: 5f6d3305761afc0004f98c04,
+  name: 'chequered_flag',
+  wins: 2,
+  losses: 3,
+  elo: 981.8218091032179,
+  __v: 0
+}, 
+{
+  _id: 5f6d3305761afc0004f98c05,
+  name: 'sauropod',
+  wins: 5,
+  losses: 3,
+  elo: 1030.4538088893482,
+  __v: 0
+}, 
+{
+  _id: 5f6d3305761afc0004f98c06,
+  name: 'angry_face',
+  wins: 1,
+  losses: 2,
+  elo: 981.9940982296943,
+  __v: 0
+}, 
+{
+  _id: 5f6d3307761afc0004f98c07,
+  name: 'label',
+  wins: 1,
+  losses: 7,
+  elo: 916.2532251272282,
+  __v: 0
+}, 
+{
+  _id: 5f6d3307761afc0004f98c08,
+  name: 'motorcycle',
+  wins: 5,
+  losses: 0,
+  elo: 1089.4515748241145,
+  __v: 0
+}, 
+{
+  _id: 5f6d3307761afc0004f98c09,
+  name: 'safety_vest',
+  wins: 1,
+  losses: 4,
+  elo: 959.1322043318021,
+  __v: 0
+}, 
+{
+  _id: 5f6d3308761afc0004f98c0a,
+  name: 'red_paper_lantern',
+  wins: 2,
+  losses: 3,
+  elo: 980.5979891132472,
+  __v: 0
+}, 
+{
+  _id: 5f6d3309761afc0004f98c0b,
+  name: 'sad_but_relieved_face',
+  wins: 5,
+  losses: 1,
+  elo: 1071.694208463527,
+  __v: 0
+}, 
+{
+  _id: 5f6d3309761afc0004f98c0c,
+  name: 'biohazard',
+  wins: 1,
+  losses: 6,
+  elo: 920.725971999797,
+  __v: 0
+}, 
+{
+  _id: 5f6d330a761afc0004f98c0d,
+  name: 'backhand_index_pointing_right',
+  wins: 1,
+  losses: 4,
+  elo: 951.5151252655467,
+  __v: 0
+}, 
+{
+  _id: 5f6d330c761afc0004f98c0e,
+  name: 'dollar_banknote',
+  wins: 5,
+  losses: 6,
+  elo: 981.8442157007664,
+  __v: 0
+}, 
+{
+  _id: 5f6d330c761afc0004f98c0f,
+  name: 'studio_microphone',
+  wins: 0,
+  losses: 7,
+  elo: 905.7070681343465,
+  __v: 0
+}, 
+{
+  _id: 5f6d330c761afc0004f98c10,
+  name: 'running_shirt',
+  wins: 3,
+  losses: 4,
+  elo: 989.8009099433035,
+  __v: 0
+}, 
+{
+  _id: 5f6d330c761afc0004f98c11,
+  name: 'call_me_hand',
+  wins: 0,
+  losses: 1,
+  elo: 984,
+  __v: 0
+}, 
+{
+  _id: 5f6d330d761afc0004f98c12,
+  name: 'princess',
+  wins: 2,
+  losses: 4,
+  elo: 968.9168876033178,
+  __v: 0
+}, 
+{
+  _id: 5f6d330d761afc0004f98c13,
+  name: 'grapes',
+  wins: 6,
+  losses: 3,
+  elo: 1040.8873367499782,
+  __v: 0
+}, 
+{
+  _id: 5f6d330d761afc0004f98c14,
+  name: 'squid',
+  wins: 4,
+  losses: 1,
+  elo: 1049.3973160872886,
+  __v: 0
+}, 
+{
+  _id: 5f6d330d761afc0004f98c15,
+  name: 'camping',
+  wins: 2,
+  losses: 1,
+  elo: 1015.7074415615166,
+  __v: 0
+}, 
+{
+  _id: 5f6d330e761afc0004f98c16,
+  name: 'satellite',
+  wins: 3,
+  losses: 2,
+  elo: 1015.3289073256974,
+  __v: 0
+}, 
+{
+  _id: 5f6d330e761afc0004f98c17,
+  name: 'kite',
+  wins: 5,
+  losses: 6,
+  elo: 991.7725515109689,
+  __v: 0
+}, 
+{
+  _id: 5f6d330f761afc0004f98c18,
+  name: 'Santa_Claus',
+  wins: 2,
+  losses: 2,
+  elo: 996.3242106025765,
+  __v: 0
+}, 
+{
+  _id: 5f6d330f761afc0004f98c19,
+  name: 'ballot_box_with_ballot',
+  wins: 1,
+  losses: 4,
+  elo: 953.5003160461221,
+  __v: 0
+}, 
+{
+  _id: 5f6d330f761afc0004f98c1a,
+  name: 'motor_boat',
+  wins: 3,
+  losses: 1,
+  elo: 1031.1977157646222,
+  __v: 0
+}, 
+{
+  _id: 5f6d3311761afc0004f98c1b,
+  name: 'face_with_hand_over_mouth',
+  wins: 3,
+  losses: 4,
+  elo: 983.1536644731656,
+  __v: 0
+}, 
+{
+  _id: 5f6d3312761afc0004f98c1c,
+  name: 'volcano',
+  wins: 4,
+  losses: 0,
+  elo: 1072.3830642221335,
+  __v: 0
+}, 
+{
+  _id: 5f6d3312761afc0004f98c1d,
+  name: 'woman_singer',
+  wins: 3,
+  losses: 5,
+  elo: 962.946833350031,
+  __v: 0
+}, 
+{
+  _id: 5f6d3314761afc0004f98c1e,
+  name: 'loudly_crying_face',
+  wins: 4,
+  losses: 4,
+  elo: 1000.9384482931255,
+  __v: 0
+}, 
+{
+  _id: 5f6d3314761afc0004f98c1f,
+  name: 'frowning_face_with_open_mouth',
+  wins: 2,
+  losses: 2,
+  elo: 997.0584803184926,
+  __v: 0
+}, 
+{
+  _id: 5f6d3316761afc0004f98c20,
+  name: 'confused_face',
+  wins: 2,
+  losses: 3,
+  elo: 979.6190824459005,
+  __v: 0
+}, 
+{
+  _id: 5f6d3316761afc0004f98c21,
+  name: 'person_raising_hand',
+  wins: 2,
+  losses: 3,
+  elo: 981.7899341837075,
+  __v: 0
+}, 
+{
+  _id: 5f6d3318761afc0004f98c22,
+  name: 'bookmark',
+  wins: 0,
+  losses: 7,
+  elo: 904.8105796493636,
+  __v: 0
+}, 
+{
+  _id: 5f6d3319761afc0004f98c23,
+  name: 'moai',
+  wins: 5,
+  losses: 2,
+  elo: 1042.62105150556,
+  __v: 0
+}, 
+{
+  _id: 5f6d3319761afc0004f98c24,
+  name: 'eyes',
+  wins: 2,
+  losses: 1,
+  elo: 1013.8603518302688,
+  __v: 0
+}, 
+{
+  _id: 5f6d3320761afc0004f98c25,
+  name: 'crocodile',
+  wins: 4,
+  losses: 2,
+  elo: 1029.972863068137,
+  __v: 0
+}, 
+{
+  _id: 5f6d3320761afc0004f98c26,
+  name: 'beverage_box',
+  wins: 2,
+  losses: 1,
+  elo: 1017.3355759413051,
+  __v: 0
+}, 
+{
+  _id: 5f6d3327761afc0004f98c27,
+  name: 'roll_of_paper',
+  wins: 2,
+  losses: 5,
+  elo: 954.4437578741752,
+  __v: 0
+}, 
+{
+  _id: 5f6d3327761afc0004f98c28,
+  name: 'zipper-mouth_face',
+  wins: 2,
+  losses: 1,
+  elo: 1013.9152568494692,
+  __v: 0
+}, 
+{
+  _id: 5f6d3327761afc0004f98c29,
+  name: 'woman_teacher',
+  wins: 1,
+  losses: 4,
+  elo: 954.2549377291641,
+  __v: 0
+}, 
+{
+  _id: 5f6d3329761afc0004f98c2a,
+  name: 'skis',
+  wins: 3,
+  losses: 1,
+  elo: 1033.4289627425544,
+  __v: 0
+}, 
+{
+  _id: 5f6d3329761afc0004f98c2b,
+  name: 'ambulance',
+  wins: 2,
+  losses: 3,
+  elo: 985.6454774211334,
+  __v: 0
+}, 
+{
+  _id: 5f6d3329761afc0004f98c2c,
+  name: 'cut_of_meat',
+  wins: 4,
+  losses: 2,
+  elo: 1035.662471817695,
+  __v: 0
+}, 
+{
+  _id: 5f6d3329761afc0004f98c2d,
+  name: 'film_frames',
+  wins: 1,
+  losses: 3,
+  elo: 968.8967140877171,
+  __v: 0
+}, 
+{
+  _id: 5f6d332b761afc0004f98c2e,
+  name: 'classical_building',
+  wins: 4,
+  losses: 0,
+  elo: 1069.1687213086325,
+  __v: 0
+}, 
+{
+  _id: 5f6d332c761afc0004f98c2f,
+  name: 'person_mountain_biking',
+  wins: 2,
+  losses: 1,
+  elo: 1015.1986919705046,
+  __v: 0
+}, 
+{
+  _id: 5f6d332c761afc0004f98c30,
+  name: 'dress',
+  wins: 3,
+  losses: 1,
+  elo: 1030.4427632620832,
+  __v: 0
+}, 
+{
+  _id: 5f6d332e761afc0004f98c31,
+  name: 'shallow_pan_of_food',
+  wins: 4,
+  losses: 2,
+  elo: 1026.887891466498,
+  __v: 0
+}, 
+{
+  _id: 5f6d3330761afc0004f98c33,
+  name: 'watch',
+  wins: 4,
+  losses: 2,
+  elo: 1034.2026097243343,
+  __v: 0
+}, 
+{
+  _id: 5f6d3330761afc0004f98c32,
+  name: 'deer',
+  wins: 3,
+  losses: 1,
+  elo: 1030.4664171095367,
+  __v: 0
+}, 
+{
+  _id: 5f6d3330761afc0004f98c34,
+  name: 'female_sign',
+  wins: 2,
+  losses: 1,
+  elo: 1014.0097070063199,
+  __v: 0
+}, 
+{
+  _id: 5f6d3330761afc0004f98c35,
+  name: 'Teacher',
+  wins: 1,
+  losses: 5,
+  elo: 938.8606658278375,
+  __v: 0
+}, 
+{
+  _id: 5f6d3331761afc0004f98c36,
+  name: 'basketball',
+  wins: 4,
+  losses: 0,
+  elo: 1065.036083984214,
+  __v: 0
+}, 
+{
+  _id: 5f6d3331761afc0004f98c37,
+  name: 'rosette',
+  wins: 2,
+  losses: 2,
+  elo: 997.1049830720758,
+  __v: 0
+}, 
+{
+  _id: 5f6d3332761afc0004f98c38,
+  name: 'woman_technologist',
+  wins: 2,
+  losses: 4,
+  elo: 962.8623723369607,
+  __v: 0
+}, 
+{
+  _id: 5f6d3333761afc0004f98c39,
+  name: 'man_factory_worker',
+  wins: 2,
+  losses: 2,
+  elo: 996.3544432418038,
+  __v: 0
+}, 
+{
+  _id: 5f6d3334761afc0004f98c3a,
+  name: 'baby_angel',
+  wins: 2,
+  losses: 3,
+  elo: 981.784778926646,
+  __v: 0
+}, 
+{
+  _id: 5f6d3335761afc0004f98c3b,
+  name: 'gear',
+  wins: 2,
+  losses: 2,
+  elo: 999.2929883885431,
+  __v: 0
+}, 
+{
+  _id: 5f6d3335761afc0004f98c3c,
+  name: 'elf',
+  wins: 2,
+  losses: 4,
+  elo: 966.3979657877508,
+  __v: 0
+}, 
+{
+  _id: 5f6d3336761afc0004f98c3e,
+  name: 'family',
+  wins: 4,
+  losses: 3,
+  elo: 1015.3779572193066,
+  __v: 0
+}, 
+{
+  _id: 5f6d3336761afc0004f98c3d,
+  name: 'mechanical_arm',
+  wins: 1,
+  losses: 2,
+  elo: 986.2541576765699,
+  __v: 0
+}, 
+{
+  _id: 5f6d3337761afc0004f98c3f,
+  name: 'sailboat',
+  wins: 8,
+  losses: 2,
+  elo: 1106.5266720370853,
+  __v: 0
+}, 
+{
+  _id: 5f6d3337761afc0004f98c40,
+  name: 'person_juggling',
+  wins: 3,
+  losses: 4,
+  elo: 985.0569402248275,
+  __v: 0
+}, 
+{
+  _id: 5f6d3337761afc0004f98c41,
+  name: 'zombie',
+  wins: 3,
+  losses: 3,
+  elo: 999.0472505332466,
+  __v: 0
+}, 
+{
+  _id: 5f6d3339761afc0004f98c42,
+  name: 'wrapped_gift',
+  wins: 3,
+  losses: 2,
+  elo: 1015.0512039127651,
+  __v: 0
+}, 
+{
+  _id: 5f6d3339761afc0004f98c43,
+  name: 'mouse_face',
+  wins: 4,
+  losses: 2,
+  elo: 1032.8603554534097,
+  __v: 0
+}, 
+{
+  _id: 5f6d333a761afc0004f98c44,
+  name: 'orangutan',
+  wins: 4,
+  losses: 0,
+  elo: 1067.8779552134047,
+  __v: 0
+}, 
+{
+  _id: 5f6d333a761afc0004f98c45,
+  name: 'worried_face',
+  wins: 2,
+  losses: 3,
+  elo: 983.4252061042183,
+  __v: 0
+}, 
+{
+  _id: 5f6d333a761afc0004f98c46,
+  name: 'small_airplane',
+  wins: 3,
+  losses: 2,
+  elo: 1013.4869215752926,
+  __v: 0
+}, 
+{
+  _id: 5f6d333a761afc0004f98c47,
+  name: 'no_littering',
+  wins: 3,
+  losses: 7,
+  elo: 943.8043434419204,
+  __v: 0
+}, 
+{
+  _id: 5f6d333b761afc0004f98c48,
+  name: 'anchor',
+  wins: 3,
+  losses: 2,
+  elo: 1013.6511691184364,
+  __v: 0
+}, 
+{
+  _id: 5f6d333b761afc0004f98c49,
+  name: 'cinema',
+  wins: 0,
+  losses: 3,
+  elo: 954.1721796717983,
+  __v: 0
+}, 
+{
+  _id: 5f6d333c761afc0004f98c4a,
+  name: 'suspension_railway',
+  wins: 2,
+  losses: 6,
+  elo: 938.2408602895446,
+  __v: 0
+}, 
+{
+  _id: 5f6d333c761afc0004f98c4b,
+  name: 'weary_cat',
+  wins: 4,
+  losses: 4,
+  elo: 998.0739775290534,
+  __v: 0
+}, 
+{
+  _id: 5f6d333d761afc0004f98c4c,
+  name: 'person_gesturing_OK',
+  wins: 2,
+  losses: 2,
+  elo: 997.1152909931933,
+  __v: 0
+}, 
+{
+  _id: 5f6d333d761afc0004f98c4d,
+  name: 'cow_face',
+  wins: 4,
+  losses: 2,
+  elo: 1033.0178381340202,
+  __v: 0
+}, 
+{
+  _id: 5f6d333d761afc0004f98c4e,
+  name: 'Aries',
+  wins: 4,
+  losses: 4,
+  elo: 1001.3709934171785,
+  __v: 0
+}, 
+{
+  _id: 5f6d333d761afc0004f98c4f,
+  name: 'thumbs_down',
+  wins: 1,
+  losses: 4,
+  elo: 957.2403051591352,
+  __v: 0
+}, 
+{
+  _id: 5f6d333e761afc0004f98c50,
+  name: 'shamrock',
+  wins: 6,
+  losses: 2,
+  elo: 1068.4265174386062,
+  __v: 0
+}, 
+{
+  _id: 5f6d333f761afc0004f98c51,
+  name: 'ram',
+  wins: 8,
+  losses: 2,
+  elo: 1108.1465944815177,
+  __v: 0
+}, 
+{
+  _id: 5f6d333f761afc0004f98c52,
+  name: 'nail_polish',
+  wins: 1,
+  losses: 2,
+  elo: 988.0985734099326,
+  __v: 0
+}, 
+{
+  _id: 5f6d3341761afc0004f98c53,
+  name: 'person_gesturing_NO',
+  wins: 2,
+  losses: 2,
+  elo: 998.4580306802794,
+  __v: 0
+}, 
+{
+  _id: 5f6d3341761afc0004f98c54,
+  name: 'cherry_blossom',
+  wins: 3,
+  losses: 2,
+  elo: 1014.6683028756546,
+  __v: 0
+}, 
+{
+  _id: 5f6d3341761afc0004f98c55,
+  name: 'pineapple',
+  wins: 0,
+  losses: 2,
+  elo: 968.736306793522,
+  __v: 0
+}, 
+{
+  _id: 5f6d3342761afc0004f98c56,
+  name: 'books',
+  wins: 2,
+  losses: 2,
+  elo: 995.3968207348877,
+  __v: 0
+}, 
+{
+  _id: 5f6d3342761afc0004f98c57,
+  name: 'envelope',
+  wins: 4,
+  losses: 3,
+  elo: 1017.9357850059637,
+  __v: 0
+}, 
+{
+  _id: 5f6d3342761afc0004f98c58,
+  name: 'chestnut',
+  wins: 0,
+  losses: 2,
+  elo: 969.471051915621,
+  __v: 0
+}, 
+{
+  _id: 5f6d3343761afc0004f98c59,
+  name: 'crescent_moon',
+  wins: 4,
+  losses: 3,
+  elo: 1014.2996956415636,
+  __v: 0
+}, 
+{
+  _id: 5f6d3343761afc0004f98c5a,
+  name: 'Office_Worker',
+  wins: 0,
+  losses: 6,
+  elo: 920.3395489822251,
+  __v: 0
+}, 
+{
+  _id: 5f6d3344761afc0004f98c5b,
+  name: 'brick',
+  wins: 2,
+  losses: 4,
+  elo: 967.4101286113496,
+  __v: 0
+}, 
+{
+  _id: 5f6d3344761afc0004f98c5c,
+  name: 'framed_picture',
+  wins: 3,
+  losses: 3,
+  elo: 998.8387641623104,
+  __v: 0
+}, 
+{
+  _id: 5f6d3344761afc0004f98c5d,
+  name: 'raising_hands',
+  wins: 1,
+  losses: 3,
+  elo: 967.8325058851447,
+  __v: 0
+}, 
+{
+  _id: 5f6d3345761afc0004f98c5e,
+  name: 'alarm_clock',
+  wins: 5,
+  losses: 3,
+  elo: 1036.9492117774732,
+  __v: 0
+}, 
+{
+  _id: 5f6d3345761afc0004f98c5f,
+  name: 'clipboard',
+  wins: 4,
+  losses: 3,
+  elo: 1016.9254366753208,
+  __v: 0
+}, 
+{
+  _id: 5f6d3346761afc0004f98c60,
+  name: 'snowflake',
+  wins: 2,
+  losses: 5,
+  elo: 952.1243329350359,
+  __v: 0
+}, 
+{
+  _id: 5f6d3346761afc0004f98c61,
+  name: 'man_dancing',
+  wins: 5,
+  losses: 2,
+  elo: 1047.5793839530447,
+  __v: 0
+}, 
+{
+  _id: 5f6d3346761afc0004f98c62,
+  name: 'derelict_house',
+  wins: 4,
+  losses: 7,
+  elo: 959.1534004865364,
+  __v: 0
+}, 
+{
+  _id: 5f6d3347761afc0004f98c63,
+  name: 'stadium',
+  wins: 3,
+  losses: 1,
+  elo: 1031.836689646244,
+  __v: 0
+}, 
+{
+  _id: 5f6d3347761afc0004f98c64,
+  name: 'roasted_sweet_potato',
+  wins: 0,
+  losses: 6,
+  elo: 914.4362306822709,
+  __v: 0
+}, 
+{
+  _id: 5f6d334a761afc0004f98c65,
+  name: 'heart_suit',
+  wins: 1,
+  losses: 3,
+  elo: 969.0867669783041,
+  __v: 0
+}, 
+{
+  _id: 5f6d334a761afc0004f98c66,
+  name: 'mantelpiece_clock',
+  wins: 3,
+  losses: 4,
+  elo: 988.5585176600152,
+  __v: 0
+}, 
+{
+  _id: 5f6d334a761afc0004f98c67,
+  name: 'hushed_face',
+  wins: 5,
+  losses: 5,
+  elo: 996.3664084160213,
+  __v: 0
+}, 
+{
+  _id: 5f6d334b761afc0004f98c68,
+  name: 'seat',
+  wins: 3,
+  losses: 1,
+  elo: 1033.035948742245,
+  __v: 0
+}, 
+{
+  _id: 5f6d334c761afc0004f98c69,
+  name: 'baby_chick',
+  wins: 4,
+  losses: 2,
+  elo: 1025.8867742242273,
+  __v: 0
+}, 
+{
+  _id: 5f6d334c761afc0004f98c6a,
+  name: 'person_in_lotus_position',
+  wins: 4,
+  losses: 3,
+  elo: 1014.5751095014805,
+  __v: 0
+}, 
+{
+  _id: 5f6d334d761afc0004f98c6b,
+  name: 'beating_heart',
+  wins: 3,
+  losses: 2,
+  elo: 1017.814571954275,
+  __v: 0
+}, 
+{
+  _id: 5f6d334d761afc0004f98c6c,
+  name: 'Factory_Worker',
+  wins: 1,
+  losses: 4,
+  elo: 955.175487063586,
+  __v: 0
+}, 
+{
+  _id: 5f6d334e761afc0004f98c6d,
+  name: 'green_apple',
+  wins: 4,
+  losses: 4,
+  elo: 1002.0232599169888,
+  __v: 0
+}, 
+{
+  _id: 5f6d334e761afc0004f98c6e,
+  name: 'cactus',
+  wins: 3,
+  losses: 3,
+  elo: 1000.3899334982149,
+  __v: 0
+}, 
+{
+  _id: 5f6d334e761afc0004f98c70,
+  name: 'bento_box',
+  wins: 3,
+  losses: 4,
+  elo: 984.0620772824685,
+  __v: 0
+}, 
+{
+  _id: 5f6d334e761afc0004f98c6f,
+  name: 'mountain_railway',
+  wins: 5,
+  losses: 2,
+  elo: 1053.0410974925162,
+  __v: 0
+}, 
+{
+  _id: 5f6d334e761afc0004f98c71,
+  name: 'person_in_steamy_room',
+  wins: 1,
+  losses: 8,
+  elo: 900.2530704185864,
+  __v: 0
+}, 
+{
+  _id: 5f6d3350761afc0004f98c72,
+  name: 'folded_hands',
+  wins: 5,
+  losses: 2,
+  elo: 1046.878787502211,
+  __v: 0
+}, 
+{
+  _id: 5f6d3350761afc0004f98c73,
+  name: 'shooting_star',
+  wins: 3,
+  losses: 5,
+  elo: 966.5903195745806,
+  __v: 0
+}, 
+{
+  _id: 5f6d3350761afc0004f98c74,
+  name: 'merperson',
+  wins: 6,
+  losses: 3,
+  elo: 1047.4958019544315,
+  __v: 0
+}, 
+{
+  _id: 5f6d3351761afc0004f98c75,
+  name: 'rose',
+  wins: 4,
+  losses: 4,
+  elo: 992.6265404597885,
+  __v: 0
+}, 
+{
+  _id: 5f6d3351761afc0004f98c76,
+  name: 'school',
+  wins: 2,
+  losses: 2,
+  elo: 997.7559119934351,
+  __v: 0
+}, 
+{
+  _id: 5f6d3351761afc0004f98c77,
+  name: 'people_with_bunny_ears',
+  wins: 4,
+  losses: 0,
+  elo: 1062.8767067009217,
+  __v: 0
+}, 
+{
+  _id: 5f6d3351761afc0004f98c78,
+  name: 'clutch_bag',
+  wins: 2,
+  losses: 1,
+  elo: 1015.9622145160175,
+  __v: 0
+}, 
+{
+  _id: 5f6d3352761afc0004f98c79,
+  name: 'lizard',
+  wins: 3,
+  losses: 1,
+  elo: 1033.4586061928155,
+  __v: 0
+}, 
+{
+  _id: 5f6d3352761afc0004f98c7a,
+  name: 'post_office',
+  wins: 2,
+  losses: 5,
+  elo: 954.9882731664926,
+  __v: 0
+}, 
+{
+  _id: 5f6d3354761afc0004f98c7b,
+  name: 'train',
+  wins: 3,
+  losses: 2,
+  elo: 1015.4154458671615,
+  __v: 0
+}, 
+{
+  _id: 5f6d3355761afc0004f98c7c,
+  name: 'locked',
+  wins: 4,
+  losses: 0,
+  elo: 1070.805609442671,
+  __v: 0
+}, 
+{
+  _id: 5f6d3355761afc0004f98c7d,
+  name: 'deciduous_tree',
+  wins: 4,
+  losses: 2,
+  elo: 1027.8744467916354,
+  __v: 0
+}, 
+{
+  _id: 5f6d3355761afc0004f98c7e,
+  name: 'party_popper',
+  wins: 2,
+  losses: 2,
+  elo: 996.543071736205,
+  __v: 0
+}, 
+{
+  _id: 5f6d3355761afc0004f98c7f,
+  name: 'Gemini',
+  wins: 1,
+  losses: 3,
+  elo: 964.2075711745962,
+  __v: 0
+}, 
+{
+  _id: 5f6d3356761afc0004f98c80,
+  name: 'battery',
+  wins: 3,
+  losses: 5,
+  elo: 963.5749839081932,
+  __v: 0
+}, 
+{
+  _id: 5f6d3356761afc0004f98c81,
+  name: 'banana',
+  wins: 1,
+  losses: 3,
+  elo: 968.2109049520575,
+  __v: 0
+}, 
+{
+  _id: 5f6d3356761afc0004f98c82,
+  name: 'bellhop_bell',
+  wins: 3,
+  losses: 3,
+  elo: 1002.3453519959344,
+  __v: 0
+}, 
+{
+  _id: 5f6d3356761afc0004f98c83,
+  name: 'restroom',
+  wins: 2,
+  losses: 2,
+  elo: 995.3793774008534,
+  __v: 0
+}, 
+{
+  _id: 5f6d3357761afc0004f98c84,
+  name: 'cat',
+  wins: 2,
+  losses: 1,
+  elo: 1018.0837255398206,
+  __v: 0
+}, 
+{
+  _id: 5f6d3357761afc0004f98c85,
+  name: 'kiss_mark',
+  wins: 3,
+  losses: 3,
+  elo: 998.3681530929348,
+  __v: 0
+}, 
+{
+  _id: 5f6d335b761afc0004f98c86,
+  name: 'rooster',
+  wins: 4,
+  losses: 2,
+  elo: 1031.1682989623835,
+  __v: 0
+}, 
+{
+  _id: 5f6d335b761afc0004f98c87,
+  name: 'person_kneeling',
+  wins: 2,
+  losses: 2,
+  elo: 1001.6197568775491,
+  __v: 0
+}, 
+{
+  _id: 5f6d335d761afc0004f98c88,
+  name: 'rabbit_face',
+  wins: 0,
+  losses: 3,
+  elo: 953.4385044731448,
+  __v: 0
+}, 
+{
+  _id: 5f6d335f761afc0004f98c89,
+  name: 'infinity',
+  wins: 1,
+  losses: 4,
+  elo: 951.6227852901599,
+  __v: 0
+}, 
+{
+  _id: 5f6d335f761afc0004f98c8a,
+  name: 'razor',
+  wins: 4,
+  losses: 2,
+  elo: 1032.3976834847133,
+  __v: 0
+}, 
+{
+  _id: 5f6d3361761afc0004f98c8b,
+  name: 'pig_nose',
+  wins: 4,
+  losses: 2,
+  elo: 1031.1796636592526,
+  __v: 0
+}, 
+{
+  _id: 5f6d3361761afc0004f98c8c,
+  name: 'calendar',
+  wins: 0,
+  losses: 7,
+  elo: 904.8335001985386,
+  __v: 0
+}, 
+{
+  _id: 5f6d33f9761afc0004f98c8d,
+  name: 'Singer',
+  wins: 2,
+  losses: 6,
+  elo: 938.5475654503896,
+  __v: 0
+}, 
+{
+  _id: 5f6d33f9761afc0004f98c8e,
+  name: 'spade_suit',
+  wins: 1,
+  losses: 4,
+  elo: 955.7553324948293,
+  __v: 0
+}, 
+{
+  _id: 5f6d33fd761afc0004f98c8f,
+  name: 'fishing_pole',
+  wins: 2,
+  losses: 2,
+  elo: 999.369986595315,
+  __v: 0
+}, 
+{
+  _id: 5f6d33fd761afc0004f98c90,
+  name: 'Astronaut',
+  wins: 4,
+  losses: 4,
+  elo: 1001.3429491197123,
+  __v: 0
+}, 
+{
+  _id: 5f6d3400761afc0004f98c91,
+  name: 'Cancer',
+  wins: 6,
+  losses: 4,
+  elo: 1025.5289087384574,
+  __v: 0
+}, 
+{
+  _id: 5f6d3401761afc0004f98c92,
+  name: 'crown',
+  wins: 4,
+  losses: 0,
+  elo: 1069.980128747383,
+  __v: 0
+}, 
+{
+  _id: 5f6d3408761afc0004f98c93,
+  name: 'keyboard',
+  wins: 2,
+  losses: 2,
+  elo: 1000.1922004784757,
+  __v: 0
+}, 
+{
+  _id: 5f6d3408761afc0004f98c94,
+  name: 'ice_hockey',
+  wins: 6,
+  losses: 2,
+  elo: 1078.4584895329954,
+  __v: 0
+}, 
+{
+  _id: 5f6d3409761afc0004f98c95,
+  name: 'kimono',
+  wins: 3,
+  losses: 5,
+  elo: 971.119227389521,
+  __v: 0
+}, 
+{
+  _id: 5f6d3409761afc0004f98c96,
+  name: 'lipstick',
+  wins: 2,
+  losses: 4,
+  elo: 966.1928477421113,
+  __v: 0
+}, 
+{
+  _id: 5f6d3409761afc0004f98c97,
+  name: 'rice_cracker',
+  wins: 1,
+  losses: 1,
+  elo: 997.7239119218885,
+  __v: 0
+}, 
+{
+  _id: 5f6d340b761afc0004f98c98,
+  name: 'rolling_on_the_floor_laughing',
+  wins: 2,
+  losses: 1,
+  elo: 1012.9298772253372,
+  __v: 0
+}, 
+{
+  _id: 5f6d340b761afc0004f98c99,
+  name: 'lemon',
+  wins: 1,
+  losses: 3,
+  elo: 965.1875204637837,
+  __v: 0
+}, 
+{
+  _id: 5f6d340b761afc0004f98c9a,
+  name: 'postal_horn',
+  wins: 2,
+  losses: 2,
+  elo: 997.0422958405188,
+  __v: 0
+}, 
+{
+  _id: 5f6d340c761afc0004f98c9b,
+  name: 'dragon',
+  wins: 4,
+  losses: 1,
+  elo: 1049.8573530756455,
+  __v: 0
+}, 
+{
+  _id: 5f6d340c761afc0004f98c9c,
+  name: 'canoe',
+  wins: 2,
+  losses: 3,
+  elo: 979.7498432283376,
+  __v: 0
+}, 
+{
+  _id: 5f6d340c761afc0004f98c9d,
+  name: 'ice_skate',
+  wins: 5,
+  losses: 5,
+  elo: 991.354118816989,
+  __v: 0
+}, 
+{
+  _id: 5f6d340c761afc0004f98c9e,
+  name: 'badminton',
+  wins: 1,
+  losses: 3,
+  elo: 968.078922408113,
+  __v: 0
+}, 
+{
+  _id: 5f6d340e761afc0004f98c9f,
+  name: 'nut_and_bolt',
+  wins: 2,
+  losses: 4,
+  elo: 964.0497669376775,
+  __v: 0
+}, 
+{
+  _id: 5f6d340e761afc0004f98ca0,
+  name: 'light_bulb',
+  wins: 4,
+  losses: 5,
+  elo: 973.8384943419342,
+  __v: 0
+}, 
+{
+  _id: 5f6d340f761afc0004f98ca1,
+  name: 'person',
+  wins: 2,
+  losses: 6,
+  elo: 935.0684062814366,
+  __v: 0
+}, 
+{
+  _id: 5f6d3410761afc0004f98ca2,
+  name: 'zzz',
+  wins: 3,
+  losses: 2,
+  elo: 1015.2633022555357,
+  __v: 0
+}, 
+{
+  _id: 5f6d3410761afc0004f98ca3,
+  name: 'pound_banknote',
+  wins: 1,
+  losses: 1,
+  elo: 1000.6631422302249,
+  __v: 0
+}, 
+{
+  _id: 5f6d3410761afc0004f98ca4,
+  name: 'person_swimming',
+  wins: 6,
+  losses: 6,
+  elo: 991.024987748075,
+  __v: 0
+}, 
+{
+  _id: 5f6d3411761afc0004f98ca5,
+  name: 'spiral_shell',
+  wins: 4,
+  losses: 4,
+  elo: 996.7361160212183,
+  __v: 0
+}, 
+{
+  _id: 5f6d3412761afc0004f98ca6,
+  name: 'church',
+  wins: 1,
+  losses: 6,
+  elo: 926.460277793102,
+  __v: 0
+}, 
+{
+  _id: 5f6d3413761afc0004f98ca7,
+  name: 'no_mobile_phones',
+  wins: 1,
+  losses: 5,
+  elo: 937.3962533192603,
+  __v: 0
+}, 
+{
+  _id: 5f6d3413761afc0004f98ca8,
+  name: 'camel',
+  wins: 7,
+  losses: 1,
+  elo: 1105.0190556371304,
+  __v: 0
+}, 
+{
+  _id: 5f6d3414761afc0004f98ca9,
+  name: 'cloud_with_snow',
+  wins: 2,
+  losses: 2,
+  elo: 1010.741162959732,
+  __v: 0
+}, 
+{
+  _id: 5f6d3414761afc0004f98caa,
+  name: 'ear_with_hearing_aid',
+  wins: 0,
+  losses: 4,
+  elo: 941.59542824636,
+  __v: 0
+}, 
+{
+  _id: 5f6d3414761afc0004f98cab,
+  name: 'face_with_tongue',
+  wins: 4,
+  losses: 5,
+  elo: 981.7901264909407,
+  __v: 0
+}, 
+{
+  _id: 5f6d3414761afc0004f98cac,
+  name: 'building_construction',
+  wins: 1,
+  losses: 4,
+  elo: 953.5478549892788,
+  __v: 0
+}, 
+{
+  _id: 5f6d3415761afc0004f98cad,
+  name: 'astonished_face',
+  wins: 3,
+  losses: 4,
+  elo: 975.9430937083098,
+  __v: 0
+}, 
+{
+  _id: 5f6d3415761afc0004f98cae,
+  name: 'cloud_with_lightning_and_rain',
+  wins: 4,
+  losses: 1,
+  elo: 1053.5221181839324,
+  __v: 0
+}, 
+{
+  _id: 5f6d3415761afc0004f98caf,
+  name: 'Christmas_tree',
+  wins: 2,
+  losses: 2,
+  elo: 1000.1366912136145,
+  __v: 0
+}, 
+{
+  _id: 5f6d3415761afc0004f98cb0,
+  name: 'bride_with_veil',
+  wins: 1,
+  losses: 5,
+  elo: 939.3686975188166,
+  __v: 0
+}, 
+{
+  _id: 5f6d3417761afc0004f98cb1,
+  name: 'dagger',
+  wins: 4,
+  losses: 4,
+  elo: 1001.3959643409927,
+  __v: 0
+}, 
+{
+  _id: 5f6d3417761afc0004f98cb2,
+  name: 'shield',
+  wins: 1,
+  losses: 6,
+  elo: 923.2895163832129,
+  __v: 0
+}, 
+{
+  _id: 5f6d3418761afc0004f98cb3,
+  name: 'star-struck',
+  wins: 5,
+  losses: 2,
+  elo: 1049.0297677008916,
+  __v: 0
+}, 
+{
+  _id: 5f6d3419761afc0004f98cb4,
+  name: 'oncoming_automobile',
+  wins: 2,
+  losses: 4,
+  elo: 966.9511379177321,
+  __v: 0
+}, 
+{
+  _id: 5f6d3419761afc0004f98cb5,
+  name: 'unamused_face',
+  wins: 4,
+  losses: 2,
+  elo: 1033.354881699395,
+  __v: 0
+}, 
+{
+  _id: 5f6d341a761afc0004f98cb6,
+  name: 'llama',
+  wins: 5,
+  losses: 0,
+  elo: 1087.8590802385147,
+  __v: 0
+}, 
+{
+  _id: 5f6d341a761afc0004f98cb7,
+  name: 'ear',
+  wins: 3,
+  losses: 1,
+  elo: 1029.7264353050393,
+  __v: 0
+}, 
+{
+  _id: 5f6d341b761afc0004f98cb8,
+  name: 'articulated_lorry',
+  wins: 1,
+  losses: 3,
+  elo: 969.1334747820744,
+  __v: 0
+}, 
+{
+  _id: 5f6d341b761afc0004f98cb9,
+  name: 'trolleybus',
+  wins: 2,
+  losses: 10,
+  elo: 889.1383410827956,
+  __v: 0
+}, 
+{
+  _id: 5f6d341b761afc0004f98cba,
+  name: 'crab',
+  wins: 3,
+  losses: 0,
+  elo: 1048.596810428626,
+  __v: 0
+}, 
+{
+  _id: 5f6d341b761afc0004f98cbb,
+  name: 'fallen_leaf',
+  wins: 2,
+  losses: 4,
+  elo: 970.0890742278795,
+  __v: 0
+}, 
+{
+  _id: 5f6d341d761afc0004f98cbc,
+  name: 'dog',
+  wins: 5,
+  losses: 2,
+  elo: 1045.5546435782526,
+  __v: 0
+}, 
+{
+  _id: 5f6d341d761afc0004f98cbd,
+  name: 'evergreen_tree',
+  wins: 5,
+  losses: 1,
+  elo: 1067.872144572087,
+  __v: 0
+}, 
+{
+  _id: 5f6d341d761afc0004f98cbe,
+  name: 'locomotive',
+  wins: 2,
+  losses: 2,
+  elo: 1002.7617802805045,
+  __v: 0
+}, 
+{
+  _id: 5f6d341d761afc0004f98cbf,
+  name: 'new_moon',
+  wins: 3,
+  losses: 3,
+  elo: 994.0025696281301,
+  __v: 0
+}, 
+{
+  _id: 5f6d341e761afc0004f98cc0,
+  name: 'lacrosse',
+  wins: 2,
+  losses: 2,
+  elo: 999.2703665649396,
+  __v: 0
+}, 
+{
+  _id: 5f6d341e761afc0004f98cc1,
+  name: 'alien_monster',
+  wins: 4,
+  losses: 4,
+  elo: 997.5363779508631,
+  __v: 0
+}, 
+{
+  _id: 5f6d341e761afc0004f98cc2,
+  name: 'melon',
+  wins: 1,
+  losses: 5,
+  elo: 940.7508032914751,
+  __v: 0
+}, 
+{
+  _id: 5f6d341f761afc0004f98cc3,
+  name: 'bathtub',
+  wins: 0,
+  losses: 2,
+  elo: 967.3348084629771,
+  __v: 0
+}, 
+{
+  _id: 5f6d3420761afc0004f98cc4,
+  name: 'fox',
+  wins: 3,
+  losses: 1,
+  elo: 1028.5255425439311,
+  __v: 0
+}, 
+{
+  _id: 5f6d3421761afc0004f98cc5,
+  name: 'expressionless_face',
+  wins: 3,
+  losses: 3,
+  elo: 1001.7687439409261,
+  __v: 0
+}, 
+{
+  _id: 5f6d3421761afc0004f98cc6,
+  name: 'diving_mask',
+  wins: 1,
+  losses: 4,
+  elo: 954.8992478147363,
+  __v: 0
+}, 
+{
+  _id: 5f6d3422761afc0004f98cc7,
+  name: 'wrench',
+  wins: 5,
+  losses: 4,
+  elo: 1010.2752834020876,
+  __v: 0
+}, 
+{
+  _id: 5f6d3422761afc0004f98cc8,
+  name: 'pager',
+  wins: 5,
+  losses: 3,
+  elo: 1034.3848638399804,
+  __v: 0
+}, 
+{
+  _id: 5f6d3423761afc0004f98cc9,
+  name: 'person_standing',
+  wins: 0,
+  losses: 4,
+  elo: 937.6861885122387,
+  __v: 0
+}, 
+{
+  _id: 5f6d3424761afc0004f98cca,
+  name: 'shark',
+  wins: 5,
+  losses: 0,
+  elo: 1083.8037649025025,
+  __v: 0
+}, 
+{
+  _id: 5f6d3424761afc0004f98ccb,
+  name: 'drum',
+  wins: 5,
+  losses: 4,
+  elo: 1013.0752341651194,
+  __v: 0
+}, 
+{
+  _id: 5f6d3424761afc0004f98ccc,
+  name: 'bikini',
+  wins: 3,
+  losses: 4,
+  elo: 985.3141809175746,
+  __v: 0
+}, 
+{
+  _id: 5f6d3424761afc0004f98ccd,
+  name: 'fountain_pen',
+  wins: 1,
+  losses: 3,
+  elo: 967.9049894732238,
+  __v: 0
+}, 
+{
+  _id: 5f6d3425761afc0004f98cce,
+  name: 'no_one_under_eighteen',
+  wins: 1,
+  losses: 5,
+  elo: 945.170440078732,
+  __v: 0
+}, 
+{
+  _id: 5f6d3426761afc0004f98ccf,
+  name: 'leopard',
+  wins: 5,
+  losses: 2,
+  elo: 1045.5184142040412,
+  __v: 0
+}, 
+{
+  _id: 5f6d3426761afc0004f98cd0,
+  name: 'Mrs_Claus',
+  wins: 3,
+  losses: 3,
+  elo: 998.4632064445766,
+  __v: 0
+}, 
+{
+  _id: 5f6d3427761afc0004f98cd1,
+  name: 'oyster',
+  wins: 2,
+  losses: 5,
+  elo: 951.8589318757015,
+  __v: 0
+}, 
+{
+  _id: 5f6d3429761afc0004f98cd2,
+  name: 'Mechanic',
+  wins: 2,
+  losses: 2,
+  elo: 999.6909690965683,
+  __v: 0
+}, 
+{
+  _id: 5f6d3429761afc0004f98cd3,
+  name: 'mechanical_leg',
+  wins: 2,
+  losses: 7,
+  elo: 928.6070787031842,
+  __v: 0
+}, 
+{
+  _id: 5f6d3429761afc0004f98cd4,
+  name: 'direct_hit',
+  wins: 3,
+  losses: 2,
+  elo: 1023.2752884993754,
+  __v: 0
+}, 
+{
+  _id: 5f6d3429761afc0004f98cd5,
+  name: 'male_sign',
+  wins: 0,
+  losses: 10,
+  elo: 859.4406142878267,
+  __v: 0
+}, 
+{
+  _id: 5f6d3429761afc0004f98cd6,
+  name: 'man_cook',
+  wins: 4,
+  losses: 6,
+  elo: 967.6426276250824,
+  __v: 0
+}, 
+{
+  _id: 5f6d342b761afc0004f98cd7,
+  name: 'man_farmer',
+  wins: 2,
+  losses: 4,
+  elo: 971.6242540034018,
+  __v: 0
+}, 
+{
+  _id: 5f6d342b761afc0004f98cd8,
+  name: 'yin_yang',
+  wins: 2,
+  losses: 2,
+  elo: 999.9675818997445,
+  __v: 0
+}, 
+{
+  _id: 5f6d342b761afc0004f98cd9,
+  name: 'man_in_tuxedo',
+  wins: 1,
+  losses: 2,
+  elo: 983.372553362432,
+  __v: 0
+}, 
+{
+  _id: 5f6d342b761afc0004f98cda,
+  name: 'curry_rice',
+  wins: 4,
+  losses: 3,
+  elo: 1013.467084049903,
+  __v: 0
+}, 
+{
+  _id: 5f6d342b761afc0004f98cdb,
+  name: 'sari',
+  wins: 2,
+  losses: 1,
+  elo: 1016.8409219793969,
+  __v: 0
+}, 
+{
+  _id: 5f6d342c761afc0004f98cdc,
+  name: 'ice_cream',
+  wins: 2,
+  losses: 4,
+  elo: 967.9295830312316,
+  __v: 0
+}, 
+{
+  _id: 5f6d342c761afc0004f98cdd,
+  name: 'lab_coat',
+  wins: 1,
+  losses: 3,
+  elo: 967.02228442948,
+  __v: 0
+}, 
+{
+  _id: 5f6d342d761afc0004f98cde,
+  name: '2nd_place_medal',
+  wins: 0,
+  losses: 2,
+  elo: 968.0338330211207,
+  __v: 0
+}, 
+{
+  _id: 5f6d342e761afc0004f98cdf,
+  name: 'broccoli',
+  wins: 3,
+  losses: 2,
+  elo: 1015.5640397116069,
+  __v: 0
+}, 
+{
+  _id: 5f6d3430761afc0004f98ce0,
+  name: 'delivery_truck',
+  wins: 4,
+  losses: 2,
+  elo: 1035.3746855514114,
+  __v: 0
+}, 
+{
+  _id: 5f6d3430761afc0004f98ce1,
+  name: 'antenna_bars',
+  wins: 0,
+  losses: 6,
+  elo: 914.3212625119714,
+  __v: 0
+}, 
+{
+  _id: 5f6d3431761afc0004f98ce2,
+  name: 'smiling_face',
+  wins: 5,
+  losses: 2,
+  elo: 1042.1267070215813,
+  __v: 0
+}, 
+{
+  _id: 5f6d3431761afc0004f98ce3,
+  name: 'unicorn',
+  wins: 5,
+  losses: 3,
+  elo: 1033.7114794327545,
+  __v: 0
+}, 
+{
+  _id: 5f6d3431761afc0004f98ce4,
+  name: 'frog',
+  wins: 6,
+  losses: 0,
+  elo: 1110.174068415715,
+  __v: 0
+}, 
+{
+  _id: 5f6d3431761afc0004f98ce5,
+  name: 'woman_factory_worker',
+  wins: 0,
+  losses: 3,
+  elo: 958.1960413641905,
+  __v: 0
+}, 
+{
+  _id: 5f6d3431761afc0004f98ce7,
+  name: 'smiling_face_with_smiling_eyes',
+  wins: 2,
+  losses: 3,
+  elo: 982.5860395147566,
+  __v: 0
+}, 
+{
+  _id: 5f6d3431761afc0004f98ce6,
+  name: 'sunrise_over_mountains',
+  wins: 6,
+  losses: 4,
+  elo: 1033.6358003941223,
+  __v: 0
+}, 
+{
+  _id: 5f6d3432761afc0004f98ce8,
+  name: 'police_officer',
+  wins: 3,
+  losses: 7,
+  elo: 941.0850121858542,
+  __v: 0
+}, 
+{
+  _id: 5f6d3432761afc0004f98ce9,
+  name: 'egg',
+  wins: 4,
+  losses: 2,
+  elo: 1034.0341153724805,
+  __v: 0
+}, 
+{
+  _id: 5f6d3432761afc0004f98cea,
+  name: 'ogre',
+  wins: 2,
+  losses: 3,
+  elo: 987.5928349153288,
+  __v: 0
+}, 
+{
+  _id: 5f6d3433761afc0004f98ceb,
+  name: 'skull',
+  wins: 4,
+  losses: 3,
+  elo: 1015.0546146631003,
+  __v: 0
+}, 
+{
+  _id: 5f6d3433761afc0004f98cec,
+  name: 'petri_dish',
+  wins: 3,
+  losses: 2,
+  elo: 1012.8558420069289,
+  __v: 0
+}, 
+{
+  _id: 5f6d3433761afc0004f98ced,
+  name: 'peacock',
+  wins: 6,
+  losses: 3,
+  elo: 1055.0017764861616,
+  __v: 0
+}, 
+{
+  _id: 5f6d3434761afc0004f98cee,
+  name: 'rhinoceros',
+  wins: 2,
+  losses: 1,
+  elo: 1010.5944718899925,
+  __v: 0
+}, 
+{
+  _id: 5f6d3434761afc0004f98cef,
+  name: 'fax_machine',
+  wins: 1,
+  losses: 4,
+  elo: 951.7723915828592,
+  __v: 0
+}, 
+{
+  _id: 5f6d3435761afc0004f98cf0,
+  name: 'guard',
+  wins: 3,
+  losses: 1,
+  elo: 1032.5130181647885,
+  __v: 0
+}, 
+{
+  _id: 5f6d3435761afc0004f98cf1,
+  name: 'eagle',
+  wins: 2,
+  losses: 3,
+  elo: 990.1372146583191,
+  __v: 0
+}, 
+{
+  _id: 5f6d3435761afc0004f98cf2,
+  name: 'crossed_swords',
+  wins: 1,
+  losses: 4,
+  elo: 952.1886919126198,
+  __v: 0
+}, 
+{
+  _id: 5f6d3436761afc0004f98cf3,
+  name: 'hot_dog',
+  wins: 2,
+  losses: 2,
+  elo: 998.8147868582325,
+  __v: 0
+}, 
+{
+  _id: 5f6d3436761afc0004f98cf4,
+  name: 'radio',
+  wins: 3,
+  losses: 1,
+  elo: 1031.807927799432,
+  __v: 0
+}, 
+{
+  _id: 5f6d3436761afc0004f98cf5,
+  name: 'sheaf_of_rice',
+  wins: 6,
+  losses: 3,
+  elo: 1047.5867747619943,
+  __v: 0
+}, 
+{
+  _id: 5f6d3437761afc0004f98cf6,
+  name: 'penguin',
+  wins: 3,
+  losses: 2,
+  elo: 1010.3784001995002,
+  __v: 0
+}, 
+{
+  _id: 5f6d3437761afc0004f98cf7,
+  name: 'glasses',
+  wins: 3,
+  losses: 4,
+  elo: 978.3854309226341,
+  __v: 0
+}, 
+{
+  _id: 5f6d3437761afc0004f98cf8,
+  name: 'cat_with_wry_smile',
+  wins: 0,
+  losses: 2,
+  elo: 968.736306793522,
+  __v: 0
+}, 
+{
+  _id: 5f6d3437761afc0004f98cf9,
+  name: 'hot_pepper',
+  wins: 10,
+  losses: 0,
+  elo: 1192.0807843835223,
+  __v: 0
+}, 
+{
+  _id: 5f6d3437761afc0004f98cfa,
+  name: 'cloud_with_lightning',
+  wins: 2,
+  losses: 3,
+  elo: 981.0372066444469,
+  __v: 0
+}, 
+{
+  _id: 5f6d3439761afc0004f98cfb,
+  name: 'tram_car',
+  wins: 1,
+  losses: 4,
+  elo: 956.4625690549293,
+  __v: 0
+}, 
+{
+  _id: 5f6d343a761afc0004f98cfc,
+  name: 'butterfly',
+  wins: 7,
+  losses: 3,
+  elo: 1064.9826086642724,
+  __v: 0
+}, 
+{
+  _id: 5f6d343a761afc0004f98cfd,
+  name: 'drop_of_blood',
+  wins: 0,
+  losses: 5,
+  elo: 931.7464498785164,
+  __v: 0
+}, 
+{
+  _id: 5f6d343b761afc0004f98cfe,
+  name: 'department_store',
+  wins: 2,
+  losses: 5,
+  elo: 955.3938378644131,
+  __v: 0
+}, 
+{
+  _id: 5f6d343b761afc0004f98cff,
+  name: 'wedding',
+  wins: 3,
+  losses: 4,
+  elo: 984.669573148119,
+  __v: 0
+}, 
+{
+  _id: 5f6d343b761afc0004f98d00,
+  name: 'rat',
+  wins: 0,
+  losses: 4,
+  elo: 941.6944260023342,
+  __v: 0
+}, 
+{
+  _id: 5f6d343b761afc0004f98d01,
+  name: 'person_tipping_hand',
+  wins: 2,
+  losses: 3,
+  elo: 982.8178755053327,
+  __v: 0
+}, 
+{
+  _id: 5f6d343c761afc0004f98d02,
+  name: 'pill',
+  wins: 3,
+  losses: 2,
+  elo: 1012.4370005491666,
+  __v: 0
+}, 
+{
+  _id: 5f6d343c761afc0004f98d03,
+  name: 'leafy_green',
+  wins: 11,
+  losses: 4,
+  elo: 1122.0048127803364,
+  __v: 0
+}, 
+{
+  _id: 5f6d343c761afc0004f98d04,
+  name: 'person_bowing',
+  wins: 0,
+  losses: 3,
+  elo: 954.8339458513517,
+  __v: 0
+}, 
+{
+  _id: 5f6d343c761afc0004f98d05,
+  name: 'hot_face',
+  wins: 4,
+  losses: 3,
+  elo: 1016.4837141379296,
+  __v: 0
+}, 
+{
+  _id: 5f6d343d761afc0004f98d06,
+  name: 'high_voltage',
+  wins: 4,
+  losses: 2,
+  elo: 1029.6256833846687,
+  __v: 0
+}, 
+{
+  _id: 5f6d343d761afc0004f98d07,
+  name: 'Health_Worker',
+  wins: 1,
+  losses: 7,
+  elo: 913.6349520290237,
+  __v: 0
+}, 
+{
+  _id: 5f6d343d761afc0004f98d08,
+  name: 'new_moon_face',
+  wins: 2,
+  losses: 1,
+  elo: 1018.4113197516164,
+  __v: 0
+}, 
+{
+  _id: 5f6d343d761afc0004f98d09,
+  name: 'wine_glass',
+  wins: 3,
+  losses: 4,
+  elo: 984.0183287541035,
+  __v: 0
+}, 
+{
+  _id: 5f6d343d761afc0004f98d0a,
+  name: 'skateboard',
+  wins: 2,
+  losses: 2,
+  elo: 997.6370101005114,
+  __v: 0
+}, 
+{
+  _id: 5f6d343d761afc0004f98d0b,
+  name: 'fog',
+  wins: 0,
+  losses: 3,
+  elo: 954.2054864627324,
+  __v: 0
+}, 
+{
+  _id: 5f6d343e761afc0004f98d0c,
+  name: 'pleading_face',
+  wins: 3,
+  losses: 1,
+  elo: 1032.0103982355633,
+  __v: 0
+}, 
+{
+  _id: 5f6d343e761afc0004f98d0d,
+  name: 'person_frowning',
+  wins: 0,
+  losses: 7,
+  elo: 901.4893285167418,
+  __v: 0
+}, 
+{
+  _id: 5f6d343e761afc0004f98d0e,
+  name: 'kissing_face',
+  wins: 2,
+  losses: 1,
+  elo: 1018.4873735108715,
+  __v: 0
+}, 
+{
+  _id: 5f6d343e761afc0004f98d0f,
+  name: 'sled',
+  wins: 4,
+  losses: 2,
+  elo: 1030.4892439684859,
+  __v: 0
+}, 
+{
+  _id: 5f6d343f761afc0004f98d10,
+  name: 'Technologist',
+  wins: 1,
+  losses: 4,
+  elo: 955.5605870545456,
+  __v: 0
+}, 
+{
+  _id: 5f6d3440761afc0004f98d11,
+  name: 'monorail',
+  wins: 2,
+  losses: 5,
+  elo: 957.6847949856472,
+  __v: 0
+}, 
+{
+  _id: 5f6d3441761afc0004f98d12,
+  name: 'slightly_frowning_face',
+  wins: 2,
+  losses: 2,
+  elo: 996.1095847716456,
+  __v: 0
+}, 
+{
+  _id: 5f6d3441761afc0004f98d13,
+  name: 'honeybee',
+  wins: 5,
+  losses: 4,
+  elo: 1013.686630520848,
+  __v: 0
+}, 
+{
+  _id: 5f6d3442761afc0004f98d14,
+  name: 'monkey_face',
+  wins: 3,
+  losses: 1,
+  elo: 1031.0146793441381,
+  __v: 0
+}, 
+{
+  _id: 5f6d3442761afc0004f98d15,
+  name: 'fairy',
+  wins: 1,
+  losses: 4,
+  elo: 958.5006888524127,
+  __v: 0
+}, 
+{
+  _id: 5f6d3442761afc0004f98d16,
+  name: 'handbag',
+  wins: 5,
+  losses: 4,
+  elo: 1013.1581640985244,
+  __v: 0
+}, 
+{
+  _id: 5f6d3442761afc0004f98d17,
+  name: 'Scorpio',
+  wins: 0,
+  losses: 6,
+  elo: 912.1205331904137,
+  __v: 0
+}, 
+{
+  _id: 5f6d3443761afc0004f98d18,
+  name: 'growing_heart',
+  wins: 4,
+  losses: 3,
+  elo: 1008.9739219315022,
+  __v: 0
+}, 
+{
+  _id: 5f6d3443761afc0004f98d19,
+  name: 'card_file_box',
+  wins: 1,
+  losses: 4,
+  elo: 959.9511783906983,
+  __v: 0
+}, 
+{
+  _id: 5f6d3444761afc0004f98d1a,
+  name: 'exploding_head',
+  wins: 4,
+  losses: 1,
+  elo: 1048.0258616939145,
+  __v: 0
+}, 
+{
+  _id: 5f6d3444761afc0004f98d1b,
+  name: 'video_game',
+  wins: 6,
+  losses: 2,
+  elo: 1069.7091885509199,
+  __v: 0
+}, 
+{
+  _id: 5f6d3444761afc0004f98d1c,
+  name: 'custard',
+  wins: 8,
+  losses: 2,
+  elo: 1106.1628079949103,
+  __v: 0
+}, 
+{
+  _id: 5f6d3445761afc0004f98d1d,
+  name: 'T-Rex',
+  wins: 2,
+  losses: 2,
+  elo: 1000.3736046309708,
+  __v: 0
+}, 
+{
+  _id: 5f6d3445761afc0004f98d1e,
+  name: 'field_hockey',
+  wins: 1,
+  losses: 6,
+  elo: 927.8119517053084,
+  __v: 0
+}, 
+{
+  _id: 5f6d3446761afc0004f98d1f,
+  name: 'cityscape_at_dusk',
+  wins: 3,
+  losses: 4,
+  elo: 978.0467482722553,
+  __v: 0
+}, 
+{
+  _id: 5f6d3446761afc0004f98d20,
+  name: 'mobile_phone',
+  wins: 1,
+  losses: 2,
+  elo: 987.0644194281748,
+  __v: 0
+}, 
+{
+  _id: 5f6d3447761afc0004f98d21,
+  name: 'heart_exclamation',
+  wins: 4,
+  losses: 2,
+  elo: 1030.856612954426,
+  __v: 0
+}, 
+{
+  _id: 5f6d3447761afc0004f98d22,
+  name: 'magnet',
+  wins: 6,
+  losses: 1,
+  elo: 1086.4102027345336,
+  __v: 0
+}, 
+{
+  _id: 5f6d3447761afc0004f98d23,
+  name: 'slot_machine',
+  wins: 5,
+  losses: 3,
+  elo: 1033.8654074116646,
+  __v: 0
+}, 
+{
+  _id: 5f6d3447761afc0004f98d24,
+  name: 'otter',
+  wins: 7,
+  losses: 1,
+  elo: 1110.4019079336506,
+  __v: 0
+}, 
+{
+  _id: 5f6d3448761afc0004f98d25,
+  name: 'carousel_horse',
+  wins: 6,
+  losses: 1,
+  elo: 1086.3328602594686,
+  __v: 0
+}, 
+{
+  _id: 5f6d3448761afc0004f98d26,
+  name: 'kissing_cat',
+  wins: 1,
+  losses: 3,
+  elo: 965.7515793518752,
+  __v: 0
+}, 
+{
+  _id: 5f6d3448761afc0004f98d27,
+  name: 'telephone_receiver',
+  wins: 2,
+  losses: 3,
+  elo: 982.6802371773529,
+  __v: 0
+}, 
+{
+  _id: 5f6d3448761afc0004f98d28,
+  name: 'performing_arts',
+  wins: 1,
+  losses: 5,
+  elo: 941.0968596205466,
+  __v: 0
+}, 
+{
+  _id: 5f6d3448761afc0004f98d29,
+  name: 'pizza',
+  wins: 6,
+  losses: 2,
+  elo: 1068.8202735477685,
+  __v: 0
+}, 
+{
+  _id: 5f6d3449761afc0004f98d2a,
+  name: 'admission_tickets',
+  wins: 4,
+  losses: 1,
+  elo: 1053.4801785490813,
+  __v: 0
+}, 
+{
+  _id: 5f6d3449761afc0004f98d2b,
+  name: 'tooth',
+  wins: 1,
+  losses: 6,
+  elo: 933.2499067121057,
+  __v: 0
+}, 
+{
+  _id: 5f6d3449761afc0004f98d2c,
+  name: 'shopping_bags',
+  wins: 3,
+  losses: 3,
+  elo: 998.7412876472188,
+  __v: 0
+}, 
+{
+  _id: 5f6d3449761afc0004f98d2d,
+  name: 'link',
+  wins: 5,
+  losses: 1,
+  elo: 1067.69985260361,
+  __v: 0
+}, 
+{
+  _id: 5f6d3449761afc0004f98d2e,
+  name: 'person_playing_handball',
+  wins: 2,
+  losses: 4,
+  elo: 967.4978220616939,
+  __v: 0
+}, 
+{
+  _id: 5f6d344a761afc0004f98d2f,
+  name: 'pouting_cat',
+  wins: 4,
+  losses: 8,
+  elo: 942.8012229612028,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d30,
+  name: 'Aquarius',
+  wins: 4,
+  losses: 6,
+  elo: 973.749642818152,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d31,
+  name: 'Artist',
+  wins: 1,
+  losses: 1,
+  elo: 1000.7669028029707,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d32,
+  name: 'man_technologist',
+  wins: 2,
+  losses: 1,
+  elo: 1015.2313459449882,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d33,
+  name: 'sun',
+  wins: 4,
+  losses: 1,
+  elo: 1048.598889398472,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d34,
+  name: 'sleepy_face',
+  wins: 2,
+  losses: 0,
+  elo: 1034.8730989854225,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d35,
+  name: 'victory_hand',
+  wins: 3,
+  losses: 1,
+  elo: 1035.5946887550567,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d36,
+  name: 'teacup_without_handle',
+  wins: 3,
+  losses: 2,
+  elo: 1013.6622262985928,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d37,
+  name: 'goal_net',
+  wins: 3,
+  losses: 6,
+  elo: 948.2784156897665,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d38,
+  name: 'womans_hat',
+  wins: 2,
+  losses: 5,
+  elo: 954.467923632478,
+  __v: 0
+}, 
+{
+  _id: 5f6d344b761afc0004f98d39,
+  name: 'non-potable_water',
+  wins: 0,
+  losses: 3,
+  elo: 954.9127905786982,
+  __v: 0
+}, 
+{
+  _id: 5f6d344c761afc0004f98d3a,
+  name: 'construction',
+  wins: 0,
+  losses: 3,
+  elo: 955.4352229373904,
+  __v: 0
+}, 
+{
+  _id: 5f6d344c761afc0004f98d3b,
+  name: 'question_mark',
+  wins: 3,
+  losses: 2,
+  elo: 1016.0292089940954,
+  __v: 0
+}, 
+{
+  _id: 5f6d344c761afc0004f98d3c,
+  name: 'people_holding_hands',
+  wins: 7,
+  losses: 4,
+  elo: 1049.246219183727,
+  __v: 0
+}, 
+{
+  _id: 5f6d344c761afc0004f98d3d,
+  name: 'candle',
+  wins: 2,
+  losses: 1,
+  elo: 1014.3710607295175,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d3e,
+  name: 'snowboarder',
+  wins: 5,
+  losses: 5,
+  elo: 1005.2155207054113,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d3f,
+  name: 'bus',
+  wins: 1,
+  losses: 3,
+  elo: 968.8749546271653,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d40,
+  name: 'night_with_stars',
+  wins: 3,
+  losses: 3,
+  elo: 997.9321651534386,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d41,
+  name: 'purse',
+  wins: 2,
+  losses: 2,
+  elo: 1001.7115914886505,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d42,
+  name: 'hamburger',
+  wins: 2,
+  losses: 2,
+  elo: 997.1194273164369,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d43,
+  name: 'money_bag',
+  wins: 4,
+  losses: 1,
+  elo: 1049.6665737158544,
+  __v: 0
+}, 
+{
+  _id: 5f6d344d761afc0004f98d44,
+  name: 'latin_cross',
+  wins: 0,
+  losses: 6,
+  elo: 910.951074125337,
+  __v: 0
+}, 
+{
+  _id: 5f6d344e761afc0004f98d45,
+  name: 'wilted_flower',
+  wins: 0,
+  losses: 1,
+  elo: 984.7684517539476,
+  __v: 0
+}, 
+{
+  _id: 5f6d344e761afc0004f98d46,
+  name: 'fork_and_knife_with_plate',
+  wins: 4,
+  losses: 3,
+  elo: 1016.7967403077821,
+  __v: 0
+}, 
+{
+  _id: 5f6d344e761afc0004f98d47,
+  name: 'man_student',
+  wins: 1,
+  losses: 4,
+  elo: 951.9896422515038,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d48,
+  name: 'credit_card',
+  wins: 3,
+  losses: 2,
+  elo: 1017.5342105653364,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d49,
+  name: 'love-you_gesture',
+  wins: 3,
+  losses: 2,
+  elo: 1012.2910791204815,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d4a,
+  name: 'man_scientist',
+  wins: 3,
+  losses: 0,
+  elo: 1051.0349668141791,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d4b,
+  name: 'dumpling',
+  wins: 0,
+  losses: 1,
+  elo: 984,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d4c,
+  name: 'rainbow',
+  wins: 7,
+  losses: 6,
+  elo: 1014.6970404784396,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d4d,
+  name: 'prince',
+  wins: 1,
+  losses: 5,
+  elo: 939.4181709528347,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d4e,
+  name: 'strawberry',
+  wins: 1,
+  losses: 1,
+  elo: 998.4863087666051,
+  __v: 0
+}, 
+{
+  _id: 5f6d344f761afc0004f98d4f,
+  name: 'money-mouth_face',
+  wins: 6,
+  losses: 1,
+  elo: 1077.8347177902601,
+  __v: 0
+}, 
+{
+  _id: 5f6d3450761afc0004f98d50,
+  name: 'fearful_face',
+  wins: 4,
+  losses: 2,
+  elo: 1033.9782618148802,
+  __v: 0
+}, 
+{
+  _id: 5f6d3450761afc0004f98d51,
+  name: 'fire',
+  wins: 4,
+  losses: 2,
+  elo: 1029.4112651470705,
+  __v: 0
+}, 
+{
+  _id: 5f6d3450761afc0004f98d52,
+  name: 'litter_in_bin_sign',
+  wins: 3,
+  losses: 5,
+  elo: 969.8396934020482,
+  __v: 0
+}, 
+{
+  _id: 5f6d3450761afc0004f98d53,
+  name: 'compass',
+  wins: 1,
+  losses: 2,
+  elo: 984.0280418558048,
+  __v: 0
+}, 
+{
+  _id: 5f6d3450761afc0004f98d54,
+  name: 'hourglass_not_done',
+  wins: 4,
+  losses: 1,
+  elo: 1055.3447207979643,
+  __v: 0
+}, 
+{
+  _id: 5f6d3451761afc0004f98d55,
+  name: 'flying_disc',
+  wins: 2,
+  losses: 1,
+  elo: 1017.9587437799782,
+  __v: 0
+}, 
+{
+  _id: 5f6d3452761afc0004f98d56,
+  name: 'paw_prints',
+  wins: 1,
+  losses: 0,
+  elo: 1015.263693206478,
+  __v: 0
+}, 
+{
+  _id: 5f6d3455761afc0004f98d57,
+  name: 'confounded_face',
+  wins: 3,
+  losses: 3,
+  elo: 993.4961739624255,
+  __v: 0
+}, 
+{
+  _id: 5f6d3455761afc0004f98d58,
+  name: 'parrot',
+  wins: 4,
+  losses: 2,
+  elo: 1032.3171657336281,
+  __v: 0
+}, 
+{
+  _id: 5f6d3455761afc0004f98d59,
+  name: 'tumbler_glass',
+  wins: 4,
+  losses: 3,
+  elo: 1012.5584187796742,
+  __v: 0
+}, 
+{
+  _id: 5f6d3455761afc0004f98d5a,
+  name: 'older_person',
+  wins: 4,
+  losses: 4,
+  elo: 995.5170279294122,
+  __v: 0
+}, 
+{
+  _id: 5f6d3456761afc0004f98d5b,
+  name: 'microphone',
+  wins: 5,
+  losses: 5,
+  elo: 1004.7401991832513,
+  __v: 0
+}, 
+{
+  _id: 5f6d3458761afc0004f98d5c,
+  name: 'tornado',
+  wins: 4,
+  losses: 4,
+  elo: 994.8786743281992,
+  __v: 0
+}, 
+{
+  _id: 5f6d3458761afc0004f98d5d,
+  name: 'person_pouting',
+  wins: 1,
+  losses: 7,
+  elo: 913.4805229192988,
+  __v: 0
+}, 
+{
+  _id: 5f6d345b761afc0004f98d5e,
+  name: 'cocktail_glass',
+  wins: 6,
+  losses: 2,
+  elo: 1078.0855749202344,
+  __v: 0
+}, 
+{
+  _id: 5f6d345d761afc0004f98d5f,
+  name: 'face_blowing_a_kiss',
+  wins: 2,
+  losses: 1,
+  elo: 1016.0308273652406,
+  __v: 0
+}, 
+{
+  _id: 5f6d345d761afc0004f98d60,
+  name: 'oncoming_police_car',
+  wins: 4,
+  losses: 3,
+  elo: 1023.2659673477577,
+  __v: 0
+}, 
+{
+  _id: 5f6d345f761afc0004f98d61,
+  name: 'green_salad',
+  wins: 1,
+  losses: 5,
+  elo: 937.8200394607668,
+  __v: 0
+}, 
+{
+  _id: 5f6d345f761afc0004f98d62,
+  name: 'hammer_and_pick',
+  wins: 2,
+  losses: 2,
+  elo: 998.5202694134806,
+  __v: 0
+}, 
+{
+  _id: 5f6d3462761afc0004f98d63,
+  name: 'fried_shrimp',
+  wins: 6,
+  losses: 0,
+  elo: 1107.6018552416626,
+  __v: 0
+}, 
+{
+  _id: 5f6d3462761afc0004f98d64,
+  name: 'person_blond_hair',
+  wins: 3,
+  losses: 3,
+  elo: 995.5174516915345,
+  __v: 0
+}, 
+{
+  _id: 5f6d3463761afc0004f98d65,
+  name: 'flat_shoe',
+  wins: 2,
+  losses: 1,
+  elo: 1016.9938381492098,
+  __v: 0
+}, 
+{
+  _id: 5f6d3463761afc0004f98d66,
+  name: 'potato',
+  wins: 3,
+  losses: 4,
+  elo: 979.2304776899854,
+  __v: 0
+}, 
+{
+  _id: 5f6d3464761afc0004f98d67,
+  name: 'sun_behind_cloud',
+  wins: 2,
+  losses: 3,
+  elo: 981.6437315169836,
+  __v: 0
+}, 
+{
+  _id: 5f6d3464761afc0004f98d68,
+  name: 'takeout_box',
+  wins: 1,
+  losses: 4,
+  elo: 957.1761481327436,
+  __v: 0
+}, 
+{
+  _id: 5f6d3469761afc0004f98d69,
+  name: 'swim_brief',
+  wins: 1,
+  losses: 2,
+  elo: 984.5403196579059,
+  __v: 0
+}, 
+{
+  _id: 5f6d346a761afc0004f98d6a,
+  name: 'umbrella_with_rain_drops',
+  wins: 3,
+  losses: 2,
+  elo: 1013.9504458307831,
+  __v: 0
+}, 
+{
+  _id: 5f6d346b761afc0004f98d6b,
+  name: 'popcorn',
+  wins: 3,
+  losses: 1,
+  elo: 1032.6582360255736,
+  __v: 0
+}, 
+{
+  _id: 5f6d346b761afc0004f98d6c,
+  name: 'bacon',
+  wins: 2,
+  losses: 3,
+  elo: 980.4069290608498,
+  __v: 0
+}, 
+{
+  _id: 5f6d3470761afc0004f98d6d,
+  name: 'house_with_garden',
+  wins: 2,
+  losses: 1,
+  elo: 1014.6725457684848,
+  __v: 0
+}, 
+{
+  _id: 5f6d3472761afc0004f98d6e,
+  name: 'axe',
+  wins: 3,
+  losses: 1,
+  elo: 1032.0164726443613,
+  __v: 0
+}, 
+{
+  _id: 5f6d3472761afc0004f98d6f,
+  name: 'toilet',
+  wins: 2,
+  losses: 1,
+  elo: 1014.6510297853245,
+  __v: 0
+}, 
+{
+  _id: 5f6d3472761afc0004f98d70,
+  name: 'nerd_face',
+  wins: 2,
+  losses: 6,
+  elo: 935.6324486023592,
+  __v: 0
+}, 
+{
+  _id: 5f6d3473761afc0004f98d71,
+  name: 'hedgehog',
+  wins: 1,
+  losses: 2,
+  elo: 988.1160813088486,
+  __v: 0
+}, 
+{
+  _id: 5f6d3474761afc0004f98d72,
+  name: 'foggy',
+  wins: 3,
+  losses: 2,
+  elo: 1016.8556372454073,
+  __v: 0
+}, 
+{
+  _id: 5f6d3475761afc0004f98d73,
+  name: 'handshake',
+  wins: 6,
+  losses: 1,
+  elo: 1082.3460727062582,
+  __v: 0
+}, 
+{
+  _id: 5f6d3476761afc0004f98d74,
+  name: 'gem_stone',
+  wins: 4,
+  losses: 1,
+  elo: 1051.0268742532135,
+  __v: 0
+}, 
+{
+  _id: 5f6d3478761afc0004f98d75,
+  name: 'horse',
+  wins: 1,
+  losses: 0,
+  elo: 1016,
+  __v: 0
+}, 
+{
+  _id: 5f6d3478761afc0004f98d76,
+  name: 'satellite_antenna',
+  wins: 4,
+  losses: 5,
+  elo: 974.833467666544,
+  __v: 0
+}, 
+{
+  _id: 5f6d3478761afc0004f98d77,
+  name: 'comet',
+  wins: 3,
+  losses: 1,
+  elo: 1032.477584303067,
+  __v: 0
+}, 
+{
+  _id: 5f6d347a761afc0004f98d78,
+  name: 'rugby_football',
+  wins: 3,
+  losses: 4,
+  elo: 984.55994711894,
+  __v: 0
+}, 
+{
+  _id: 5f6d347a761afc0004f98d79,
+  name: 'thought_balloon',
+  wins: 4,
+  losses: 2,
+  elo: 1035.7638885206245,
+  __v: 0
+}, 
+{
+  _id: 5f6d347a761afc0004f98d7a,
+  name: 'ghost',
+  wins: 0,
+  losses: 1,
+  elo: 984,
+  __v: 0
+}, 
+{
+  _id: 5f6d347c761afc0004f98d7b,
+  name: 'face_screaming_in_fear',
+  wins: 1,
+  losses: 1,
+  elo: 1000.7629774780559,
+  __v: 0
+}, 
+{
+  _id: 5f6d347f761afc0004f98d7c,
+  name: 'beaming_face_with_smiling_eyes',
+  wins: 4,
+  losses: 3,
+  elo: 1010.6034810169716,
+  __v: 0
+}, 
+{
+  _id: 5f6d3481761afc0004f98d7d,
+  name: 'swan',
+  wins: 0,
+  losses: 3,
+  elo: 956.3474891166004,
+  __v: 0
+}, 
+{
+  _id: 5f6d3483761afc0004f98d7e,
+  name: 'national_park',
+  wins: 3,
+  losses: 1,
+  elo: 1030.853611036125,
+  __v: 0
+}, 
+{
+  _id: 5f6d3487761afc0004f98d7f,
+  name: 'Pisces',
+  wins: 1,
+  losses: 1,
+  elo: 998.7691748318001,
+  __v: 0
+}, 
+{
+  _id: 5f6d348c761afc0004f98d80,
+  name: 'shinto_shrine',
+  wins: 2,
+  losses: 5,
+  elo: 953.4348478264139,
+  __v: 0
+}, 
+{
+  _id: 5f6d348e761afc0004f98d81,
+  name: 'softball',
+  wins: 5,
+  losses: 1,
+  elo: 1068.1774952841909,
+  __v: 0
+}, 
+{
+  _id: 5f6d348e761afc0004f98d82,
+  name: 'palm_tree',
+  wins: 1,
+  losses: 1,
+  elo: 999.3850944879347,
+  __v: 0
+}, 
+{
+  _id: 5f6d3495761afc0004f98d83,
+  name: 'slightly_smiling_face',
+  wins: 2,
+  losses: 2,
+  elo: 1000.2576534766356,
+  __v: 0
+}, 
+{
+  _id: 5f6d3497761afc0004f98d84,
+  name: 'waxing_crescent_moon',
+  wins: 3,
+  losses: 1,
+  elo: 1033.3175841563689,
+  __v: 0
+}, 
+{
+  _id: 5f6d34a3761afc0004f98d85,
+  name: 'bicycle',
+  wins: 5,
+  losses: 0,
+  elo: 1086.7748567686265,
+  __v: 0
+}, 
+{
+  _id: 5f6d34a8761afc0004f98d86,
+  name: 'lion',
+  wins: 7,
+  losses: 3,
+  elo: 1067.2476502935367,
+  __v: 0
+}, 
+{
+  _id: 5f6d34a8761afc0004f98d87,
+  name: 'paperclip',
+  wins: 2,
+  losses: 1,
+  elo: 1012.2149638197743,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ab761afc0004f98d88,
+  name: 'Sagittarius',
+  wins: 1,
+  losses: 5,
+  elo: 944.7823036305017,
+  __v: 0
+}, 
+{
+  _id: 5f6d34b2761afc0004f98d89,
+  name: 'banjo',
+  wins: 6,
+  losses: 1,
+  elo: 1085.6170924362143,
+  __v: 0
+}, 
+{
+  _id: 5f6d34b7761afc0004f98d8a,
+  name: 'face_with_symbols_on_mouth',
+  wins: 1,
+  losses: 3,
+  elo: 971.4850353704259,
+  __v: 0
+}, 
+{
+  _id: 5f6d34b9761afc0004f98d8b,
+  name: 'mushroom',
+  wins: 0,
+  losses: 1,
+  elo: 986.2645505823604,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ba761afc0004f98d8c,
+  name: 'see-no-evil_monkey',
+  wins: 2,
+  losses: 1,
+  elo: 1016.0029665871684,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c0761afc0004f98d8d,
+  name: 'pot_of_food',
+  wins: 1,
+  losses: 4,
+  elo: 958.4007331279362,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c2761afc0004f98d8e,
+  name: 'speaker_high_volume',
+  wins: 5,
+  losses: 4,
+  elo: 1019.1571508938914,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c2761afc0004f98d8f,
+  name: 'magnifying_glass_tilted_left',
+  wins: 2,
+  losses: 6,
+  elo: 943.1586566937845,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c3761afc0004f98d90,
+  name: 'Libra',
+  wins: 2,
+  losses: 4,
+  elo: 964.537433382966,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c5761afc0004f98d91,
+  name: 'sunflower',
+  wins: 5,
+  losses: 4,
+  elo: 1015.9029674216785,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c6761afc0004f98d92,
+  name: 'heart',
+  wins: 1,
+  losses: 0,
+  elo: 1016,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c6761afc0004f98d93,
+  name: 'woman_and_man_holding_hands',
+  wins: 3,
+  losses: 4,
+  elo: 986.2725577876237,
+  __v: 0
+}, 
+{
+  _id: 5f6d34c8761afc0004f98d94,
+  name: 'leg',
+  wins: 4,
+  losses: 4,
+  elo: 1002.001046618116,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ca761afc0004f98d95,
+  name: 'electric_plug',
+  wins: 4,
+  losses: 3,
+  elo: 1014.8511543818349,
+  __v: 0
+}, 
+{
+  _id: 5f6d34cb761afc0004f98d96,
+  name: 'incoming_envelope',
+  wins: 1,
+  losses: 3,
+  elo: 968.7069704471791,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ce761afc0004f98d97,
+  name: 'skier',
+  wins: 4,
+  losses: 2,
+  elo: 1029.473479931203,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ce761afc0004f98d98,
+  name: 'cat_face',
+  wins: 1,
+  losses: 3,
+  elo: 972.3005897861499,
+  __v: 0
+}, 
+{
+  _id: 5f6d34d3761afc0004f98d99,
+  name: 'man_beard',
+  wins: 1,
+  losses: 8,
+  elo: 904.8150393416938,
+  __v: 0
+}, 
+{
+  _id: 5f6d34d6761afc0004f98d9a,
+  name: 'ringed_planet',
+  wins: 9,
+  losses: 2,
+  elo: 1124.114143262976,
+  __v: 0
+}, 
+{
+  _id: 5f6d34d9761afc0004f98d9b,
+  name: 'bread',
+  wins: 6,
+  losses: 2,
+  elo: 1066.6411577338513,
+  __v: 0
+}, 
+{
+  _id: 5f6d34da761afc0004f98d9c,
+  name: 'video_camera',
+  wins: 6,
+  losses: 3,
+  elo: 1049.286567236777,
+  __v: 0
+}, 
+{
+  _id: 5f6d34da761afc0004f98d9d,
+  name: 'dna',
+  wins: 0,
+  losses: 3,
+  elo: 954.9083170656534,
+  __v: 0
+}, 
+{
+  _id: 5f6d34db761afc0004f98d9e,
+  name: 'office_building',
+  wins: 2,
+  losses: 1,
+  elo: 1016.0584479324722,
+  __v: 0
+}, 
+{
+  _id: 5f6d34db761afc0004f98d9f,
+  name: 'mosquito',
+  wins: 2,
+  losses: 3,
+  elo: 984.0556276743813,
+  __v: 0
+}, 
+{
+  _id: 5f6d34dd761afc0004f98da0,
+  name: 'soap',
+  wins: 0,
+  losses: 3,
+  elo: 956.2662703486329,
+  __v: 0
+}, 
+{
+  _id: 5f6d34df761afc0004f98da1,
+  name: 'robot',
+  wins: 6,
+  losses: 2,
+  elo: 1071.9480789697866,
+  __v: 0
+}, 
+{
+  _id: 5f6d34df761afc0004f98da2,
+  name: 'anguished_face',
+  wins: 0,
+  losses: 5,
+  elo: 928.3510508152419,
+  __v: 0
+}, 
+{
+  _id: 5f6d34e0761afc0004f98da3,
+  name: 'sparkling_heart',
+  wins: 3,
+  losses: 4,
+  elo: 977.1201604290238,
+  __v: 0
+}, 
+{
+  _id: 5f6d34e1761afc0004f98da4,
+  name: 'goblin',
+  wins: 4,
+  losses: 3,
+  elo: 1014.1018229965212,
+  __v: 0
+}, 
+{
+  _id: 5f6d34e8761afc0004f98da5,
+  name: 'scarf',
+  wins: 1,
+  losses: 0,
+  elo: 1016.0692206682767,
+  __v: 0
+}, 
+{
+  _id: 5f6d34e9761afc0004f98da6,
+  name: 'no_bicycles',
+  wins: 2,
+  losses: 2,
+  elo: 998.6452863406578,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ea761afc0004f98da7,
+  name: 'woman_cook',
+  wins: 0,
+  losses: 1,
+  elo: 982.5641271217237,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ed761afc0004f98da8,
+  name: 'page_with_curl',
+  wins: 6,
+  losses: 2,
+  elo: 1065.831046256702,
+  __v: 0
+}, 
+{
+  _id: 5f6d34ed761afc0004f98da9,
+  name: 'persevering_face',
+  wins: 2,
+  losses: 3,
+  elo: 983.2876196619193,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f0761afc0004f98daa,
+  name: 'microscope',
+  wins: 5,
+  losses: 2,
+  elo: 1053.1225501760184,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f0761afc0004f98dab,
+  name: 'canned_food',
+  wins: 4,
+  losses: 5,
+  elo: 981.6484862372153,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f4761afc0004f98dac,
+  name: 'dashing_away',
+  wins: 1,
+  losses: 4,
+  elo: 954.918607186964,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f5761afc0004f98dad,
+  name: 'goat',
+  wins: 6,
+  losses: 0,
+  elo: 1114.355477407223,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f7761afc0004f98dae,
+  name: 'hotel',
+  wins: 1,
+  losses: 2,
+  elo: 984.2040651924323,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f8761afc0004f98daf,
+  name: 'thread',
+  wins: 2,
+  losses: 3,
+  elo: 988.6387535179673,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f8761afc0004f98db0,
+  name: 'fire_engine',
+  wins: 1,
+  losses: 2,
+  elo: 983.3615303527926,
+  __v: 0
+}, 
+{
+  _id: 5f6d34f9761afc0004f98db1,
+  name: 'spouting_whale',
+  wins: 5,
+  losses: 2,
+  elo: 1049.2064048940763,
+  __v: 0
+}, 
+{
+  _id: 5f6d3500761afc0004f98db2,
+  name: 'horse_racing',
+  wins: 2,
+  losses: 2,
+  elo: 994.9582117056852,
+  __v: 0
+}, 
+{
+  _id: 5f6d3501761afc0004f98db3,
+  name: 'mountain_cableway',
+  wins: 1,
+  losses: 1,
+  elo: 1000.7345649207299,
+  __v: 0
+}, 
+{
+  _id: 5f6d3501761afc0004f98db4,
+  name: 'chains',
+  wins: 1,
+  losses: 6,
+  elo: 927.787182226432,
+  __v: 0
+}, 
+{
+  _id: 5f6d3503761afc0004f98db5,
+  name: 'maple_leaf',
+  wins: 1,
+  losses: 6,
+  elo: 927.6217511305794,
+  __v: 0
+}, 
+{
+  _id: 5f6d3504761afc0004f98db6,
+  name: 'croissant',
+  wins: 1,
+  losses: 0,
+  elo: 1016,
+  __v: 0
+}, 
+{
+  _id: 5f6d3504761afc0004f98db7,
+  name: 'sign_of_the_horns',
+  wins: 4,
+  losses: 3,
+  elo: 1022.2709139640136,
+  __v: 0
+}, 
+{
+  _id: 5f6d3506761afc0004f98db8,
+  name: 'houses',
+  wins: 4,
+  losses: 1,
+  elo: 1051.6253337343169,
+  __v: 0
+}, 
+{
+  _id: 5f6d350d761afc0004f98db9,
+  name: 'cold_face',
+  wins: 4,
+  losses: 3,
+  elo: 1016.0241021433997,
+  __v: 0
+}, 
+{
+  _id: 5f6d350e761afc0004f98dba,
+  name: 'stethoscope',
+  wins: 0,
+  losses: 6,
+  elo: 920.1126750288855,
+  __v: 0
+}, 
+{
+  _id: 5f6d3513761afc0004f98dbb,
+  name: 'volleyball',
+  wins: 0,
+  losses: 4,
+  elo: 939.5948567845255,
+  __v: 0
+}, 
+{
+  _id: 5f6d3514761afc0004f98dbc,
+  name: 'soft_ice_cream',
+  wins: 4,
+  losses: 4,
+  elo: 997.73144412048,
+  __v: 0
+}, 
+{
+  _id: 5f6d3516761afc0004f98dbd,
+  name: 'bowl_with_spoon',
+  wins: 0,
+  losses: 5,
+  elo: 924.3694709235992,
+  __v: 0
+}, 
+{
+  _id: 5f6d3516761afc0004f98dbe,
+  name: 'flashlight',
+  wins: 4,
+  losses: 6,
+  elo: 976.1516372276848,
+  __v: 0
+}, 
+{
+  _id: 5f6d3517761afc0004f98dbf,
+  name: 'chart_decreasing',
+  wins: 4,
+  losses: 1,
+  elo: 1053.2375021941382,
+  __v: 0
+}, 
+{
+  _id: 5f6d3519761afc0004f98dc0,
+  name: 'flag_United_States',
+  wins: 3,
+  losses: 2,
+  elo: 1013.844465457697,
+  __v: 0
+}, 
+{
+  _id: 5f6d3519761afc0004f98dc1,
+  name: 'cucumber',
+  wins: 6,
+  losses: 1,
+  elo: 1091.558416834751,
+  __v: 0
+}, 
+{
+  _id: 5f6d351b761afc0004f98dc2,
+  name: 'flag_in_hole',
+  wins: 2,
+  losses: 2,
+  elo: 996.994366858301,
+  __v: 0
+}, 
+{
+  _id: 5f6d351b761afc0004f98dc3,
+  name: 'bouquet',
+  wins: 1,
+  losses: 3,
+  elo: 965.71367162193,
+  __v: 0
+}, 
+{
+  _id: 5f6d351c761afc0004f98dc4,
+  name: 'heart_with_ribbon',
+  wins: 3,
+  losses: 1,
+  elo: 1033.7971537972917,
+  __v: 0
+}, 
+{
+  _id: 5f6d351d761afc0004f98dc5,
+  name: 'castle',
+  wins: 1,
+  losses: 2,
+  elo: 983.6502718976625,
+  __v: 0
+}, 
+{
+  _id: 5f6d351f761afc0004f98dc6,
+  name: 'motorway',
+  wins: 1,
+  losses: 4,
+  elo: 953.1468290925536,
+  __v: 0
+}, 
+{
+  _id: 5f6d3521761afc0004f98dc7,
+  name: 'tiger',
+  wins: 3,
+  losses: 1,
+  elo: 1033.5992033865634,
+  __v: 0
+}, 
+{
+  _id: 5f6d3523761afc0004f98dc8,
+  name: 'dizzy_face',
+  wins: 0,
+  losses: 4,
+  elo: 938.2393860791095,
+  __v: 0
+}, 
+{
+  _id: 5f6d3525761afc0004f98dc9,
+  name: 'bus_stop',
+  wins: 2,
+  losses: 3,
+  elo: 978.0212775294208,
+  __v: 0
+}, 
+{
+  _id: 5f6d3525761afc0004f98dca,
+  name: 'orthodox_cross',
+  wins: 0,
+  losses: 4,
+  elo: 940.9105456453768,
+  __v: 0
+}, 
+{
+  _id: 5f6d3526761afc0004f98dcb,
+  name: 'kick_scooter',
+  wins: 4,
+  losses: 2,
+  elo: 1028.5945571519655,
+  __v: 0
+}, 
+{
+  _id: 5f6d3526761afc0004f98dcc,
+  name: 'wolf',
+  wins: 2,
+  losses: 3,
+  elo: 983.3645008957006,
+  __v: 0
+}, 
+{
+  _id: 5f6d3527761afc0004f98dcd,
+  name: 'onion',
+  wins: 1,
+  losses: 3,
+  elo: 971.7036518365701,
+  __v: 0
+}, 
+{
+  _id: 5f6d352c761afc0004f98dce,
+  name: 'fleur-de-lis',
+  wins: 3,
+  losses: 1,
+  elo: 1034.1989070853745,
+  __v: 0
+}, 
+{
+  _id: 5f6d352c761afc0004f98dcf,
+  name: 'octopus',
+  wins: 3,
+  losses: 1,
+  elo: 1036.0658294086568,
+  __v: 0
+}, 
+{
+  _id: 5f6d3532761afc0004f98dd0,
+  name: 'ship',
+  wins: 4,
+  losses: 3,
+  elo: 1013.0348256997055,
+  __v: 0
+}, 
+{
+  _id: 5f6d3533761afc0004f98dd1,
+  name: 'zany_face',
+  wins: 5,
+  losses: 1,
+  elo: 1068.8216107580956,
+  __v: 0
+}, 
+{
+  _id: 5f6d3533761afc0004f98dd2,
+  name: 'star_of_David',
+  wins: 1,
+  losses: 4,
+  elo: 953.4150211789771,
+  __v: 0
+}, 
+{
+  _id: 5f6d3534761afc0004f98dd3,
+  name: 'person_lifting_weights',
+  wins: 5,
+  losses: 1,
+  elo: 1064.1779745555507,
+  __v: 0
+}, 
+{
+  _id: 5f6d3534761afc0004f98dd4,
+  name: 'drooling_face',
+  wins: 1,
+  losses: 4,
+  elo: 953.7673308837211,
+  __v: 0
+}, 
+{
+  _id: 5f6d3536761afc0004f98dd5,
+  name: 'megaphone',
+  wins: 0,
+  losses: 3,
+  elo: 956.0714882189766,
+  __v: 0
+}, 
+{
+  _id: 5f6d3538761afc0004f98dd6,
+  name: 'radioactive',
+  wins: 2,
+  losses: 2,
+  elo: 1000.6466221560011,
+  __v: 0
+}, 
+{
+  _id: 5f6d353c761afc0004f98dd7,
+  name: 'dizzy',
+  wins: 0,
+  losses: 5,
+  elo: 925.8810204202566,
+  __v: 0
+}, 
+{
+  _id: 5f6d3540761afc0004f98dd8,
+  name: 'violin',
+  wins: 3,
+  losses: 0,
+  elo: 1051.865954266426,
+  __v: 0
+}, 
+{
+  _id: 5f6d3541761afc0004f98dd9,
+  name: 'saxophone',
+  wins: 2,
+  losses: 2,
+  elo: 997.2657218073733,
+  __v: 0
+}, 
+{
+  _id: 5f6d3542761afc0004f98dda,
+  name: 'goggles',
+  wins: 4,
+  losses: 3,
+  elo: 1015.3124206128293,
+  __v: 0
+}, 
+{
+  _id: 5f6d3544761afc0004f98ddb,
+  name: 'door',
+  wins: 1,
+  losses: 5,
+  elo: 939.6141126943121,
+  __v: 0
+}, 
+{
+  _id: 5f6d3547761afc0004f98ddc,
+  name: 'camera',
+  wins: 2,
+  losses: 0,
+  elo: 1032.9035001969694,
+  __v: 0
+}, 
+{
+  _id: 5f6d3547761afc0004f98ddd,
+  name: 'woman_artist',
+  wins: 1,
+  losses: 2,
+  elo: 985.305229811852,
+  __v: 0
+}, 
+{
+  _id: 5f6d3548761afc0004f98dde,
+  name: 'cooked_rice',
+  wins: 6,
+  losses: 1,
+  elo: 1092.9199027578281,
+  __v: 0
+}, 
+{
+  _id: 5f6d354b761afc0004f98ddf,
+  name: 'flamingo',
+  wins: 5,
+  losses: 1,
+  elo: 1071.3060520118202,
+  __v: 0
+}, 
+{
+  _id: 5f6d354b761afc0004f98de0,
+  name: 'supervillain',
+  wins: 0,
+  losses: 2,
+  elo: 967.9668859018888,
+  __v: 0
+}, 
+{
+  _id: 5f6d354c761afc0004f98de1,
+  name: 'adhesive_bandage',
+  wins: 3,
+  losses: 2,
+  elo: 1017.6769427616437,
+  __v: 0
+}, 
+{
+  _id: 5f6d354d761afc0004f98de2,
+  name: 'racing_car',
+  wins: 2,
+  losses: 4,
+  elo: 962.919810234933,
+  __v: 0
+}, 
+{
+  _id: 5f6d3550761afc0004f98de3,
+  name: 'old_key',
+  wins: 4,
+  losses: 1,
+  elo: 1054.1711000771247,
+  __v: 0
+}, 
+{
+  _id: 5f6d3550761afc0004f98de4,
+  name: 'person_surfing',
+  wins: 4,
+  losses: 3,
+  elo: 1011.8699386066327,
+  __v: 0
+}, 
+{
+  _id: 5f6d3550761afc0004f98de5,
+  name: 'mouth',
+  wins: 2,
+  losses: 2,
+  elo: 996.1005115742652,
+  __v: 0
+}, 
+{
+  _id: 5f6d3551761afc0004f98de6,
+  name: 'droplet',
+  wins: 1,
+  losses: 4,
+  elo: 954.1883762322847,
+  __v: 0
+}, 
+{
+  _id: 5f6d3551761afc0004f98de7,
+  name: 'scissors',
+  wins: 0,
+  losses: 3,
+  elo: 952.8001324449854,
+  __v: 0
+}, 
+{
+  _id: 5f6d3552761afc0004f98de8,
+  name: 'bat',
+  wins: 4,
+  losses: 2,
+  elo: 1029.0718994158183,
+  __v: 0
+}, 
+{
+  _id: 5f6d3558761afc0004f98de9,
+  name: 'grinning_cat',
+  wins: 3,
+  losses: 3,
+  elo: 1001.0185074334476,
+  __v: 0
+}, 
+{
+  _id: 5f6d355f761afc0004f98dea,
+  name: 'cheese_wedge',
+  wins: 3,
+  losses: 2,
+  elo: 1018.4375262862402,
+  __v: 0
+}, 
+{
+  _id: 5f6d3560761afc0004f98deb,
+  name: 'vulcan_salute',
+  wins: 2,
+  losses: 3,
+  elo: 982.3092759900372,
+  __v: 0
+}, 
+{
+  _id: 5f6d3561761afc0004f98dec,
+  name: 'sun_behind_rain_cloud',
+  wins: 3,
+  losses: 2,
+  elo: 1018.3553915284199,
+  __v: 0
+}, 
+{
+  _id: 5f6d3564761afc0004f98ded,
+  name: 'SOS_button',
+  wins: 2,
+  losses: 4,
+  elo: 970.4550270636153,
+  __v: 0
+}, 
+{
+  _id: 5f6d3715761afc0004f98dee,
+  name: 'deaf_person',
+  wins: 0,
+  losses: 4,
+  elo: 942.3595343384596,
+  __v: 0
+}, 
+{
+  _id: 5f6d371c761afc0004f98def,
+  name: 'kiwi_fruit',
+  wins: 4,
+  losses: 3,
+  elo: 1009.4198093192953,
+  __v: 0
+}, 
+{
+  _id: 5f6d3721761afc0004f98df0,
+  name: 'milky_way',
+  wins: 6,
+  losses: 0,
+  elo: 1109.3633995364198,
+  __v: 0
+}, 
+{
+  _id: 5f6d3725761afc0004f98df1,
+  name: 'dragon_face',
+  wins: 2,
+  losses: 2,
+  elo: 997.1607386941132,
+  __v: 0
+}, 
+{
+  _id: 5f6d3728761afc0004f98df2,
+  name: 'smiling_face_with_heart-eyes',
+  wins: 1,
+  losses: 1,
+  elo: 999.9633448998701,
+  __v: 0
+}, 
+{
+  _id: 5f6d375c761afc0004f98df3,
+  name: 'rocket',
+  wins: 4,
+  losses: 0,
+  elo: 1069.1498965247515,
+  __v: 0
+}, 
+{
+  _id: 5f6d3765761afc0004f98df4,
+  name: 'man_mechanic',
+  wins: 2,
+  losses: 2,
+  elo: 999.0385580878235,
+  __v: 0
+}, 
+{
+  _id: 5f6d3766761afc0004f98df5,
+  name: 'partying_face',
+  wins: 6,
+  losses: 0,
+  elo: 1111.3798442363993,
+  __v: 0
+}, 
+{
+  _id: 5f6d3766761afc0004f98df6,
+  name: 'herb',
+  wins: 2,
+  losses: 2,
+  elo: 998.4863587524419,
+  __v: 0
+}, 
+{
+  _id: 5f6d3769761afc0004f98df7,
+  name: 'paintbrush',
+  wins: 1,
+  losses: 0,
+  elo: 1016.0339081301692,
+  __v: 0
+}, 
+{
+  _id: 5f6d376a761afc0004f98df8,
+  name: 'front-facing_baby_chick',
+  wins: 3,
+  losses: 2,
+  elo: 1016.3129266364907,
+  __v: 0
+}, 
+{
+  _id: 5f6d376c761afc0004f98df9,
+  name: 'nauseated_face',
+  wins: 3,
+  losses: 1,
+  elo: 1032.32126458468,
+  __v: 0
+}, 
+{
+  _id: 5f6d376c761afc0004f98dfa,
+  name: 'clamp',
+  wins: 1,
+  losses: 6,
+  elo: 931.3781864592912,
+  __v: 0
+}, 
+{
+  _id: 5f6d3773761afc0004f98dfb,
+  name: 'beach_with_umbrella',
+  wins: 2,
+  losses: 3,
+  elo: 983.6574788429022,
+  __v: 0
+}, 
+{
+  _id: 5f6d3773761afc0004f98dfc,
+  name: 'skunk',
+  wins: 4,
+  losses: 3,
+  elo: 1009.026277397601,
+  __v: 0
+}, 
+{
+  _id: 5f6d3774761afc0004f98dfd,
+  name: 'raised_hand',
+  wins: 2,
+  losses: 2,
+  elo: 1000.1608179463188,
+  __v: 0
+}, 
+{
+  _id: 5f6d3774761afc0004f98dfe,
+  name: 'hammer',
+  wins: 1,
+  losses: 3,
+  elo: 972.1567349639558,
+  __v: 0
+}, 
+{
+  _id: 5f6d3778761afc0004f98e00,
+  name: 'desert_island',
+  wins: 1,
+  losses: 1,
+  elo: 998.5290918586967,
+  __v: 0
+}, 
+{
+  _id: 5f6d3778761afc0004f98dff,
+  name: 'chicken',
+  wins: 3,
+  losses: 2,
+  elo: 1016.8442676576533,
+  __v: 0
+}, 
+{
+  _id: 5f6d377b761afc0004f98e01,
+  name: 'hiking_boot',
+  wins: 2,
+  losses: 0,
+  elo: 1031.1717541907353,
+  __v: 0
+}, 
+{
+  _id: 5f6d3798761afc0004f98e02,
+  name: 'writing_hand',
+  wins: 3,
+  losses: 4,
+  elo: 980.4450041022762,
+  __v: 0
+}, 
+{
+  _id: 5f6d379b761afc0004f98e03,
+  name: 'hippopotamus',
+  wins: 2,
+  losses: 0,
+  elo: 1034.2103688462523,
+  __v: 0
+}, 
+{
+  _id: 5f6d379f761afc0004f98e04,
+  name: 'Cook',
+  wins: 2,
+  losses: 3,
+  elo: 982.7267959588718,
+  __v: 0
+}, 
+{
+  _id: 5f6d37a3761afc0004f98e05,
+  name: 'military_medal',
+  wins: 1,
+  losses: 3,
+  elo: 966.6052413984111,
+  __v: 0
+}, 
+{
+  _id: 5f6d37aa761afc0004f98e06,
+  name: 'hatching_chick',
+  wins: 4,
+  losses: 1,
+  elo: 1049.250254893338,
+  __v: 0
+}, 
+{
+  _id: 5f6d37ad761afc0004f98e07,
+  name: 'sushi',
+  wins: 1,
+  losses: 5,
+  elo: 933.4095877718486,
+  __v: 0
+}, 
+{
+  _id: 5f6d37ae761afc0004f98e08,
+  name: 'man_singer',
+  wins: 0,
+  losses: 3,
+  elo: 958.6706624345168,
+  __v: 0
+}, 
+{
+  _id: 5f6d37b2761afc0004f98e09,
+  name: 'poodle',
+  wins: 5,
+  losses: 4,
+  elo: 1017.8135091225456,
+  __v: 0
+}, 
+{
+  _id: 5f6d37b7761afc0004f98e0a,
+  name: 'coffin',
+  wins: 2,
+  losses: 4,
+  elo: 971.7251220694175,
+  __v: 0
+}, 
+{
+  _id: 5f6d37ba761afc0004f98e0b,
+  name: 'prayer_beads',
+  wins: 0,
+  losses: 3,
+  elo: 950.8776752611352,
+  __v: 0
+}, 
+{
+  _id: 5f6d37ca761afc0004f98e0c,
+  name: '3rd_place_medal',
+  wins: 2,
+  losses: 4,
+  elo: 970.8156001337189,
+  __v: 0
+}, 
+{
+  _id: 5f6d37cc761afc0004f98e0d,
+  name: 'hear-no-evil_monkey',
+  wins: 2,
+  losses: 3,
+  elo: 983.7677399848773,
+  __v: 0
+}, 
+{
+  _id: 5f6d37cc761afc0004f98e0e,
+  name: 'cooking',
+  wins: 3,
+  losses: 2,
+  elo: 1018.1900060291839,
+  __v: 0
+}, 
+{
+  _id: 5f6d381f761afc0004f98e0f,
+  name: 'wind_face',
+  wins: 2,
+  losses: 2,
+  elo: 998.539139213186,
+  __v: 0
+}, 
+{
+  _id: 5f6d381f761afc0004f98e10,
+  name: 'garlic',
+  wins: 4,
+  losses: 2,
+  elo: 1027.0571618555805,
+  __v: 0
+}, 
+{
+  _id: 5f6d3821761afc0004f98e11,
+  name: 'giraffe',
+  wins: 2,
+  losses: 1,
+  elo: 1014.4120338619598,
+  __v: 0
+}, 
+{
+  _id: 5f6d3823761afc0004f98e12,
+  name: 'mans_shoe',
+  wins: 4,
+  losses: 4,
+  elo: 991.7044211746597,
+  __v: 0
+}, 
+{
+  _id: 5f6d382b761afc0004f98e13,
+  name: 'pie',
+  wins: 3,
+  losses: 1,
+  elo: 1028.3179160659163,
+  __v: 0
+}, 
+{
+  _id: 5f6d382b761afc0004f98e14,
+  name: 'shortcake',
+  wins: 3,
+  losses: 2,
+  elo: 1016.8705045250899,
+  __v: 0
+}, 
+{
+  _id: 5f6d382d761afc0004f98e15,
+  name: 'Statue_of_Liberty',
+  wins: 4,
+  losses: 1,
+  elo: 1051.6709157526648,
+  __v: 0
+}, 
+{
+  _id: 5f6d382d761afc0004f98e16,
+  name: 'flushed_face',
+  wins: 2,
+  losses: 2,
+  elo: 997.7924838106396,
+  __v: 0
+}, 
+{
+  _id: 5f6d382f761afc0004f98e17,
+  name: 'control_knobs',
+  wins: 2,
+  losses: 8,
+  elo: 910.2695049018249,
+  __v: 0
+}, 
+{
+  _id: 5f6d3836761afc0004f98e18,
+  name: 'laptop_computer',
+  wins: 1,
+  losses: 0,
+  elo: 1016.7024671725246,
+  __v: 0
+}, 
+{
+  _id: 5f6d384b761afc0004f98e19,
+  name: 'tropical_fish',
+  wins: 3,
+  losses: 2,
+  elo: 1021.9816553824693,
+  __v: 0
+}, 
+{
+  _id: 5f6d384e761afc0004f98e1a,
+  name: 'basket',
+  wins: 2,
+  losses: 10,
+  elo: 892.2823700818094,
+  __v: 0
+}, 
+{
+  _id: 5f6d384f761afc0004f98e1b,
+  name: 'world_map',
+  wins: 3,
+  losses: 1,
+  elo: 1036.8638293311922,
+  __v: 0
+}, 
+{
+  _id: 5f6d384f761afc0004f98e1c,
+  name: 'sweat_droplets',
+  wins: 4,
+  losses: 1,
+  elo: 1048.2452800607,
+  __v: 0
+}, 
+{
+  _id: 5f6d3850761afc0004f98e1d,
+  name: 'Pilot',
+  wins: 7,
+  losses: 1,
+  elo: 1104.8263954836266,
+  __v: 0
+}, 
+{
+  _id: 5f6d3850761afc0004f98e1e,
+  name: 'bank',
+  wins: 3,
+  losses: 3,
+  elo: 999.8334748620256,
+  __v: 0
+}, 
+{
+  _id: 5f6d3853761afc0004f98e1f,
+  name: 'baby_bottle',
+  wins: 2,
+  losses: 5,
+  elo: 955.5504320668241,
+  __v: 0
+}, 
+{
+  _id: 5f6d3853761afc0004f98e20,
+  name: 'club_suit',
+  wins: 2,
+  losses: 2,
+  elo: 999.2729934621327,
+  __v: 0
+}, 
+{
+  _id: 5f6d3854761afc0004f98e21,
+  name: 'blossom',
+  wins: 3,
+  losses: 1,
+  elo: 1033.52000179785,
+  __v: 0
+}, 
+{
+  _id: 5f6d3855761afc0004f98e22,
+  name: 'tennis',
+  wins: 4,
+  losses: 0,
+  elo: 1069.506855445416,
+  __v: 0
+}, 
+{
+  _id: 5f6d3857761afc0004f98e23,
+  name: 'file_cabinet',
+  wins: 2,
+  losses: 4,
+  elo: 971.062419270704,
+  __v: 0
+}, 
+{
+  _id: 5f6d3857761afc0004f98e24,
+  name: 'flying_saucer',
+  wins: 4,
+  losses: 1,
+  elo: 1046.1983020167115,
+  __v: 0
+}, 
+{
+  _id: 5f6d3857761afc0004f98e25,
+  name: 'gorilla',
+  wins: 0,
+  losses: 2,
+  elo: 968.0061754007395,
+  __v: 0
+}, 
+{
+  _id: 5f6d3858761afc0004f98e26,
+  name: 'Leo',
+  wins: 2,
+  losses: 8,
+  elo: 926.0677749186234,
+  __v: 0
+}, 
+{
+  _id: 5f6d3859761afc0004f98e27,
+  name: 'bar_chart',
+  wins: 3,
+  losses: 3,
+  elo: 997.4671870448236,
+  __v: 0
+}, 
+{
+  _id: 5f6d3859761afc0004f98e28,
+  name: 'person_cartwheeling',
+  wins: 3,
+  losses: 2,
+  elo: 1018.1751410306251,
+  __v: 0
+}, 
+{
+  _id: 5f6d385b761afc0004f98e29,
+  name: 'kiss',
+  wins: 1,
+  losses: 1,
+  elo: 999.1887476326133,
+  __v: 0
+}, 
+{
+  _id: 5f6d385b761afc0004f98e2a,
+  name: 'yawning_face',
+  wins: 5,
+  losses: 1,
+  elo: 1071.2240754790196,
+  __v: 0
+}, 
+{
+  _id: 5f6d385c761afc0004f98e2b,
+  name: 'desert',
+  wins: 3,
+  losses: 3,
+  elo: 997.901890319358,
+  __v: 0
+}, 
+{
+  _id: 5f6d385c761afc0004f98e2c,
+  name: 'person_taking_bath',
+  wins: 6,
+  losses: 0,
+  elo: 1110.0801036977066,
+  __v: 0
+}, 
+{
+  _id: 5f6d385c761afc0004f98e2d,
+  name: 'koala',
+  wins: 0,
+  losses: 3,
+  elo: 954.8718751773815,
+  __v: 0
+}, 
+{
+  _id: 5f6d385d761afc0004f98e2e,
+  name: 'cyclone',
+  wins: 3,
+  losses: 4,
+  elo: 983.1348379591076,
+  __v: 0
+}, 
+{
+  _id: 5f6d385e761afc0004f98e2f,
+  name: 'baseball',
+  wins: 2,
+  losses: 2,
+  elo: 994.9896569824068,
+  __v: 0
+}, 
+{
+  _id: 5f6d385f761afc0004f98e30,
+  name: 'cow',
+  wins: 2,
+  losses: 4,
+  elo: 974.5541842342083,
+  __v: 0
+}, 
+{
+  _id: 5f6d3861761afc0004f98e31,
+  name: 'pancakes',
+  wins: 5,
+  losses: 1,
+  elo: 1072.5055439442942,
+  __v: 0
+}, 
+{
+  _id: 5f6d3861761afc0004f98e32,
+  name: 'ferris_wheel',
+  wins: 4,
+  losses: 2,
+  elo: 1033.321380848864,
+  __v: 0
+}, 
+{
+  _id: 5f6d3861761afc0004f98e33,
+  name: 'clapping_hands',
+  wins: 4,
+  losses: 1,
+  elo: 1050.2967197918533,
+  __v: 0
+}, 
+{
+  _id: 5f6d3861761afc0004f98e34,
+  name: 'waving_hand',
+  wins: 1,
+  losses: 4,
+  elo: 953.9233064632574,
+  __v: 0
+}, 
+{
+  _id: 5f6d3862761afc0004f98e35,
+  name: 'shushing_face',
+  wins: 3,
+  losses: 2,
+  elo: 1010.0052392417998,
+  __v: 0
+}, 
+{
+  _id: 5f6d3862761afc0004f98e36,
+  name: 'ledger',
+  wins: 2,
+  losses: 0,
+  elo: 1034.720198231125,
+  __v: 0
+}, 
+{
+  _id: 5f6d3862761afc0004f98e37,
+  name: 'pool_8_ball',
+  wins: 3,
+  losses: 4,
+  elo: 981.98773630407,
+  __v: 0
+}, 
+{
+  _id: 5f6d3863761afc0004f98e38,
+  name: 'upside-down_face',
+  wins: 1,
+  losses: 1,
+  elo: 999.1633234689195,
+  __v: 0
+}, 
+{
+  _id: 5f6d3863761afc0004f98e39,
+  name: 'footprints',
+  wins: 3,
+  losses: 0,
+  elo: 1047.4344760986307,
+  __v: 0
+}, 
+{
+  _id: 5f6d3863761afc0004f98e3a,
+  name: 'ewe',
+  wins: 2,
+  losses: 1,
+  elo: 1020.9343662324601,
+  __v: 0
+}, 
+{
+  _id: 5f6d3864761afc0004f98e3b,
+  name: 'man',
+  wins: 2,
+  losses: 0,
+  elo: 1033.5374004072817,
+  __v: 0
+}, 
+{
+  _id: 5f6d3864761afc0004f98e3c,
+  name: 'sunset',
+  wins: 2,
+  losses: 2,
+  elo: 996.8302384304482,
+  __v: 0
+}, 
+{
+  _id: 5f6d3865761afc0004f98e3d,
+  name: 'lying_face',
+  wins: 4,
+  losses: 2,
+  elo: 1035.602670553595,
+  __v: 0
+}, 
+{
+  _id: 5f6d3d42761afc0004f98e3e,
+  name: 'speech_balloon',
+  wins: 2,
+  losses: 1,
+  elo: 1021.7705263825009,
+  __v: 0
+}, 
+{
+  _id: 5f6d3d9d761afc0004f98e3f,
+  name: 'person_getting_massage',
+  wins: 5,
+  losses: 2,
+  elo: 1048.6069878114631,
+  __v: 0
+}, 
+{
+  _id: 5f6d3d9e761afc0004f98e40,
+  name: 'woman_student',
+  wins: 2,
+  losses: 2,
+  elo: 1002.3257566471691,
+  __v: 0
+}, 
+{
+  _id: 5f6d3da7761afc0004f98e41,
+  name: 'fountain',
+  wins: 6,
+  losses: 4,
+  elo: 1021.7998098274873,
+  __v: 0
+}, 
+{
+  _id: 5f6d3da8761afc0004f98e42,
+  name: 'person_bouncing_ball',
+  wins: 4,
+  losses: 3,
+  elo: 1001.8935055209632,
+  __v: 0
+}, 
+{
+  _id: 5f6d3daa761afc0004f98e43,
+  name: 'fish_cake_with_swirl',
+  wins: 2,
+  losses: 3,
+  elo: 983.3518333639746,
+  __v: 0
+}, 
+{
+  _id: 5f6d3dae761afc0004f98e44,
+  name: 'face_with_tears_of_joy',
+  wins: 1,
+  losses: 1,
+  elo: 1000.0322130661888,
+  __v: 0
+}, 
+{
+  _id: 5f6d3daf761afc0004f98e45,
+  name: 'peace_symbol',
+  wins: 1,
+  losses: 2,
+  elo: 985.5835116439636,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e13761afc0004f98e46,
+  name: 'face_with_rolling_eyes',
+  wins: 2,
+  losses: 2,
+  elo: 997.9477068434475,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e1c761afc0004f98e47,
+  name: 'alien',
+  wins: 4,
+  losses: 2,
+  elo: 1031.715435393514,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e1f761afc0004f98e48,
+  name: 'steaming_bowl',
+  wins: 4,
+  losses: 0,
+  elo: 1069.6352914705594,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e23761afc0004f98e49,
+  name: 'pushpin',
+  wins: 3,
+  losses: 0,
+  elo: 1046.4604892171803,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e23761afc0004f98e4a,
+  name: 'child',
+  wins: 0,
+  losses: 1,
+  elo: 984,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e34761afc0004f98e4b,
+  name: 'two_hearts',
+  wins: 2,
+  losses: 3,
+  elo: 983.2705948121102,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e36761afc0004f98e4c,
+  name: 'clinking_beer_mugs',
+  wins: 3,
+  losses: 0,
+  elo: 1053.2122595841868,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e3b761afc0004f98e4d,
+  name: 'children_crossing',
+  wins: 2,
+  losses: 3,
+  elo: 983.1202364260023,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e3c761afc0004f98e4e,
+  name: 'person_biking',
+  wins: 3,
+  losses: 1,
+  elo: 1031.9333560869654,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e40761afc0004f98e4f,
+  name: 'person_walking',
+  wins: 1,
+  losses: 3,
+  elo: 967.9930100312216,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e42761afc0004f98e50,
+  name: 'pregnant_woman',
+  wins: 1,
+  losses: 3,
+  elo: 969.9076983200665,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e43761afc0004f98e51,
+  name: 'french_fries',
+  wins: 6,
+  losses: 0,
+  elo: 1106.897572596969,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e48761afc0004f98e52,
+  name: 'manual_wheelchair',
+  wins: 2,
+  losses: 1,
+  elo: 1013.6015107535377,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e4c761afc0004f98e53,
+  name: 'whale',
+  wins: 5,
+  losses: 0,
+  elo: 1091.3118401130826,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e53761afc0004f98e54,
+  name: 'ballet_shoes',
+  wins: 1,
+  losses: 2,
+  elo: 983.9682902222797,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e53761afc0004f98e55,
+  name: 'man_astronaut',
+  wins: 5,
+  losses: 1,
+  elo: 1066.1079905502654,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e55761afc0004f98e56,
+  name: 'hundred_points',
+  wins: 1,
+  losses: 1,
+  elo: 1000.6602212708699,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e57761afc0004f98e57,
+  name: 'superhero',
+  wins: 1,
+  losses: 2,
+  elo: 985.015951186389,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e58761afc0004f98e58,
+  name: 'cherries',
+  wins: 2,
+  losses: 0,
+  elo: 1032.736306793522,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e5e761afc0004f98e5a,
+  name: 'dango',
+  wins: 1,
+  losses: 2,
+  elo: 981.0581743178268,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e5e761afc0004f98e59,
+  name: 'eggplant',
+  wins: 4,
+  losses: 5,
+  elo: 986.2659331215689,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e61761afc0004f98e5b,
+  name: 'mate',
+  wins: 3,
+  losses: 1,
+  elo: 1034.0717989618265,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e6a761afc0004f98e5c,
+  name: 'fireworks',
+  wins: 3,
+  losses: 1,
+  elo: 1035.1127488284328,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e6a761afc0004f98e5d,
+  name: 'tangerine',
+  wins: 2,
+  losses: 3,
+  elo: 986.3096145258023,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e6d761afc0004f98e5e,
+  name: 'briefcase',
+  wins: 1,
+  losses: 2,
+  elo: 981.9028783692868,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e70761afc0004f98e5f,
+  name: 'couch_and_lamp',
+  wins: 2,
+  losses: 1,
+  elo: 1017.899766962405,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e79761afc0004f98e60,
+  name: 'chocolate_bar',
+  wins: 5,
+  losses: 2,
+  elo: 1058.0800472988274,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e79761afc0004f98e61,
+  name: 'stopwatch',
+  wins: 3,
+  losses: 2,
+  elo: 1016.484483263158,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e7f761afc0004f98e62,
+  name: 'downcast_face_with_sweat',
+  wins: 3,
+  losses: 2,
+  elo: 1012.5633899032428,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e83761afc0004f98e63,
+  name: 'last_quarter_moon',
+  wins: 1,
+  losses: 4,
+  elo: 954.2505027813371,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e8a761afc0004f98e64,
+  name: 'collision',
+  wins: 4,
+  losses: 2,
+  elo: 1037.7907525398914,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e93761afc0004f98e65,
+  name: 'woman_firefighter',
+  wins: 3,
+  losses: 0,
+  elo: 1052.401255460088,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e95761afc0004f98e66,
+  name: 'motor_scooter',
+  wins: 2,
+  losses: 2,
+  elo: 999.545019475018,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e99761afc0004f98e67,
+  name: 'smiling_face_with_sunglasses',
+  wins: 3,
+  losses: 4,
+  elo: 992.1567253907598,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e9d761afc0004f98e68,
+  name: 'videocassette',
+  wins: 1,
+  losses: 1,
+  elo: 1000.4337102749532,
+  __v: 0
+}, 
+{
+  _id: 5f6d3e9f761afc0004f98e69,
+  name: 'people_wrestling',
+  wins: 1,
+  losses: 2,
+  elo: 984.750055419844,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ea1761afc0004f98e6a,
+  name: 'turkey',
+  wins: 2,
+  losses: 1,
+  elo: 1015.4853000251486,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ea3761afc0004f98e6b,
+  name: 'running_shoe',
+  wins: 2,
+  losses: 2,
+  elo: 995.7199723094647,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ea7761afc0004f98e6c,
+  name: 'falafel',
+  wins: 1,
+  losses: 7,
+  elo: 915.0816889222582,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eab761afc0004f98e6d,
+  name: 'shaved_ice',
+  wins: 3,
+  losses: 0,
+  elo: 1049.5842407960824,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eac761afc0004f98e6e,
+  name: 'birthday_cake',
+  wins: 3,
+  losses: 2,
+  elo: 1021.050514402008,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eb0761afc0004f98e6f,
+  name: 'crying_cat',
+  wins: 3,
+  losses: 2,
+  elo: 1014.5919689555079,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ebe761afc0004f98e70,
+  name: 'breast-feeding',
+  wins: 1,
+  losses: 2,
+  elo: 982.6530184800167,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ec3761afc0004f98e71,
+  name: 'timer_clock',
+  wins: 0,
+  losses: 2,
+  elo: 965.6038058964738,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ec6761afc0004f98e72,
+  name: 'smiling_face_with_horns',
+  wins: 0,
+  losses: 4,
+  elo: 935.0925009716328,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ec8761afc0004f98e73,
+  name: 'avocado',
+  wins: 3,
+  losses: 1,
+  elo: 1032.1681808041428,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ec8761afc0004f98e74,
+  name: 't-shirt',
+  wins: 1,
+  losses: 2,
+  elo: 987.8961610816048,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ecc761afc0004f98e75,
+  name: 'balloon',
+  wins: 3,
+  losses: 1,
+  elo: 1038.2933767821744,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ecc761afc0004f98e76,
+  name: 'man_with_Chinese_cap',
+  wins: 1,
+  losses: 4,
+  elo: 953.5238162231269,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ecf761afc0004f98e77,
+  name: 'butter',
+  wins: 4,
+  losses: 0,
+  elo: 1070.7824977580142,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ecf761afc0004f98e78,
+  name: 'bust_in_silhouette',
+  wins: 0,
+  losses: 4,
+  elo: 945.1325782344803,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ed0761afc0004f98e79,
+  name: 'ATM_sign',
+  wins: 2,
+  losses: 3,
+  elo: 984.0194097538234,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ed8761afc0004f98e7a,
+  name: 'angry_face_with_horns',
+  wins: 5,
+  losses: 1,
+  elo: 1068.4137884477145,
+  __v: 0
+}, 
+{
+  _id: 5f6d3edb761afc0004f98e7b,
+  name: 'microbe',
+  wins: 1,
+  losses: 4,
+  elo: 955.6076632765635,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ede761afc0004f98e7c,
+  name: 'straight_ruler',
+  wins: 0,
+  losses: 5,
+  elo: 927.732427252039,
+  __v: 0
+}, 
+{
+  _id: 5f6d3edf761afc0004f98e7d,
+  name: 'passenger_ship',
+  wins: 1,
+  losses: 3,
+  elo: 968.6245770449798,
+  __v: 0
+}, 
+{
+  _id: 5f6d3edf761afc0004f98e7e,
+  name: 'backhand_index_pointing_down',
+  wins: 1,
+  losses: 5,
+  elo: 937.1837213923844,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ee1761afc0004f98e7f,
+  name: 'speak-no-evil_monkey',
+  wins: 1,
+  losses: 1,
+  elo: 997.927414973539,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ee3761afc0004f98e80,
+  name: 'clapper_board',
+  wins: 0,
+  losses: 1,
+  elo: 982.5015713618898,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ee5761afc0004f98e81,
+  name: 'backhand_index_pointing_up',
+  wins: 1,
+  losses: 2,
+  elo: 983.308355482349,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ee9761afc0004f98e82,
+  name: 'film_projector',
+  wins: 2,
+  losses: 4,
+  elo: 968.6298446712743,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eea761afc0004f98e83,
+  name: 'person_running',
+  wins: 3,
+  losses: 2,
+  elo: 1017.3814394175787,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eec761afc0004f98e84,
+  name: 'firecracker',
+  wins: 2,
+  losses: 2,
+  elo: 999.2352313698626,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eed761afc0004f98e85,
+  name: 'brain',
+  wins: 3,
+  losses: 2,
+  elo: 1010.9220391636889,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eee761afc0004f98e86,
+  name: 'cat_with_tears_of_joy',
+  wins: 4,
+  losses: 0,
+  elo: 1069.7954659948973,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eee761afc0004f98e87,
+  name: 'pinching_hand',
+  wins: 3,
+  losses: 1,
+  elo: 1035.2410061264457,
+  __v: 0
+}, 
+{
+  _id: 5f6d3eef761afc0004f98e88,
+  name: 'womans_clothes',
+  wins: 0,
+  losses: 6,
+  elo: 915.9153073318682,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef2761afc0004f98e89,
+  name: 'oil_drum',
+  wins: 2,
+  losses: 2,
+  elo: 993.6163062056797,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef3761afc0004f98e8a,
+  name: 'smiling_cat_with_heart-eyes',
+  wins: 3,
+  losses: 3,
+  elo: 993.3060919703685,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef3761afc0004f98e8b,
+  name: 'puzzle_piece',
+  wins: 1,
+  losses: 5,
+  elo: 938.9357063620886,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef6761afc0004f98e8c,
+  name: 'bullet_train',
+  wins: 2,
+  losses: 2,
+  elo: 1000.5945569043665,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef8761afc0004f98e8d,
+  name: 'beer_mug',
+  wins: 1,
+  losses: 1,
+  elo: 997.2791780088869,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef8761afc0004f98e8e,
+  name: 'hole',
+  wins: 1,
+  losses: 3,
+  elo: 972.5391379952299,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ef9761afc0004f98e8f,
+  name: 'curling_stone',
+  wins: 2,
+  losses: 3,
+  elo: 986.8208275069907,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f02761afc0004f98e90,
+  name: 'man_office_worker',
+  wins: 0,
+  losses: 5,
+  elo: 926.3342295324098,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f06761afc0004f98e91,
+  name: 'pine_decoration',
+  wins: 3,
+  losses: 3,
+  elo: 1001.1682065247685,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f0c761afc0004f98e92,
+  name: 'grimacing_face',
+  wins: 3,
+  losses: 1,
+  elo: 1032.78864855792,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f0e761afc0004f98e93,
+  name: 'kissing_face_with_smiling_eyes',
+  wins: 3,
+  losses: 4,
+  elo: 971.1910071293528,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f15761afc0004f98e94,
+  name: 'e-mail',
+  wins: 2,
+  losses: 2,
+  elo: 999.0242897344925,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f18761afc0004f98e95,
+  name: 'face_with_steam_from_nose',
+  wins: 3,
+  losses: 1,
+  elo: 1030.402713029586,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f19761afc0004f98e96,
+  name: 'sunglasses',
+  wins: 1,
+  losses: 2,
+  elo: 983.0236169595881,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f1a761afc0004f98e97,
+  name: 'yen_banknote',
+  wins: 0,
+  losses: 3,
+  elo: 955.5282309472833,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f1e761afc0004f98e98,
+  name: 'yo-yo',
+  wins: 2,
+  losses: 1,
+  elo: 1020.0274234794148,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f41761afc0004f98e99,
+  name: 'baby_symbol',
+  wins: 2,
+  losses: 6,
+  elo: 935.7981363285792,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f43761afc0004f98e9a,
+  name: '1st_place_medal',
+  wins: 2,
+  losses: 2,
+  elo: 1003.0641162227928,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f46761afc0004f98e9b,
+  name: 'bone',
+  wins: 0,
+  losses: 3,
+  elo: 955.444554856119,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f4d761afc0004f98e9c,
+  name: 'lotion_bottle',
+  wins: 2,
+  losses: 5,
+  elo: 951.0754036770984,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f4d761afc0004f98e9d,
+  name: 'soccer_ball',
+  wins: 1,
+  losses: 4,
+  elo: 957.3063526670435,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f55761afc0004f98e9e,
+  name: 'red_circle',
+  wins: 1,
+  losses: 2,
+  elo: 981.1383588258204,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f6f761afc0004f98e9f,
+  name: 'chopsticks',
+  wins: 3,
+  losses: 2,
+  elo: 1013.4977895632084,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f74761afc0004f98ea0,
+  name: 'postbox',
+  wins: 4,
+  losses: 4,
+  elo: 997.8343086766731,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f79761afc0004f98ea1,
+  name: 'owl',
+  wins: 5,
+  losses: 0,
+  elo: 1090.061253305703,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f7c761afc0004f98ea2,
+  name: 'tomato',
+  wins: 1,
+  losses: 2,
+  elo: 986.0644727667179,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f82761afc0004f98ea3,
+  name: 'parachute',
+  wins: 3,
+  losses: 0,
+  elo: 1054.1136067649156,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f8e761afc0004f98ea4,
+  name: 'bow_and_arrow',
+  wins: 2,
+  losses: 1,
+  elo: 1015.9329242518011,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f8e761afc0004f98ea5,
+  name: 'toolbox',
+  wins: 0,
+  losses: 5,
+  elo: 927.1650410382024,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f99761afc0004f98ea6,
+  name: 'cricket_game',
+  wins: 1,
+  losses: 1,
+  elo: 999.9971767038651,
+  __v: 0
+}, 
+{
+  _id: 5f6d3f9c761afc0004f98ea7,
+  name: 'triangular_ruler',
+  wins: 5,
+  losses: 3,
+  elo: 1027.4769412399949,
+  __v: 0
+}, 
+{
+  _id: 5f6d3fa9761afc0004f98ea8,
+  name: 'squinting_face_with_tongue',
+  wins: 0,
+  losses: 3,
+  elo: 956.4922540970811,
+  __v: 0
+}, 
+{
+  _id: 5f6d3faa761afc0004f98ea9,
+  name: 'spider_web',
+  wins: 1,
+  losses: 1,
+  elo: 999.9293941949229,
+  __v: 0
+}, 
+{
+  _id: 5f6d3fae761afc0004f98eaa,
+  name: 'full_moon_face',
+  wins: 3,
+  losses: 0,
+  elo: 1050.5136157686998,
+  __v: 0
+}, 
+{
+  _id: 5f6d3fd5761afc0004f98eab,
+  name: 'Firefighter',
+  wins: 1,
+  losses: 2,
+  elo: 985.5228641733669,
+  __v: 0
+}, 
+{
+  _id: 5f6d3fe1761afc0004f98eac,
+  name: 'pretzel',
+  wins: 4,
+  losses: 3,
+  elo: 1011.5675779225528,
+  __v: 0
+}, 
+{
+  _id: 5f6d3ffa761afc0004f98ead,
+  name: 'cowboy_hat_face',
+  wins: 4,
+  losses: 0,
+  elo: 1070.0145762686625,
+  __v: 0
+}, 
+{
+  _id: 5f6d3fff761afc0004f98eae,
+  name: 'foot',
+  wins: 3,
+  losses: 3,
+  elo: 1002.4881568744788,
+  __v: 0
+}, 
+{
+  _id: 5f6d4013761afc0004f98eaf,
+  name: 'ant',
+  wins: 0,
+  losses: 5,
+  elo: 926.7362057434177,
+  __v: 0
+}, 
+{
+  _id: 5f6d4016761afc0004f98eb0,
+  name: 'baby',
+  wins: 2,
+  losses: 2,
+  elo: 1005.3283263627382,
+  __v: 0
+}, 
+{
+  _id: 5f6d4019761afc0004f98eb1,
+  name: 'Taurus',
+  wins: 0,
+  losses: 3,
+  elo: 955.0223006290612,
+  __v: 0
+}, 
+{
+  _id: 5f6d4089761afc0004f98eb2,
+  name: 'busts_in_silhouette',
+  wins: 0,
+  losses: 3,
+  elo: 955.0226599636046,
+  __v: 0
+}, 
+{
+  _id: 5f6d411b761afc0004f98eb3,
+  name: 'skull_and_crossbones',
+  wins: 3,
+  losses: 1,
+  elo: 1033.0572598503177,
+  __v: 0
+}, 
+{
+  _id: 5f6d4125761afc0004f98eb4,
+  name: 'boar',
+  wins: 2,
+  losses: 0,
+  elo: 1034.2146881215288,
+  __v: 0
+}, 
+{
+  _id: 5f6d4129761afc0004f98eb5,
+  name: 'person_wearing_turban',
+  wins: 1,
+  losses: 1,
+  elo: 1000.04045603687,
+  __v: 0
+}, 
+{
+  _id: 5f6d4129761afc0004f98eb6,
+  name: 'waxing_gibbous_moon',
+  wins: 1,
+  losses: 1,
+  elo: 999.4293853613573,
+  __v: 0
+}, 
+{
+  _id: 5f6d412d761afc0004f98eb7,
+  name: 'Virgo',
+  wins: 0,
+  losses: 3,
+  elo: 955.7154656644476,
+  __v: 0
+}, 
+{
+  _id: 5f6d412e761afc0004f98eb8,
+  name: 'coat',
+  wins: 1,
+  losses: 2,
+  elo: 981.0589798636846,
+  __v: 0
+}, 
+{
+  _id: 5f6d412f761afc0004f98eb9,
+  name: 'guitar',
+  wins: 0,
+  losses: 4,
+  elo: 937.6710223200288,
+  __v: 0
+}, 
+{
+  _id: 5f6d425b761afc0004f98eba,
+  name: 'shower',
+  wins: 3,
+  losses: 1,
+  elo: 1030.4263245406212,
+  __v: 0
+}, 
+{
+  _id: 5f6d4260761afc0004f98ebb,
+  name: 'aerial_tramway',
+  wins: 3,
+  losses: 1,
+  elo: 1035.9816982904006,
+  __v: 0
+}, 
+{
+  _id: 5f6d426f761afc0004f98ebc,
+  name: 'chipmunk',
+  wins: 4,
+  losses: 3,
+  elo: 1021.6565029857079,
+  __v: 0
+}, 
+{
+  _id: 5f6d427a761afc0004f98ebd,
+  name: 'dove',
+  wins: 4,
+  losses: 4,
+  elo: 996.7246438411595,
+  __v: 0
+}, 
+{
+  _id: 5f6d4281761afc0004f98ebe,
+  name: 'thumbs_up',
+  wins: 3,
+  losses: 2,
+  elo: 1017.7233903196917,
+  __v: 0
+}, 
+{
+  _id: 5f6d42d1761afc0004f98ebf,
+  name: 'cricket',
+  wins: 4,
+  losses: 2,
+  elo: 1038.9080247711945,
+  __v: 0
+}, 
+{
+  _id: 5f6d42d8761afc0004f98ec0,
+  name: 'stop_sign',
+  wins: 1,
+  losses: 4,
+  elo: 952.2888912140653,
+  __v: 0
+}, 
+{
+  _id: 5f6d42e5761afc0004f98ec1,
+  name: 'person_getting_haircut',
+  wins: 0,
+  losses: 2,
+  elo: 968.7534007894868,
+  __v: 0
+}, 
+{
+  _id: 5f6d43da761afc0004f98ec2,
+  name: 'bridge_at_night',
+  wins: 0,
+  losses: 2,
+  elo: 968.6365633692144,
+  __v: 0
+}, 
+{
+  _id: 5f6d43df761afc0004f98ec3,
+  name: 'artist_palette',
+  wins: 1,
+  losses: 3,
+  elo: 970.6098314564435,
+  __v: 0
+}, 
+{
+  _id: 5f6d43e1761afc0004f98ec4,
+  name: 'no_smoking',
+  wins: 3,
+  losses: 4,
+  elo: 985.0741355096125,
+  __v: 0
+}, 
+{
+  _id: 5f6d43e3761afc0004f98ec5,
+  name: 'kaaba',
+  wins: 3,
+  losses: 1,
+  elo: 1033.4163526418515,
+  __v: 0
+}, 
+{
+  _id: 5f6d43eb761afc0004f98ec6,
+  name: 'winking_face',
+  wins: 1,
+  losses: 2,
+  elo: 983.0919755811217,
+  __v: 0
+}, 
+{
+  _id: 5f6d43ff761afc0004f98ec7,
+  name: 'curly_hair',
+  wins: 1,
+  losses: 1,
+  elo: 999.2708084300436,
+  __v: 0
+}, 
+{
+  _id: 5f6d4409761afc0004f98ec8,
+  name: 'snake',
+  wins: 3,
+  losses: 1,
+  elo: 1030.3151941245599,
+  __v: 0
+}, 
+{
+  _id: 5f6d440b761afc0004f98ec9,
+  name: 'one-piece_swimsuit',
+  wins: 0,
+  losses: 2,
+  elo: 969.1700934877595,
+  __v: 0
+}, 
+{
+  _id: 5f6d442c761afc0004f98eca,
+  name: 'kissing_face_with_closed_eyes',
+  wins: 2,
+  losses: 1,
+  elo: 1013.4136045569085,
+  __v: 0
+}, 
+{
+  _id: 5f6d442c761afc0004f98ecb,
+  name: 'money_with_wings',
+  wins: 0,
+  losses: 2,
+  elo: 968.7425896700908,
+  __v: 0
+}, 
+{
+  _id: 5f6d442f761afc0004f98ecc,
+  name: 'bald',
+  wins: 2,
+  losses: 3,
+  elo: 984.0952493706626,
+  __v: 0
+}, 
+{
+  _id: 5f6d4557761afc0004f98ecd,
+  name: 'sun_with_face',
+  wins: 1,
+  losses: 1,
+  elo: 999.3313693436166,
+  __v: 0
+}, 
+{
+  _id: 5f6d46a5761afc0004f98ece,
+  name: 'eye',
+  wins: 3,
+  losses: 1,
+  elo: 1032.4436622430435,
+  __v: 0
+}, 
+{
+  _id: 5f6d46ae761afc0004f98ecf,
+  name: 'level_slider',
+  wins: 0,
+  losses: 2,
+  elo: 970.792573294239,
+  __v: 0
+}, 
+{
+  _id: 5f6d46b3761afc0004f98ed0,
+  name: 'no_pedestrians',
+  wins: 1,
+  losses: 4,
+  elo: 949.5999896926894,
+  __v: 0
+}, 
+{
+  _id: 5f6d46b5761afc0004f98ed1,
+  name: 'scorpion',
+  wins: 3,
+  losses: 3,
+  elo: 992.1669338853385,
+  __v: 0
+}, 
+{
+  _id: 5f6d46b7761afc0004f98ed2,
+  name: 'speaking_head',
+  wins: 0,
+  losses: 1,
+  elo: 983.263693206478,
+  __v: 0
+}, 
+{
+  _id: 5f6d46b8761afc0004f98ed3,
+  name: 'gloves',
+  wins: 2,
+  losses: 0,
+  elo: 1031.1461287133018,
+  __v: 0
+}, 
+{
+  _id: 5f6d46ba761afc0004f98ed4,
+  name: 'crystal_ball',
+  wins: 3,
+  losses: 1,
+  elo: 1034.080008085059,
+  __v: 0
+}, 
+{
+  _id: 5f6d46bd761afc0004f98ed5,
+  name: 'airplane_arrival',
+  wins: 1,
+  losses: 1,
+  elo: 1002.370477906019,
+  __v: 0
+}, 
+{
+  _id: 5f6d46d6761afc0004f98ed6,
+  name: 'woman_farmer',
+  wins: 1,
+  losses: 4,
+  elo: 953.0859920952347,
+  __v: 0
+}, 
+{
+  _id: 5f6d46e1761afc0004f98ed7,
+  name: 'Ophiuchus',
+  wins: 0,
+  losses: 4,
+  elo: 938.1280090583592,
+  __v: 0
+}, 
+{
+  _id: 5f6d46e3761afc0004f98ed8,
+  name: 'ferry',
+  wins: 3,
+  losses: 3,
+  elo: 1000.1075738615476,
+  __v: 0
+}, 
+{
+  _id: 5f6d46ed761afc0004f98ed9,
+  name: 'rabbit',
+  wins: 3,
+  losses: 0,
+  elo: 1047.6921262442518,
+  __v: 0
+}, 
+{
+  _id: 5f6d46ee761afc0004f98eda,
+  name: 'warning',
+  wins: 1,
+  losses: 1,
+  elo: 1004.5104557956481,
+  __v: 0
+}, 
+{
+  _id: 5f6d46f4761afc0004f98edb,
+  name: 'face_with_head-bandage',
+  wins: 1,
+  losses: 2,
+  elo: 987.1661611721565,
+  __v: 0
+}, 
+{
+  _id: 5f6d46fb761afc0004f98edc,
+  name: 'newspaper',
+  wins: 2,
+  losses: 3,
+  elo: 977.4163769625654,
+  __v: 0
+}, 
+{
+  _id: 5f6d4703761afc0004f98edd,
+  name: 'cityscape',
+  wins: 3,
+  losses: 4,
+  elo: 983.1380345896497,
+  __v: 0
+}, 
+{
+  _id: 5f6d4705761afc0004f98ede,
+  name: 'roller_coaster',
+  wins: 2,
+  losses: 3,
+  elo: 980.3764407745334,
+  __v: 0
+}, 
+{
+  _id: 5f6d4707761afc0004f98edf,
+  name: 'broken_heart',
+  wins: 2,
+  losses: 1,
+  elo: 1012.8427466325667,
+  __v: 0
+}, 
+{
+  _id: 5f6d470b761afc0004f98ee0,
+  name: 'balance_scale',
+  wins: 1,
+  losses: 1,
+  elo: 997.7329697655294,
+  __v: 0
+}, 
+{
+  _id: 5f6d470d761afc0004f98ee1,
+  name: 'woman_dancing',
+  wins: 5,
+  losses: 1,
+  elo: 1069.0394504998292,
+  __v: 0
+}, 
+{
+  _id: 5f6d4715761afc0004f98ee2,
+  name: 'pick',
+  wins: 2,
+  losses: 0,
+  elo: 1032.0382892986183,
+  __v: 0
+}, 
+{
+  _id: 5f6d471a761afc0004f98ee3,
+  name: 'dog_face',
+  wins: 4,
+  losses: 0,
+  elo: 1066.7954711277437,
+  __v: 0
+}, 
+{
+  _id: 5f6d4723761afc0004f98ee4,
+  name: 'billed_cap',
+  wins: 5,
+  losses: 1,
+  elo: 1067.2948543501482,
+  __v: 0
+}, 
+{
+  _id: 5f6d4729761afc0004f98ee5,
+  name: 'musical_keyboard',
+  wins: 1,
+  losses: 1,
+  elo: 997.7941170964108,
+  __v: 0
+}, 
+{
+  _id: 5f6d472d761afc0004f98ee6,
+  name: 'womans_boot',
+  wins: 1,
+  losses: 1,
+  elo: 997.0096371366988,
+  __v: 0
+}, 
+{
+  _id: 5f6d483b761afc0004f98ee7,
+  name: 'hindu_temple',
+  wins: 2,
+  losses: 1,
+  elo: 1013.1840008063039,
+  __v: 0
+}, 
+{
+  _id: 5f6d483c761afc0004f98ee8,
+  name: 'crying_face',
+  wins: 2,
+  losses: 1,
+  elo: 1014.6591659112963,
+  __v: 0
+}, 
+{
+  _id: 5f6d4869761afc0004f98ee9,
+  name: 'winking_face_with_tongue',
+  wins: 1,
+  losses: 0,
+  elo: 1014.4953351773468,
+  __v: 0
+}, 
+{
+  _id: 5f6d4875761afc0004f98eea,
+  name: 'chart_increasing',
+  wins: 3,
+  losses: 0,
+  elo: 1055.1658461102852,
+  __v: 0
+}, 
+{
+  _id: 5f6d4876761afc0004f98eeb,
+  name: 'woman_health_worker',
+  wins: 0,
+  losses: 4,
+  elo: 943.0169629726665,
+  __v: 0
+}, 
+{
+  _id: 5f6d487b761afc0004f98eec,
+  name: 'sunrise',
+  wins: 0,
+  losses: 2,
+  elo: 969.6419666108768,
+  __v: 0
+}, 
+{
+  _id: 5f6d4889761afc0004f98eed,
+  name: 'dvd',
+  wins: 2,
+  losses: 3,
+  elo: 983.5238095560634,
+  __v: 0
+}, 
+{
+  _id: 5f6d488c761afc0004f98eee,
+  name: 'blowfish',
+  wins: 2,
+  losses: 1,
+  elo: 1017.7364580903327,
+  __v: 0
+}, 
+{
+  _id: 5f6d48a1761afc0004f98eef,
+  name: 'kangaroo',
+  wins: 1,
+  losses: 1,
+  elo: 996.3216862566437,
+  __v: 0
+}, 
+{
+  _id: 5f6d48d0761afc0004f98ef0,
+  name: 'detective',
+  wins: 5,
+  losses: 0,
+  elo: 1090.0107740549145,
+  __v: 0
+}, 
+{
+  _id: 5f6d48fb761afc0004f98ef1,
+  name: 'zebra',
+  wins: 2,
+  losses: 5,
+  elo: 952.8963904517176,
+  __v: 0
+}, 
+{
+  _id: 5f6d48fd761afc0004f98ef2,
+  name: 'clinking_glasses',
+  wins: 1,
+  losses: 3,
+  elo: 974.6384619204699,
+  __v: 0
+}, 
+{
+  _id: 5f6d4906761afc0004f98ef3,
+  name: 'minibus',
+  wins: 1,
+  losses: 2,
+  elo: 984.0226597706701,
+  __v: 0
+}, 
+{
+  _id: 5f6d4916761afc0004f98ef4,
+  name: 'open_hands',
+  wins: 0,
+  losses: 1,
+  elo: 984.731635790102,
+  __v: 0
+}, 
+{
+  _id: 5f6d492d761afc0004f98ef5,
+  name: 'face_with_monocle',
+  wins: 1,
+  losses: 2,
+  elo: 984.6622136844691,
+  __v: 0
+}, 
+{
+  _id: 5f6d4933761afc0004f98ef6,
+  name: 'couple_with_heart',
+  wins: 0,
+  losses: 4,
+  elo: 938.8158045407007,
+  __v: 0
+}, 
+{
+  _id: 5f6d493a761afc0004f98ef7,
+  name: 'water_wave',
+  wins: 3,
+  losses: 0,
+  elo: 1051.8055228805488,
+  __v: 0
+}, 
+{
+  _id: 5f6d4943761afc0004f98ef8,
+  name: 'mango',
+  wins: 1,
+  losses: 0,
+  elo: 1016.8064683813561,
+  __v: 0
+}, 
+{
+  _id: 5f6d4976761afc0004f98ef9,
+  name: 'helicopter',
+  wins: 2,
+  losses: 3,
+  elo: 984.8241987719618,
+  __v: 0
+}, 
+{
+  _id: 5f6d4977761afc0004f98efa,
+  name: 'person_playing_water_polo',
+  wins: 1,
+  losses: 2,
+  elo: 981.6545194601722,
+  __v: 0
+}, 
+{
+  _id: 5f6d497d761afc0004f98efb,
+  name: 'top_hat',
+  wins: 3,
+  losses: 3,
+  elo: 996.7474653707528,
+  __v: 0
+}, 
+{
+  _id: 5f6d4986761afc0004f98efc,
+  name: 'synagogue',
+  wins: 0,
+  losses: 2,
+  elo: 967.9138984169084,
+  __v: 0
+}, 
+{
+  _id: 5f6d49a0761afc0004f98efd,
+  name: 'construction_worker',
+  wins: 1,
+  losses: 3,
+  elo: 975.184887801969,
+  __v: 0
+}, 
+{
+  _id: 5f6d49ac761afc0004f98efe,
+  name: 'airplane_departure',
+  wins: 5,
+  losses: 0,
+  elo: 1087.1240600463816,
+  __v: 0
+}, 
+{
+  _id: 5f6d49b0761afc0004f98eff,
+  name: 'game_die',
+  wins: 1,
+  losses: 2,
+  elo: 984.7147704312417,
+  __v: 0
+}, 
+{
+  _id: 5f6d49b7761afc0004f98f00,
+  name: 'cigarette',
+  wins: 2,
+  losses: 2,
+  elo: 999.085061633084,
+  __v: 0
+}, 
+{
+  _id: 5f6d49bb761afc0004f98f01,
+  name: 'person_golfing',
+  wins: 1,
+  losses: 2,
+  elo: 981.7000327857679,
+  __v: 0
+}, 
+{
+  _id: 5f6d49de761afc0004f98f02,
+  name: 'spoon',
+  wins: 1,
+  losses: 3,
+  elo: 977.7421933339443,
+  __v: 0
+}, 
+{
+  _id: 5f6d49ec761afc0004f98f03,
+  name: 'woozy_face',
+  wins: 1,
+  losses: 1,
+  elo: 1000.7729441897288,
+  __v: 0
+}, 
+{
+  _id: 5f6d49ec761afc0004f98f04,
+  name: 'waffle',
+  wins: 2,
+  losses: 4,
+  elo: 971.1886058612918,
+  __v: 0
+}, 
+{
+  _id: 5f6d49f5761afc0004f98f05,
+  name: 'euro_banknote',
+  wins: 1,
+  losses: 0,
+  elo: 1018.7537459906947,
+  __v: 0
+}, 
+{
+  _id: 5f6d49f5761afc0004f98f06,
+  name: 'fish',
+  wins: 3,
+  losses: 1,
+  elo: 1031.4408382753581,
+  __v: 0
+}, 
+{
+  _id: 5f6d49f6761afc0004f98f07,
+  name: 'crossed_fingers',
+  wins: 3,
+  losses: 3,
+  elo: 1000.2274888918394,
+  __v: 0
+}, 
+{
+  _id: 5f6d49fc761afc0004f98f08,
+  name: 'elephant',
+  wins: 3,
+  losses: 1,
+  elo: 1031.9499916929992,
+  __v: 0
+}, 
+{
+  _id: 5f6d49fe761afc0004f98f09,
+  name: 'first_quarter_moon',
+  wins: 4,
+  losses: 1,
+  elo: 1050.2640781384948,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a00761afc0004f98f0a,
+  name: 'tropical_drink',
+  wins: 1,
+  losses: 3,
+  elo: 970.8469961419131,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a18761afc0004f98f0b,
+  name: 'trumpet',
+  wins: 1,
+  losses: 2,
+  elo: 988.5633100315184,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a1d761afc0004f98f0c,
+  name: 'abacus',
+  wins: 0,
+  losses: 2,
+  elo: 971.9429770202265,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a23761afc0004f98f0d,
+  name: 'red_hair',
+  wins: 2,
+  losses: 0,
+  elo: 1032,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a29761afc0004f98f0e,
+  name: 'person_facepalming',
+  wins: 0,
+  losses: 2,
+  elo: 968.0853165601262,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a2e761afc0004f98f0f,
+  name: 'hammer_and_wrench',
+  wins: 2,
+  losses: 0,
+  elo: 1034.2996475678597,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a31761afc0004f98f10,
+  name: 'man_firefighter',
+  wins: 0,
+  losses: 4,
+  elo: 943.8101583899969,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a34761afc0004f98f11,
+  name: 'genie',
+  wins: 2,
+  losses: 1,
+  elo: 1016.0267873406826,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a34761afc0004f98f12,
+  name: 'coffee',
+  wins: 2,
+  losses: 1,
+  elo: 1016.1108108012472,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a38761afc0004f98f13,
+  name: 'star_and_crescent',
+  wins: 1,
+  losses: 1,
+  elo: 997.6701229945115,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a40761afc0004f98f14,
+  name: 'smirking_face',
+  wins: 2,
+  losses: 0,
+  elo: 1033.2458515051126,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a45761afc0004f98f15,
+  name: 'face_without_mouth',
+  wins: 2,
+  losses: 2,
+  elo: 1003.9560287649682,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a46761afc0004f98f16,
+  name: 'pen',
+  wins: 3,
+  losses: 4,
+  elo: 980.1594335640349,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a49761afc0004f98f17,
+  name: 'face_with_raised_eyebrow',
+  wins: 1,
+  losses: 2,
+  elo: 983.266486986942,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a66761afc0004f98f18,
+  name: 'leaf_fluttering_in_wind',
+  wins: 1,
+  losses: 1,
+  elo: 1000.9467255906211,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a69761afc0004f98f19,
+  name: 'face_vomiting',
+  wins: 6,
+  losses: 1,
+  elo: 1083.0764226050107,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a94761afc0004f98f1a,
+  name: 'joker',
+  wins: 0,
+  losses: 5,
+  elo: 926.825778619404,
+  __v: 0
+}, 
+{
+  _id: 5f6d4a9c761afc0004f98f1b,
+  name: 'pile_of_poo',
+  wins: 2,
+  losses: 0,
+  elo: 1035.8470460910564,
+  __v: 0
+}, 
+{
+  _id: 5f6d4ab4761afc0004f98f1c,
+  name: 'jeans',
+  wins: 1,
+  losses: 1,
+  elo: 1000.6066465225845,
+  __v: 0
+}, 
+{
+  _id: 5f6d4ace761afc0004f98f1d,
+  name: 'white_flower',
+  wins: 0,
+  losses: 2,
+  elo: 968.065804605581,
+  __v: 0
+}, 
+{
+  _id: 5f6d4b22761afc0004f98f1e,
+  name: 'police_car_light',
+  wins: 0,
+  losses: 2,
+  elo: 966.692621243653,
+  __v: 0
+}, 
+{
+  _id: 5f6d4b5d761afc0004f98f1f,
+  name: 'floppy_disk',
+  wins: 1,
+  losses: 0,
+  elo: 1015.2990913512833,
+  __v: 0
+}, 
+{
+  _id: 5f6d4b6d761afc0004f98f20,
+  name: 'face_savoring_food',
+  wins: 2,
+  losses: 1,
+  elo: 1014.3581459519663,
+  __v: 0
+}, 
+{
+  _id: 5f6d4b6f761afc0004f98f21,
+  name: 'hamster',
+  wins: 2,
+  losses: 1,
+  elo: 1018.0186420548564,
+  __v: 0
+}, 
+{
+  _id: 5f6d4bc8761afc0004f98f22,
+  name: 'tent',
+  wins: 1,
+  losses: 2,
+  elo: 980.9889942291109,
+  __v: 0
+}, 
+{
+  _id: 5f6d4be7761afc0004f98f23,
+  name: 'package',
+  wins: 1,
+  losses: 2,
+  elo: 982.6513939214755,
+  __v: 0
+}, 
+{
+  _id: 5f6d4bee761afc0004f98f24,
+  name: 'atom_symbol',
+  wins: 1,
+  losses: 1,
+  elo: 1001.3771883269691,
+  __v: 0
+}, 
+{
+  _id: 5f6d4bf5761afc0004f98f25,
+  name: 'shrimp',
+  wins: 1,
+  losses: 0,
+  elo: 1015.4407788787147,
+  __v: 0
+}, 
+{
+  _id: 5f6d4bfc761afc0004f98f26,
+  name: 'wheelchair_symbol',
+  wins: 1,
+  losses: 0,
+  elo: 1015.290262718177,
+  __v: 0
+}, 
+{
+  _id: 5f6d4c5a761afc0004f98f27,
+  name: 'ticket',
+  wins: 1,
+  losses: 1,
+  elo: 1000.8973892121536,
+  __v: 0
+}, 
+{
+  _id: 5f6d4c87761afc0004f98f28,
+  name: 'womans_sandal',
+  wins: 0,
+  losses: 2,
+  elo: 967.9773175800566,
+  __v: 0
+}, 
+{
+  _id: 5f6d4c8d761afc0004f98f29,
+  name: 'bird',
+  wins: 0,
+  losses: 1,
+  elo: 984.0450612144537,
+  __v: 0
+}, 
+{
+  _id: 5f6d4cad761afc0004f98f2a,
+  name: 'teddy_bear',
+  wins: 0,
+  losses: 1,
+  elo: 986.4337029712634,
+  __v: 0
+}, 
+{
+  _id: 5f6d4ced761afc0004f98f2b,
+  name: 'waning_crescent_moon',
+  wins: 0,
+  losses: 2,
+  elo: 968.6252709412898,
+  __v: 0
+}, 
