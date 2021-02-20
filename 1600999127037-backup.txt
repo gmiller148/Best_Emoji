@@ -4878,7 +4878,7 @@
   elo: 904.8150393416938,
   __v: 0
 }, 
-{
+{ 
   _id: 5f6d34d6761afc0004f98d9a,
   name: 'ringed_planet',
   wins: 9,

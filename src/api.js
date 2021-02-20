@@ -131,15 +131,15 @@ router.get('/total-votes', (req, res) => {
 });
 
 
-// router.get('/save-info', (req, res) => {
-//   Emoji.find({}).then(results => {
-//     var file = fs.createWriteStream(`${Date.now()}-backup.txt`);
-//     file.on('error', function (err) { res.send({'error':'Failed to save'}) });
-//     results.forEach(function (v) { file.write(v.toString() + ', \n')});
-//     file.end();
-//     res.send({});
-//   });
-// });
+router.get('/save-info', (req, res) => {
+  Emoji.find({}).then(results => {
+    var file = fs.createWriteStream(`${Date.now()}-backup.txt`);
+    file.on('error', function (err) { res.send({'error':'Failed to save'}) });
+    results.forEach(function (v) { file.write(v.toString() + ', \n')});
+    file.end();
+    res.send({});
+  });
+});
 
 
 
