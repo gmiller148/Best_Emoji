@@ -1,12 +1,6 @@
 
 function main() {
   populateEmojiButtons();
-  $("button").on("touchstart", function(){ 
-    $(this).removeClass("mobileHoverFix");
-  });
-  $("button").on("touchend", function(){ 
-    $(this).addClass("mobileHoverFix");
-  });
 }
 
 async function getEmojis() {

@@ -51,7 +51,8 @@ span.emoji {
   color:  #5dc0ee;
 }
 
-.mobileHoverFix:hover,
-.mobileHoverFix.hover{
-    background-position: 0 0px;
+@media (max-width: 1000px) {
+  .btn:hover {
+    background-color: inherit;
+  } 
 }
