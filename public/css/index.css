@@ -50,3 +50,8 @@ span.emoji {
 .github-link:hover{
   color:  #5dc0ee;
 }
+
+.mobileHoverFix:hover,
+.mobileHoverFix.hover{
+    background-position: 0 0px;
+}

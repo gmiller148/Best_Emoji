@@ -1,6 +1,12 @@
 
 function main() {
   populateEmojiButtons();
+  $("button").on("touchstart", function(){ 
+    $(this).removeClass("mobileHoverFix");
+  });
+  $("button").on("touchend", function(){ 
+    $(this).addClass("mobileHoverFix");
+  });
 }
 
 async function getEmojis() {
@@ -37,5 +43,6 @@ async function vote1() {
   });
   populateEmojiButtons();
 }
+
 
 main();
