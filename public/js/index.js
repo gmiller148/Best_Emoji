@@ -39,4 +39,18 @@ async function vote1() {
 }
 
 
+const copyToClipboard = () => {
+  const emoji0 = document.getElementById('emoji0').innerText;
+  const emoji1 = document.getElementById('emoji1').innerText;
+  const el = document.createElement('textarea');
+  el.value = `Which emoji is better, ${emoji0} or ${emoji1}? Vote on other emojis at https://eloji.herokuapp.com`
+  el.setAttribute('readonly', '');
+  el.style.position = 'absolute';
+  el.style.left = '-9999px';
+  document.body.appendChild(el);
+  el.select();
+  document.execCommand('copy');
+  document.body.removeChild(el);
+};
+
 main();

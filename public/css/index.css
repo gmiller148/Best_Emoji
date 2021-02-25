@@ -26,6 +26,10 @@ body {
   top: 50%;
 }
 
+.btn {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
 
 span.emoji {
   font-size: 3em;
@@ -34,11 +38,14 @@ span.emoji {
 
 .details {
   font-size: 0.75em;
-  color: #c3c3c3;
+  position: absolute;
+  color: #8c8c8c;
+  bottom: 0px;
+  right: 0px;
 }
 
 .github-link {
-  color: #c3c3c3;
+  color: #8c8c8c;
   -o-transition:color .5s ease-out;
   -ms-transition:color .5s ease-out;
   -moz-transition:color .5s ease-out;
