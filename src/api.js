@@ -126,6 +126,7 @@ router.get('/total-votes', (req, res) => {
     results.forEach(entry => {
       sum += entry.wins + entry.losses;
     });
+    sum = sum/2;
     res.send({ totalVotes: sum });
   });
 });

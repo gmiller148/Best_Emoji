@@ -1,5 +1,14 @@
 function main() {
+  populateTotalVotes();
   populateTable();
+}
+
+async function populateTotalVotes() {
+  await get('/api/total-votes', {})
+  .then((votes) => {
+    const { totalVotes } = votes;
+    document.getElementById('total-votes').innerHTML = `Rankings based on ${totalVotes} votes:`;
+  });
 }
 
 async function populateTable() {

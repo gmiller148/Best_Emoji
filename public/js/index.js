@@ -16,6 +16,7 @@ async function populateEmojiButtons() {
   emoji1Div.setAttribute('title',emojis[1].key);
   emoji0Div.innerHTML = `<span class='emoji' title=${emojis[0].key}>${emojis[0].emoji}</span>`;
   emoji1Div.innerHTML = `<span class='emoji' title=${emojis[1].key}>${emojis[1].emoji}</span>`;
+  document.getElementById('clipboard-btn').innerHTML = "Copy to Clipboard";
 }
 
 async function vote0() {
@@ -38,6 +39,9 @@ async function vote1() {
   populateEmojiButtons();
 }
 
+const outFunc = () => {
+  document.getElementById('clipboard-btn').innerHTML = "Copy to Clipboard";
+}
 
 const copyToClipboard = () => {
   const emoji0 = document.getElementById('emoji0').innerText;
@@ -51,6 +55,7 @@ const copyToClipboard = () => {
   el.select();
   document.execCommand('copy');
   document.body.removeChild(el);
+  document.getElementById('clipboard-btn').innerHTML = "Copied!";
 };
 
 main();
