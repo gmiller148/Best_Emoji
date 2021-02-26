@@ -62,4 +62,7 @@ span.emoji {
   .btn:hover {
     background-color: inherit;
   } 
+  #clipboard-btn {
+    color:  #0275d8;
+  }
 }
