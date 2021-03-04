@@ -5,12 +5,16 @@ const http = require('http');
 const db = require('./db');
 const api = require('./api');
 const session = require('express-session');
+
 const bodyParser = require('body-parser');
 const _ = require('lodash');
 const helmet = require('helmet');
 
 const app = express();
+// app.use(helmet());
 const server = http.createServer(app);
+
+app.disable('x-powered-by');
 
 // set POST request body parser
 app.use(bodyParser.urlencoded({ extended: false }));
