@@ -7,9 +7,10 @@ const api = require('./api');
 const session = require('express-session');
 const bodyParser = require('body-parser');
 const _ = require('lodash');
-
+const helmet = require('helmet');
 
 const app = express();
+app.use(helmet());
 const server = http.createServer(app);
 
 // set POST request body parser
