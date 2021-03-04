@@ -47,7 +47,7 @@ const copyToClipboard = () => {
   const emoji0 = document.getElementById('emoji0').innerText;
   const emoji1 = document.getElementById('emoji1').innerText;
   const el = document.createElement('textarea');
-  el.value = `Which emoji is better, ${emoji0} or ${emoji1}? Vote on other emojis at https://eloji.herokuapp.com`
+  el.value = `${emoji0} or ${emoji1}, discuss... Vote on other emojis at https://www.eloji.app`;
   el.setAttribute('readonly', '');
   el.style.position = 'absolute';
   el.style.left = '-9999px';
